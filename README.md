@@ -41,12 +41,12 @@
 * [**HyperCube (Tech2C)**](https://www.thingiverse.com/thing:1752766) —
 * [**BLV MGN Cube**](https://www.thingiverse.com/thing:3382718) —
 * [**RatRig V-Core**](https://ratrig.com) —
-* [**HevORT**](https://github.com/Annex-Engineering/HevORT) —
+* [**HevORT**](https://hevort.com/) —
 * [**Annex K3**](https://github.com/Annex-Engineering/K3) —
-* [**VzBot**](https://github.com/VzBoT3D) —
+* [**VzBot**](https://github.com/VzBoT3D) — The VzBoT is a high speed, moderately sized 3d Printer 330x330mm AWD functionality one of the fastest printers out there. Discord: https://discord.gg/KWZWvCMxCq 
 * [**RailCore II**](https://github.com/RailCore/corexy) —
 * [**D-Bot**](https://www.thingiverse.com/thing:1001065) —
-* [**C-Bot**](https://www.thingiverse.com/thing:416089) —
+* [**C-Bot**](https://www.thingiverse.com/thing:500041) — Core XY printer that makes use of open builds V-Slot rails. not to use any linear rod/bearings; used V-slot for all guided motion
 * [**SecKit SK-Go**](https://github.com/seckit/seckit-sk-go) —
 * [**Rook**](https://github.com/Rolohaun/Rook) —
 * [**Rook 2020 MK2**](https://github.com/Rolohaun/Rook-2020) —
