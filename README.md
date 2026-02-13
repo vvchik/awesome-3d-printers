@@ -48,14 +48,15 @@
 * [**D-Bot**](https://www.thingiverse.com/thing:1001065) —
 * [**C-Bot**](https://www.thingiverse.com/thing:500041) — Core XY printer that makes use of open builds V-Slot rails. not to use any linear rod/bearings; used V-slot for all guided motion
 * [**SecKit SK-Go**](https://github.com/seckit/seckit-sk-go) —
-* [**Rook**](https://github.com/Rolohaun/Rook) —
+* [**Rook**](https://www.printables.com/model/387431-rook-mk1-3d-printer) —
 * [**Rook 2020 MK2**](https://github.com/Rolohaun/Rook-2020) —
 * [**Fenrir**](https://github.com/MakerViking/Fenrir) —
-* [**THE100**](https://github.com/mszturc/THE100) —
-* [**T250**](https://github.com/mszturc/T250) —
-* [**Mercury One (ZeroG)**](https://github.com/ZeroGDesign/MercuryOne.1) —
+* [**THE100**](https://github.com/mszturc/THE100) — 165x165x150mm Printed frame,  fastest one that uses a 3d printed frame
+* [**T250**](https://github.com/mszturc/T250) — 192 × 212 × 175 mm Prints a Speedboat in under 2 minutes
+* [**Mercury One (ZeroG)**](https://github.com/ZeroGDesign/MercuryOne) —
 
 ---
+447424225073
 
 ## ➿ H-Bot
 
@@ -104,13 +105,11 @@
 * [**Lemontron**](https://github.com/lebrouk/Lemontron) —
 * [**Duender**](https://www.printables.com) —
 * [**Ender-3 NG**](https://github.com/RH3D/Ender-3-NG) —
-* [**THE 100**](https://github.com/mszturc/THE100) —
-* [**T250**](https://github.com/mszturc/T250) —
-* [**VzBot**](https://github.com/VzBoT3D) —
+
 * [**Micron**](https://github.com/printerforants/Micron) —
 * [**SaladFork**](https://github.com/printerforants/SaladFork) —
-* [**Double Dragon**](https://github.com/th3dstudio/doubledragon) —
-* [**Dueling Zero**](https://github.com/zerogdesign/DuelingZero) —
+* [**Double Dragon**](https://github.com/zruncho3d/double-dragon) — Idex
+* [**Dueling Zero**](https://github.com/zruncho3d/DuelingZero) — Idex gantry
 * [**Valkyrie**](https://github.com/Viking3D/Valkyrie) —
 * [**Rook**](https://github.com/Rolohaun/Rook) —
 * [**Fenrir CoreXY**](https://github.com/MakerViking/Fenrir) —
