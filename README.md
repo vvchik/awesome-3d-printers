@@ -1,10 +1,10 @@
-# 📚 Awesome DIY FDM / FFF 3D Printers
+# 📚 Awesome 3D Printers
 
 *(Open-source & community-driven — sorted by kinematics)*
 
 ## 📑 Contents
 
-- [📚 Awesome DIY FDM / FFF 3D Printers](#-awesome-diy-fdm--fff-3d-printers)
+- [📚 Awesome 3D Printers](#-awesome-3d-printers)
   - [📑 Contents](#-contents)
   - [🧱 Cartesian / Cube / Box-frame](#-cartesian--cube--box-frame)
   - [⚙️ CoreXY](#️-corexy)
