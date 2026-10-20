@@ -42,6 +42,7 @@ A few different reasons to choose a first project; these point to the full catal
 - **Try a delta:** [Delta Flyer](#delta-flyer) pairs a small delta with a build manual.
 - **Small, approachable build:** [Kappy](#kappy) is a beginner-oriented bedslinger with a creator-supplied manual and BOM.
 - **Large format with IDEX:** [Rat Rig V-Core 4.1](#ratrig-v-core-4-1) offers 300–500 mm sizes, with Hybrid and IDEX upgrades; the kit is also available.
+- **Modular tool changer:** [Jubilee](#jubilee) is an extensible multi-tool platform with source CAD and a project wiki.
 - **Fast Cartesian build:** [LH Stinger](#lh-stinger) offers a performance-focused moving-bed layout with published CAD and a wiki.
 - **Miniature enclosed CoreXY:** [Micron](#micron) brings a Voron-inspired build to a small footprint; its manual is still in progress.
 - **Advanced high-speed CoreXY:** [T250](#t250) uses a four-motor gantry and has published build files and documentation.
