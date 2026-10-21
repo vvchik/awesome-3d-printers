@@ -1,47 +1,29 @@
-# Awesome 3D Printers
+# Awesome 3D Printers <!-- omit from toc -->
 
 A curated catalog of open-design and community-documented FDM printers to build, modify, or study. Each design has **one catalog row**. [Column notes](#column-notes) explain the columns and marks. The printer name links to its project repository when available, otherwise to the creator's project page or a useful community reference. [Maker and family labels](#browse-by-maker-or-family) help you find related designs without repeating rows. Within each kinematics section or size group, rows are sorted by GitHub stars. Designs without a repository are sorted by their highest like count.
 
-## Contents
+## Contents <!-- omit from toc -->
 
-- [Awesome 3D Printers](#awesome-3d-printers)
-  - [Contents](#contents)
-  - [Start here](#start-here)
-  - [Printers by motion system](#printers-by-motion-system)
-    - [CoreXY](#corexy)
-      - [Large (≥300 × 300 mm)](#large-300--300-mm)
-      - [Medium (181–299 mm representative X/Y size)](#medium-181299-mm-representative-xy-size)
-      - [Small (≤180 mm representative X/Y size)](#small-180-mm-representative-xy-size)
-    - [Cross-gantry](#cross-gantry)
-    - [Cartesian](#cartesian)
-      - [Medium (\>180 mm on either X/Y axis)](#medium-180-mm-on-either-xy-axis)
-      - [Small (≤180 mm on both X/Y axes)](#small-180-mm-on-both-xy-axes)
-    - [Delta](#delta)
-    - [Other motion systems](#other-motion-systems)
-  - [Conversions](#conversions)
-  - [Concepts and prototypes](#concepts-and-prototypes)
-  - [Legacy designs](#legacy-designs)
+- [Start here](#start-here)
+- [Printers by motion system](#printers-by-motion-system)
+  - [CoreXY](#corexy)
+    - [Large (≥300 × 300 mm)](#large-300--300-mm)
+    - [Medium (181–299 mm representative X/Y size)](#medium-181299-mm-representative-xy-size)
+    - [Small (≤180 mm representative X/Y size)](#small-180-mm-representative-xy-size)
+  - [Cross-gantry](#cross-gantry)
+  - [Cartesian](#cartesian)
+    - [Medium (\>180 mm on either X/Y axis)](#medium-180-mm-on-either-xy-axis)
+    - [Small (≤180 mm on both X/Y axes)](#small-180-mm-on-both-xy-axes)
+  - [Delta](#delta)
+  - [Other motion systems](#other-motion-systems)
+- [Conversions](#conversions)
+- [Concepts and prototypes](#concepts-and-prototypes)
+- [Legacy designs](#legacy-designs)
 - [Historical designs](#historical-designs)
-  - [Column notes](#column-notes)
-  - [Mini footprint comparison](#mini-footprint-comparison)
-  - [Browse by maker or family](#browse-by-maker-or-family)
-    - [Rat Rig](#rat-rig)
-    - [VzBot](#vzbot)
-    - [BLV MGN Cube](#blv-mgn-cube)
-    - [Martin Budden](#martin-budden)
-    - [RobertGcode](#robertgcode)
-    - [Alex Yu](#alex-yu)
-    - [SnakeOilXY](#snakeoilxy)
-    - [SecKit](#seckit)
-    - [Prusa / RepRap](#prusa--reprap)
-    - [RailCore](#railcore)
-    - [Annex Engineering](#annex-engineering)
-    - [Ultimaker](#ultimaker)
-    - [Creality](#creality)
-    - [Smartfriendz](#smartfriendz)
-    - [RepRapPro](#reprappro)
-    - [Matt the Printing Nerd](#matt-the-printing-nerd)
-  - [How to contribute](#how-to-contribute)
+- [Column notes](#column-notes)
+- [Mini footprint comparison](#mini-footprint-comparison)
+- [Browse by maker or family](#browse-by-maker-or-family)
+- [How to contribute](#how-to-contribute)
 
 ## Start here
 
@@ -170,6 +152,7 @@ Includes moving-bed Cartesian layouts. The size groups use the same 180 mm thres
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 📷 | <a id="min-micro-delta"></a>[**MIN Micro Delta**](https://www.printables.com/model/857334-min-micro-delta-3d-printer)<br>*Rolohaun*<br>A very small delta project. | Ø70×95 | — | Update<br>[2024-12](https://www.printables.com/model/857334-min-micro-delta-3d-printer) | [🧡⁠382](https://www.printables.com/model/857334-min-micro-delta-3d-printer)<br>[⏯️⁠16.9K](https://www.youtube.com/watch?v=kZSuBLWJxl0)<br>[❤️⁠670](https://www.youtube.com/watch?v=kZSuBLWJxl0) | [Files](https://www.printables.com/model/857334-min-micro-delta-3d-printer/files) | [Discord](https://discord.gg/rolohaun-3d-946191040682008666) EN 7.8K |
 | 📷 | <a id="delta-flyer"></a>[**Delta Flyer**](https://www.printables.com/model/1327596-delta-flyer-3d-printer)<br>*Rolohaun / Kanrog*<br>Compact delta with linear rails and a published manual. | Ø115×115 | — | Files<br>[2026-04](https://www.printables.com/model/1327596-delta-flyer-3d-printer) | [🧡⁠213](https://www.printables.com/model/1327596-delta-flyer-3d-printer)<br>[⏯️⁠9.7K](https://www.youtube.com/watch?v=LaAyrJOo7wg)<br>[❤️⁠368](https://www.youtube.com/watch?v=LaAyrJOo7wg) | [Manual](https://kanrog.github.io/Delta-Flyer/)<br>[BOM](https://docs.google.com/spreadsheets/d/1400rbdxxYbIA15yIi4UiYHQk1Ul_DCyP7nSTH7CUpFE/edit)<br>[CAD](https://cad.onshape.com/documents/de9bc61850e74a1717307838/w/2a32f2b0d6edf7beeb9fcbf7/e/392043168b1092bab001d0df) | [Discord](https://discord.gg/rolohaun-3d-946191040682008666) EN 7.8K |
+| 📷 | <a id="doron-velta"></a>[**Doron Velta**](https://github.com/rogerlz/Doron-Velta)<br>*rogerlz / DoubleT*<br>Enclosed delta in the Voron style. It began as an April Fools joke and is not an official Voron. FYSETC sells a kit. | Ø200×165 | — | R2<br>[2024-07](https://github.com/rogerlz/Doron-Velta#changelog) | [![GitHub stars](https://img.shields.io/github/stars/rogerlz/Doron-Velta?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/rogerlz/Doron-Velta)<br>[⏯️⁠4.7K](https://www.youtube.com/watch?v=DuFxvsZ5HEU)<br>[❤️⁠90](https://www.youtube.com/watch?v=DuFxvsZ5HEU) | [CAD](https://github.com/rogerlz/Doron-Velta/tree/main/CAD)<br>[STL](https://github.com/rogerlz/Doron-Velta/tree/main/STLs)<br>[BOM](https://github.com/rogerlz/Doron-Velta/blob/main/BOM.md) | [Discord](https://discord.gg/doomcube) EN 6.9K<br>[Discord](https://discord.gg/voron) EN 40.8K |
 | 📷 | <a id="phoenix-delta"></a>[**PhoenixDelta**](https://github.com/rolohaun/PhoenixDelta)<br>*Rolohaun*<br>Large experimental delta built around a 350 mm bed; work in progress. | — | — | v136<br>[2022-06](https://github.com/rolohaun/PhoenixDelta/commit/db586e7d112afa5ce4109a48907ebc12a832534a) | [![GitHub stars](https://img.shields.io/github/stars/rolohaun/PhoenixDelta?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/rolohaun/PhoenixDelta)<br>[⏯️⁠16K](https://www.youtube.com/watch?v=zeQo-jdcAlM)<br>[❤️⁠260](https://www.youtube.com/watch?v=zeQo-jdcAlM) | [STEP](https://github.com/rolohaun/PhoenixDelta/blob/main/Phoenix%20v136.step)<br>[BOM](https://github.com/rolohaun/PhoenixDelta#phoenix-delta) | [Discord](https://discord.gg/rolohaun-3d-946191040682008666) EN 7.8K |
 
 ### Other motion systems
@@ -359,6 +342,8 @@ The same printer appears only once above. These links jump to its row; use your 
   [Tiny-M](#tiny-m)
   - **DaRk_dOg**  
   [Ender_SW](#ender-sw)
+  - **rogerlz**  
+  [Doron Velta](#doron-velta)
 
 - **Rolohaun**  
   [Rook MK1](#rook-mk1) · [Rook MK2](#rook-mk2) · [Rook 2020 MK1](#rook-2020-mk1) · [Rook 2020 MK2](#rook-2020-mk2) · [SimpleCore](#simplecore) · [Panda Mini](#panda-mini) · [Bastion](#bastion) · [Defiant](#defiant) · [Kappy](#kappy) · [MIN Micro Delta](#min-micro-delta) · [Delta Flyer](#delta-flyer) · [PhoenixDelta](#phoenix-delta)
@@ -398,3 +383,9 @@ The same printer appears only once above. These links jump to its row; use your 
 ## How to contribute
 
 Pull requests are welcome. To suggest a printer, add its project page and one sentence on why it is interesting. Add direct links to the build guide, BOM, CAD, and the creator's video if they exist. Do not add homepages, dead links, duplicates, or claims such as "best" or "cheapest".
+
+To add a full row, follow "Column notes":
+
+1. Put the row in the table for its motion system and size. If the design has no update since 2024-10 and no active group, use Legacy. If it shaped later printers, use Historical.
+2. Count only the creator's own pages and videos. For a GitHub repository, add the star badge from an existing row.
+3. Sort rows by GitHub stars, highest first. If a row has no repository, use its highest like count. Rows with no counts go last.
