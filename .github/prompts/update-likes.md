@@ -36,10 +36,10 @@ Refresh the popularity counts for every printer row in `README.md`.
 
 ## Cell format
 
-1. Keep the GitHub star entry exactly as it is: a ⭐ emoji and a light gray live badge, both linked to the repository:
-   `[⭐![GitHub stars](https://img.shields.io/github/stars/<owner>/<repo>?style=flat-square&label=&color=d0d7de)](https://github.com/<owner>/<repo>)`
+1. Keep the GitHub star entry exactly as it is: a ⭐ emoji and a light gray live badge, both linked to the repository. Put a word joiner (U+2060) between the ⭐ and the badge:
+   `[⭐⁠![GitHub stars](https://img.shields.io/github/stars/<owner>/<repo>?style=flat-square&label=&color=d0d7de)](https://github.com/<owner>/<repo>)`
 2. After the star entry, add one entry per platform in this order: 💙, 🧡, 💚, 💛, 🤍, ▶️.
-3. Write each entry as `[<mark><count>](<url>)` with no space, for example `[🧡1.8K](https://www.printables.com/model/...)`.
+3. Write each entry as `[<mark><count>](<url>)`. Put a word joiner (U+2060) between the mark and the count, so the line does not break there. For example `[🧡⁠1.8K](https://www.printables.com/model/...)`.
 4. Join the star entry and the other entries with `<br>`.
 5. Round counts the same way as the Groups column: `345`, `1.8K`, `15K`, `115K`, `1.2M`.
 6. If nothing exists, write `—`.
