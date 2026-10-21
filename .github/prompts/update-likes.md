@@ -1,12 +1,12 @@
-# Update the Stars / likes column
+# Update the Stars Likes Views column
 
 Refresh the popularity counts for every printer row in `README.md`.
 
 ## Scope
 
 - Process every catalog row. A row starts with `| 📷 | <a id="...">`.
-- Find columns by header name (`Stars / likes`), not by position.
-- Change only the `Stars / likes` cells and the checked date in the `**Stars / likes:**` paragraph under "Column notes".
+- Find columns by header name (`Stars Likes Views`), not by position.
+- Change only the `Stars Likes Views` cells and the checked date in the `**Stars Likes Views:**` paragraph under "Column notes".
 
 ## What to count
 

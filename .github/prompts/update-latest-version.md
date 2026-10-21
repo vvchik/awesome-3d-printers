@@ -26,7 +26,7 @@ Also apply these rules:
 
 ## Cell format
 
-Write `<label><br>[YYYY-MM-DD](<source URL>)`.
+Write `<label><br>[YYYY-MM](<source URL>)`. Find the exact day, and keep it in the review file, but show only the year and month in the cell.
 
 Labels:
 
@@ -39,7 +39,7 @@ Labels:
 - `First video`: a design with no public files, dated by its first video.
 
 - Keep labels short. Do not repeat the printer name in the label.
-- If the source gives only a month or a year, write `YYYY-MM` or `YYYY`.
+- If the source gives only a year, write `YYYY`.
 
 ## Output
 
