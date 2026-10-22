@@ -1,0 +1,24 @@
+# MIN Micro Delta
+
+[Catalog row](../../README.md#min-micro-delta) · [Gallery](../../GALLERY.md)
+
+<img src="0-min-micro-delta.jpg" width="420" alt="MIN Micro Delta">
+
+| Field | Value |
+| --- | --- |
+| Section | Delta |
+| Project page | [https://www.printables.com/model/857334-min-micro-delta-3d-printer](https://www.printables.com/model/857334-min-micro-delta-3d-printer) |
+| Author | Rolohaun |
+| About | A very small delta project. |
+| Build volume (X×Y×Z) | Ø70×95 |
+| Exterior (W×D×H) | — |
+| Latest version | Update<br>[2024-12](https://www.printables.com/model/857334-min-micro-delta-3d-printer) |
+| Stars Likes Views | [🧡⁠382](https://www.printables.com/model/857334-min-micro-delta-3d-printer)<br>[⏯️⁠16.9K](https://www.youtube.com/watch?v=kZSuBLWJxl0)<br>[❤️⁠670](https://www.youtube.com/watch?v=kZSuBLWJxl0) |
+| Links | [Files](https://www.printables.com/model/857334-min-micro-delta-3d-printer/files) |
+| Groups | [Discord](https://discord.gg/rolohaun-3d-946191040682008666) EN 7.8K |
+
+## Pictures (2)
+
+<table>
+<tr><td align="center" width="33%"><a href="0-min-micro-delta.jpg"><img src="0-min-micro-delta.jpg" width="260" alt="MIN Micro Delta picture 0"></a></td><td align="center" width="33%"><a href="1-min-micro-delta.jpg"><img src="1-min-micro-delta.jpg" width="260" alt="MIN Micro Delta picture 1"></a></td></tr>
+</table>
