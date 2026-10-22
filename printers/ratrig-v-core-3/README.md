@@ -1,0 +1,26 @@
+# Rat Rig V-Core 3
+
+[Catalog row](../../README.md#ratrig-v-core-3) · [Gallery](../../GALLERY.md)
+
+<img src="0-ratrig-v-core-3.jpg" width="420" alt="Rat Rig V-Core 3">
+
+| Field | Value |
+| --- | --- |
+| Section | Legacy designs |
+| Project page | [https://github.com/Rat-Rig/V-core-3](https://github.com/Rat-Rig/V-core-3) |
+| Author | Rat Rig family |
+| About | Earlier scalable extrusion-frame generation with its own published files. Replaced by the Rat Rig V-Core 4.1. |
+| Build volume (X×Y×Z) | 300: 300×300×300<br>400: 400×400×400<br>500: 500×500×500 |
+| Exterior (W×D×H) | 300: 518×583×560<br>400: 618×683×660<br>500: 718×783×760 |
+| Latest version | 3.1<br>[2022-06](https://www.youtube.com/watch?v=bPxlbfAeEq0) |
+| Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/Rat-Rig/V-core-3?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/Rat-Rig/V-core-3)<br>[💙⁠340](https://www.thingiverse.com/thing:5430377)<br>[🧡⁠227](https://www.printables.com/model/240707)<br>[⏯️⁠131K](https://www.youtube.com/watch?v=bZ3ZrTCEBIw)<br>[❤️⁠1.5K](https://www.youtube.com/watch?v=bZ3ZrTCEBIw) |
+| Links | [CAD](https://github.com/Rat-Rig/V-core-3/tree/HEAD/cad)<br>[Manual](https://github.com/Rat-Rig/V-core-3/tree/HEAD/docs) |
+| Groups | [Facebook](https://www.facebook.com/groups/ratrig3dprintercommunity) EN 19.9K<br>[Discord](https://discord.gg/ratrig) EN 13.8K<br>[Reddit](https://www.reddit.com/r/RatRig/) EN 3K |
+
+## Pictures (7)
+
+<table>
+<tr><td align="center" width="33%"><a href="0-ratrig-v-core-3.jpg"><img src="0-ratrig-v-core-3.jpg" width="260" alt="Rat Rig V-Core 3 picture 0"></a></td><td align="center" width="33%"><a href="1-ratrig-v-core-3.jpg"><img src="1-ratrig-v-core-3.jpg" width="260" alt="Rat Rig V-Core 3 picture 1"></a></td><td align="center" width="33%"><a href="2-ratrig-v-core-3.jpg"><img src="2-ratrig-v-core-3.jpg" width="260" alt="Rat Rig V-Core 3 picture 2"></a></td></tr>
+<tr><td align="center" width="33%"><a href="3-ratrig-v-core-3.jpg"><img src="3-ratrig-v-core-3.jpg" width="260" alt="Rat Rig V-Core 3 picture 3"></a></td><td align="center" width="33%"><a href="4-ratrig-v-core-3.jpg"><img src="4-ratrig-v-core-3.jpg" width="260" alt="Rat Rig V-Core 3 picture 4"></a></td><td align="center" width="33%"><a href="5-ratrig-v-core-3.jpg"><img src="5-ratrig-v-core-3.jpg" width="260" alt="Rat Rig V-Core 3 picture 5"></a></td></tr>
+<tr><td align="center" width="33%"><a href="6-ratrig-v-core-3.jpg"><img src="6-ratrig-v-core-3.jpg" width="260" alt="Rat Rig V-Core 3 picture 6"></a></td></tr>
+</table>
