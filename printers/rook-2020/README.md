@@ -16,6 +16,7 @@
 | Stars Likes Views | [🧡⁠398](https://www.printables.com/model/798733-rook-2020-mk2)<br>[⏯️⁠17.6K](https://www.youtube.com/watch?v=Ufy0borF0ts)<br>[❤️⁠442](https://www.youtube.com/watch?v=Ufy0borF0ts) |
 | Links | [BOM](https://docs.google.com/spreadsheets/d/1k5knQOW3YX01BzTAEe6YCPVp2iNppOEKYJrqB6Ln_Wk/edit)<br>[CAD](https://cad.onshape.com/documents/ccf745a3232adcedee163729/w/32082f8119c17ae81d2ba337/e/7da9f0f6822236e671d3e7e1)<br>[Files](https://www.printables.com/model/447255-rook-2020-mk1/files) MK1 |
 | Groups | [Discord](https://discord.gg/rolohaun-3d-946191040682008666) EN 7.8K |
+| License | [CC BY-NC](https://www.printables.com/model/798733-rook-2020-mk2) |
 
 ## Pictures (9)
 

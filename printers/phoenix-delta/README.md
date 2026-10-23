@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/rolohaun/PhoenixDelta?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/rolohaun/PhoenixDelta)<br>[⏯️⁠16K](https://www.youtube.com/watch?v=zeQo-jdcAlM)<br>[❤️⁠260](https://www.youtube.com/watch?v=zeQo-jdcAlM) |
 | Links | [STEP](https://github.com/rolohaun/PhoenixDelta/blob/main/Phoenix%20v136.step)<br>[BOM](https://github.com/rolohaun/PhoenixDelta#phoenix-delta) |
 | Groups | [Discord](https://discord.gg/rolohaun-3d-946191040682008666) EN 7.8K |
+| License | Not stated. Rolohaun's other designs use CC BY-NC 4.0. |
 
 ## Pictures (5)
 

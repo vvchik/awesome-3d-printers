@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/mcsgroi/EnderLoop?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/mcsgroi/EnderLoop)<br>[💙⁠545](https://www.thingiverse.com/thing:4658201)<br>[🧡⁠42](https://www.printables.com/model/77171-enderloop) |
 | Links | [STL](https://github.com/mcsgroi/EnderLoop/tree/main/Models)<br>[Manual](https://github.com/mcsgroi/EnderLoop#readme)<br>[Firmware](https://github.com/mcsgroi/EnderLoop/tree/main/Firmware) |
 | Groups | — |
+| License | [CC BY-NC 4.0](https://github.com/mcsgroi/EnderLoop#license) |
 
 ## Pictures (3)
 

@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/nophead/Mendel90?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/nophead/Mendel90)<br>[💙⁠364](https://www.thingiverse.com/thing:17826)<br>[⏯️⁠8.2K](https://www.youtube.com/watch?v=QDsL-gZ5PHs)<br>[❤️⁠4](https://www.youtube.com/watch?v=QDsL-gZ5PHs) |
 | Links | [Files](https://github.com/nophead/Mendel90) |
 | Groups | [Forum](https://reprap.org/forum/list.php?292) EN<br>[Forum](https://reprap.org/forum/list.php?151) EN |
+| License | [GPL-2.0](https://github.com/nophead/Mendel90/blob/master/scad/main.scad) |
 
 ## Pictures (11)
 

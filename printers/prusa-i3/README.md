@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/prusa3d/Original-Prusa-i3?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/prusa3d/Original-Prusa-i3)<br>[🧡⁠5.2K](https://www.printables.com/model/57217)<br>[🤍⁠397](https://www.myminifactory.com/object/3d-print-original-prusa-i3-mk3-57403)<br>[⏯️⁠1.4M](https://www.youtube.com/watch?v=GE-lrRbU124)<br>[❤️⁠11.7K](https://www.youtube.com/watch?v=GE-lrRbU124) |
 | Links | [Files](https://github.com/prusa3d/Original-Prusa-i3)<br>[CAD](https://github.com/josefprusa/Prusa3) early<br>[Wiki](https://reprap.org/wiki/Prusa_i3) |
 | Groups | [Forum](https://forum.prusa3d.com/forum/english-forum-original-prusa-i3-mk3s-mk3/) EN 78.7K<br>[Reddit](https://www.reddit.com/r/prusa3d/) EN 112K<br>[Forum](https://forum.prusa3d.com/es/) ES 78.7K<br>[Forum](https://forum.prusa3d.com/cs/) CS 78.7K<br>[Facebook](https://www.facebook.com/groups/Prusai3users/) EN 47.5K<br>[Discord](https://discord.gg/prusa3d) EN 13.6K<br>[Forum](https://reprap.org/forum/list.php?406) EN |
+| License | [Mixed](https://github.com/prusa3d/Original-Prusa-i3/blob/MK3S/LICENSE) |
 
 ## Pictures (10)
 

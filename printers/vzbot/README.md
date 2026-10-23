@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/VzBoT3D/VzBoT-Vz330?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/VzBoT3D/VzBoT-Vz330)<br>[⏯️⁠139K](https://www.youtube.com/watch?v=A3jx4bZE3AU)<br>[❤️⁠2.5K](https://www.youtube.com/watch?v=A3jx4bZE3AU) |
 | Links | [CAD](https://github.com/VzBoT3D/VzBoT-Vz330/tree/HEAD/CAD)<br>[Manual](https://github.com/VzBoT3D/VzBoT-Vz330/tree/HEAD/Build%20guide-manual) |
 | Groups | [Facebook](https://www.facebook.com/groups/vzbot/) EN 10.1K<br>[Discord](https://discord.gg/KWZWvCMxCq) EN 9.3K<br>[Reddit](https://www.reddit.com/r/vzbot/) EN 463 |
+| License | [CC BY-NC 4.0](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/README.md) |
 
 ## Pictures (6)
 

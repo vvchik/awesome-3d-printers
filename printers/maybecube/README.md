@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/martinbudden/MaybeCube?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/martinbudden/MaybeCube)<br>[💙⁠51](https://www.thingiverse.com/thing:4912095) |
 | Links | [MC300RB](https://github.com/martinbudden/MaybeCube/blob/main/MC300RB/readme.md)<br>[MC350](https://github.com/martinbudden/MaybeCube/blob/main/MC350/readme.md)<br>[CAD](https://github.com/martinbudden/MaybeCube/tree/main/scad) |
 | Groups | — |
+| License | [CC BY-NC-SA 4.0](https://github.com/martinbudden/MaybeCube/blob/main/LICENSE.md) |
 
 ## Pictures (4)
 

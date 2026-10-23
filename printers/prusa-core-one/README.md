@@ -16,6 +16,7 @@
 | Stars Likes Views | [🧡⁠2.5K](https://www.printables.com/model/1520471-prusa-core-one-full-cad-assembly)<br>[⏯️⁠3.5M](https://www.youtube.com/watch?v=rddfSdsEDnw)<br>[❤️⁠2.3K](https://www.youtube.com/watch?v=rddfSdsEDnw) |
 | Links | [CAD](https://www.printables.com/model/1520471-prusa-core-one-full-cad-assembly)<br>[Files](https://www.prusa3d.com/page/open-source-at-prusa-research_236812/)<br>[Manual](https://help.prusa3d.com/manual/prusa-core-one-kit-assembly_2321) |
 | Groups | [Forum](https://forum.prusa3d.com/forum/prusa-core-one/) EN 78.7K<br>[Reddit](https://www.reddit.com/r/prusa3d/) EN 112K<br>[Forum](https://forum.prusa3d.com/es/) ES 78.7K<br>[Forum](https://forum.prusa3d.com/cs/) CS 78.7K<br>[Facebook](https://www.facebook.com/groups/Prusai3users/) EN 47.5K<br>[Discord](https://discord.gg/prusa3d) EN 13.6K |
+| License | [OCL v1](https://github.com/OpenCommunityLicence/OpenCommunityLicence) |
 
 ## Pictures (6)
 

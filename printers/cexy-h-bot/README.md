@@ -16,6 +16,7 @@
 | Stars Likes Views | [💙⁠162](https://www.thingiverse.com/thing:3383389) |
 | Links | [Files](https://www.thingiverse.com/thing:3383389/files) |
 | Groups | — |
+| License | [CC BY-NC 4.0](https://www.thingiverse.com/thing:3383389) |
 
 ## Pictures (4)
 

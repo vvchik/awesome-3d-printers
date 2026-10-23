@@ -16,6 +16,7 @@
 | Stars Likes Views | [🧡⁠345](https://www.printables.com/model/748800-bastion-3d-printer)<br>[⏯️⁠17.9K](https://www.youtube.com/watch?v=EyQOKyWl3fM)<br>[❤️⁠539](https://www.youtube.com/watch?v=EyQOKyWl3fM) |
 | Links | [BOM](https://docs.google.com/spreadsheets/d/1l0jujA7NeqoZIqLFWoQa9GS_q04f8Wfkya9Il5d2ubA/edit)<br>[CAD](https://cad.onshape.com/documents/256743a99b7cb9b4ae8f45f9/w/29df722021bf3c0e59d7c8ae/e/ff9493cea103644b334a3c7a) |
 | Groups | [Discord](https://discord.gg/rolohaun-3d-946191040682008666) EN 7.8K |
+| License | [CC BY-NC](https://www.printables.com/model/748800-bastion-3d-printer) |
 
 ## Pictures (6)
 

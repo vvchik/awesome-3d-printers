@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/RoyBerntsenDesign/V-King-CoreXY?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/RoyBerntsenDesign/V-King-CoreXY)<br>[💙⁠541](https://www.thingiverse.com/thing:2921021)<br>[🤍⁠21](https://www.myminifactory.com/object/3d-print-v-king-corexy-v2-0-73409)<br>[⏯️⁠43K](https://www.youtube.com/watch?v=wINF7qM0DQU)<br>[❤️⁠458](https://www.youtube.com/watch?v=wINF7qM0DQU) |
 | Links | [CAD](https://a360.co/3YxhjgS)<br>[STL](https://github.com/RoyBerntsenDesign/V-King-CoreXY/tree/master/Part%20File%20Library)<br>[BOM](https://github.com/RoyBerntsenDesign/V-King-CoreXY/blob/master/Document%20Library/Bill%20Of%20Materials/V-King%20CoreXY%20V2%20-%20Part%20Order%20List.xlsx)<br>[Manual](https://github.com/RoyBerntsenDesign/V-King-CoreXY/blob/master/Document%20Library/V-king%20MK2%20Assembly%20Manual%20V1.0.pdf)<br>[Config](https://github.com/RoyBerntsenDesign/V-King-CoreXY/tree/master/Firmware%20Files/RRF-Duet) |
 | Groups | [Facebook](https://www.facebook.com/groups/viking3d/) EN |
+| License | [CC BY-SA 4.0](https://github.com/RoyBerntsenDesign/V-King-CoreXY/blob/master/LICENSE) |
 
 ## Pictures (14)
 

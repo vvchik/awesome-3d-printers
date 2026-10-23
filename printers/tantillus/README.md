@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/Intrinsically-Sublime/Tantillus?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/Intrinsically-Sublime/Tantillus)<br>[⏯️⁠6.2K](https://www.youtube.com/watch?v=F6E36g0zuRg) |
 | Links | [Files](https://github.com/Intrinsically-Sublime/Tantillus)<br>[Wiki](https://reprap.org/wiki/Tantillus) |
 | Groups | [Forum](https://reprap.org/forum/list.php?279) EN inactive |
+| License | [GPL-3.0](https://github.com/Intrinsically-Sublime/Tantillus/blob/master/GPLv3.txt) |
 
 ## Pictures (6)
 

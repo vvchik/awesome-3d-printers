@@ -16,6 +16,7 @@
 | Stars Likes Views | [💙⁠353](https://www.thingiverse.com/thing:1903757)<br>[🧡⁠29](https://www.printables.com/model/157727)<br>[⏯️⁠58.4K](https://www.youtube.com/watch?v=aRaI0pesDN0)<br>[❤️⁠708](https://www.youtube.com/watch?v=aRaI0pesDN0) |
 | Links | — |
 | Groups | [Forum](https://reprap.org/forum/read.php?166,719575) EN inactive |
+| License | [CC BY-NC 3.0](https://web.archive.org/web/20170330161742/http://www.thingiverse.com/thing:1903757/) |
 
 ## Pictures (9)
 

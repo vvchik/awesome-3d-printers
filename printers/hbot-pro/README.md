@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/campy/Hbot?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/campy/Hbot)<br>[⏯️⁠21.2K](https://www.youtube.com/watch?v=CTP1-fysIOw)<br>[❤️⁠1.1K](https://www.youtube.com/watch?v=CTP1-fysIOw) |
 | Links | [Files](https://github.com/campy/Hbot)<br>[Manual](https://github.com/campy/Hbot/tree/HEAD/Instrucciones%20Hbot%20Pro) |
 | Groups | — |
+| License | [CC BY-NC 3.0 ES](https://github.com/campy/Hbot/blob/main/LICENSE) |
 
 ## Pictures (6)
 

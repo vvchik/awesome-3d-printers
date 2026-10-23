@@ -16,6 +16,7 @@
 | Stars Likes Views | [💙⁠83](https://www.thingiverse.com/thing:3935734)<br>[⏯️⁠30.2K](https://www.youtube.com/watch?v=o_cQP9J8bRU)<br>[❤️⁠1.2K](https://www.youtube.com/watch?v=o_cQP9J8bRU) |
 | Links | [Files](https://www.thingiverse.com/thing:3935734/files)<br>[Video](https://www.youtube.com/watch?v=o_cQP9J8bRU) |
 | Groups | — |
+| License | [CC BY-NC-SA](https://www.thingiverse.com/thing:3935734) |
 
 ## Pictures (7)
 

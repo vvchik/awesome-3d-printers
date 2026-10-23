@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/SecKit/SK-Go_SK-Mini?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/SecKit/SK-Go_SK-Mini)<br>[💙⁠105](https://www.thingiverse.com/thing:3881156)<br>[⏯️⁠5.7K](https://www.youtube.com/watch?v=ZBiTbyRcIaE)<br>[❤️⁠54](https://www.youtube.com/watch?v=ZBiTbyRcIaE) |
 | Links | [STEP](https://github.com/SecKit/SK-Go_SK-Mini/tree/HEAD/Go3%20%28AE2-310eu%20v3%29/STEP%20files)<br>[Manual](https://sites.google.com/view/seckit-wiki/sk-go-310x310x350) |
 | Groups | [Facebook](https://www.facebook.com/groups/SecKitCoreXY3DP/) EN 2.6K |
+| License | [CC BY-NC-SA 4.0](https://github.com/SecKit/SK-Go_SK-Mini/blob/master/Go3%20(AE2-310eu%20v3)/STEP%20files/README.md) |
 
 ## Pictures (6)
 

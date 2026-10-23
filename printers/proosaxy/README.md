@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/SnakeOilXY/ProosaXY?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/SnakeOilXY/ProosaXY)<br>[🧡⁠583](https://www.printables.com/model/518614-proosaxy-mk3s-to-corexy-conversion)<br>[⏯️⁠9.2K](https://www.youtube.com/watch?v=Dink3JQ-bNY)<br>[❤️⁠91](https://www.youtube.com/watch?v=Dink3JQ-bNY) |
 | Links | [CAD](https://github.com/SnakeOilXY/ProosaXY/tree/master/src)<br>[STL](https://github.com/SnakeOilXY/ProosaXY/tree/master/STLs)<br>[BOM](https://github.com/SnakeOilXY/ProosaXY#bom) |
 | Groups | [Discord](https://discord.gg/WZVP2HuAag) EN 1.3K |
+| License | [GPL-3.0](https://github.com/SnakeOilXY/ProosaXY/blob/master/LICENSE) |
 
 ## Pictures (6)
 

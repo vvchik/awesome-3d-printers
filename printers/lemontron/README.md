@@ -17,6 +17,7 @@
 | Stars Likes Views | [🧡⁠167](https://www.printables.com/model/1155525)<br>[⏯️⁠120K](https://www.youtube.com/watch?v=n6l3GvkE4QU)<br>[❤️⁠4.9K](https://www.youtube.com/watch?v=n6l3GvkE4QU) |
 | Links | [Files](https://lemontron.com/lemontron-rev-e/printed-parts/)<br>[Manual](https://lemontron.com/lemontron-rev-a/build-guide/)<br>[BOM](https://lemontron.com/lemontron-rev-e/bom/)<br>[Video](https://www.youtube.com/watch?v=n6l3GvkE4QU) |
 | Groups | [Discord](https://discord.com/invite/gSjfn4rnrm) EN 1.2K |
+| License | [CC BY-SA](https://www.printables.com/model/1440115-lemontron-endgame-portable-3d-printer) |
 
 ## Pictures (6)
 

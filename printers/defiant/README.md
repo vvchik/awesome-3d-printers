@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/rolohaun/Defiant?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/rolohaun/Defiant)<br>[⏯️⁠13.6K](https://www.youtube.com/watch?v=SV5Sgm0m-QY)<br>[❤️⁠275](https://www.youtube.com/watch?v=SV5Sgm0m-QY) |
 | Links | [CAD](https://github.com/rolohaun/Defiant/tree/main/CAD)<br>[BOM](https://docs.google.com/spreadsheets/d/1MMBtSAIVklJtp9cDsU00cnw-aWT4j8f6p9V2ZHv14fQ/edit) |
 | Groups | [Discord](https://discord.gg/rolohaun-3d-946191040682008666) EN 7.8K |
+| License | Not stated. Rolohaun's other designs use CC BY-NC 4.0. |
 
 ## Pictures (3)
 

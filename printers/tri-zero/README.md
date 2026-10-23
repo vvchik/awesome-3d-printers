@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/zruncho3d/tri-zero?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/zruncho3d/tri-zero)<br>[⏯️⁠17.6K](https://www.youtube.com/watch?v=XPtowYdHhJ8)<br>[❤️⁠129](https://www.youtube.com/watch?v=XPtowYdHhJ8) |
 | Links | [CAD](https://github.com/zruncho3d/tri-zero/tree/main/CAD)<br>[Manual](https://github.com/zruncho3d/tri-zero/blob/main/INSTRUCTIONS.md)<br>[Plus50](https://github.com/zruncho3d/tri-zero/blob/main/PLUS50.md) |
 | Groups | [Discord](https://discord.gg/voron) EN 40.8K<br>[Discord](https://discord.gg/doomcube) EN 6.9K<br>[Reddit](https://www.reddit.com/r/voroncorexy/) EN 30.3K |
+| License | [GPL-3.0](https://github.com/zruncho3d/tri-zero/blob/main/LICENSE) |
 
 ## Pictures (5)
 

@@ -16,6 +16,7 @@
 | Stars Likes Views | [🧡⁠365](https://www.printables.com/model/625544-kappy-3d-printer)<br>[⏯️⁠30.1K](https://www.youtube.com/watch?v=QxLlxpHNbtQ)<br>[❤️⁠1.2K](https://www.youtube.com/watch?v=QxLlxpHNbtQ) |
 | Links | [Manual](https://drive.google.com/file/d/1iMX36I9zHaRenk27AsYJOz9wUkhZm12h/view)<br>[BOM](https://docs.google.com/spreadsheets/d/10yJ0s7zZR3LtqlApnVSDP2MTe3I9gViXxYyVxZ6Vb1I/edit)<br>[CAD](https://cad.onshape.com/documents/e3d1e390ee25e4cecb91b755/w/71cf613e30e4a447f8845523/e/ca80937f1c3e35dd2362d739) |
 | Groups | [Discord](https://discord.gg/rolohaun-3d-946191040682008666) EN 7.8K |
+| License | [CC BY-NC](https://www.printables.com/model/625544-kappy-3d-printer) |
 
 ## Pictures (8)
 

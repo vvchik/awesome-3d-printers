@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/reprappro/Fisher?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/reprappro/Fisher)<br>[⏯️⁠5.1K](https://www.youtube.com/watch?v=AAedSxTJ1j8)<br>[❤️⁠18](https://www.youtube.com/watch?v=AAedSxTJ1j8) |
 | Links | [STEP](https://github.com/reprappro/Fisher/tree/master/step)<br>[Manual](https://reprapltd.com/reprappro/documentation/fisher-1/index.html) |
 | Groups | [Forum](https://reprap.org/forum/list.php?409) EN<br>[Forum](https://reprap.org/forum/list.php?178) EN |
+| License | [GPL-2.0](https://github.com/reprappro/Fisher/blob/master/LICENSE) |
 
 ## Pictures (5)
 

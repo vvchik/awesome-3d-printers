@@ -16,6 +16,7 @@
 | Stars Likes Views | [💙⁠503](https://www.thingiverse.com/thing:344408)<br>[⏯️⁠2.3K](https://www.youtube.com/watch?v=9hL9AQpA93Y)<br>[❤️⁠4](https://www.youtube.com/watch?v=9hL9AQpA93Y) |
 | Links | [Files](https://www.thingiverse.com/thing:344408/files) |
 | Groups | [Forum](https://reprap.org/forum/list.php?178) EN<br>[Facebook](https://www.facebook.com/groups/delta3dp/) EN 2.7K inactive |
+| License | [CC BY-SA 4.0](https://www.thingiverse.com/thing:344408) |
 
 ## Pictures (3)
 

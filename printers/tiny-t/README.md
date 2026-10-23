@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/PrintersForAnts/Tiny-T?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/PrintersForAnts/Tiny-T) |
 | Links | [CAD](https://github.com/PrintersForAnts/Tiny-T/tree/main/CAD)<br>[STL](https://github.com/PrintersForAnts/Tiny-T/tree/main/STLs)<br>[BOM](https://github.com/PrintersForAnts/Tiny-T#components) |
 | Groups | [Discord](https://discord.gg/doomcube) EN 6.9K |
+| License | [GPL-3.0](https://github.com/PrintersForAnts/Tiny-T/blob/main/LICENSE.txt) |
 
 ## Pictures (3)
 

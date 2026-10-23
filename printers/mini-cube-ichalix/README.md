@@ -16,6 +16,7 @@
 | Stars Likes Views | [💙⁠165](https://www.thingiverse.com/thing:3910543) |
 | Links | [Files](https://www.thingiverse.com/thing:3910543/files) |
 | Groups | [Facebook](https://www.facebook.com/groups/BenLevi) EN 7K |
+| License | [CC BY-NC-SA](https://web.archive.org/web/20210321111114id_/https://cdn.thingiverse.com/zipfiles/e5/a3/d8/68/f8/The+3d+Mini+Cube.zip) |
 
 ## Pictures (5)
 

@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/SecKit/SK-Tank?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/SecKit/SK-Tank)<br>[⏯️⁠5.1K](https://www.youtube.com/watch?v=aX0A48tPdEk)<br>[❤️⁠62](https://www.youtube.com/watch?v=aX0A48tPdEk) |
 | Links | [Manual](https://sites.google.com/view/seckit-wiki/sk-tank-350x350x400) |
 | Groups | [Facebook](https://www.facebook.com/groups/SecKitCoreXY3DP/) EN 2.6K |
+| License | [CC BY-NC-SA 4.0](https://github.com/SecKit/SK-Tank/blob/master/v2/STEP%20files/README.md) |
 
 ## Pictures (5)
 

@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/railcore/railcore-mini?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/railcore/railcore-mini)<br>[🧡⁠17](https://www.printables.com/model/160583-railcore-mini)<br>[⏯️⁠4.4K](https://www.youtube.com/watch?v=IbsZTz1a8SA)<br>[❤️⁠42](https://www.youtube.com/watch?v=IbsZTz1a8SA) |
 | Links | [BOM](https://docs.google.com/spreadsheets/d/1TM1vca-hA29apzcBjQ2FyvvZ5D19cWTZl7NxzBflSlU)<br>[Manual](https://railcore.dozuki.com/c/RailCore%C2%AE_Mini_Kit)<br>[Files](https://github.com/railcore/railcore-mini/tree/main/parts) |
 | Groups | [Facebook](https://www.facebook.com/groups/RailCore/) EN 2.6K<br>[Discord](https://discord.gg/Sy569Hq) EN 742<br>[Reddit](https://www.reddit.com/r/railcore/) EN 206 |
+| License | [CC BY 4.0](https://github.com/railcore/railcore-mini/blob/main/LICENSE) |
 
 ## Pictures (4)
 

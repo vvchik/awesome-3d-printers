@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/lhndo/LH-Stinger?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/lhndo/LH-Stinger)<br>[🧡⁠104](https://www.printables.com/model/703110-lh-stinger)<br>[⏯️⁠65.8K](https://www.youtube.com/watch?v=X41eK9_PCbA)<br>[❤️⁠1.8K](https://www.youtube.com/watch?v=X41eK9_PCbA) |
 | Links | [CAD](https://github.com/lhndo/LH-Stinger/tree/HEAD/CAD)<br>[Wiki](https://github.com/lhndo/LH-Stinger/wiki) |
 | Groups | [Discord](https://discord.gg/EzssCfnEDS) EN 2.7K |
+| License | [CC BY-NC-SA 4.0](https://github.com/lhndo/LH-Stinger/blob/main/LICENSE.md) |
 
 ## Pictures (6)
 

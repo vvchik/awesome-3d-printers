@@ -16,6 +16,7 @@
 | Stars Likes Views | [💙⁠258](https://www.thingiverse.com/thing:4307266)<br>[🧡⁠54](https://www.printables.com/model/221066-solidcore-corexy-3d-printer)<br>[⏯️⁠54K](https://www.youtube.com/watch?v=5171_TXW7M8)<br>[❤️⁠535](https://www.youtube.com/watch?v=5171_TXW7M8) |
 | Links | [STEP](https://www.printables.com/model/221066-solidcore-corexy-3d-printer/files)<br>[Files](https://drive.google.com/drive/folders/1HQyc4OiMpGds7vOD8sf6P66I1bQqIA30)<br>[BOM](https://docs.google.com/spreadsheets/d/1cHOBTe28XIPyURp-YsmSwgqEVQjoajGRWozn8MxH7-4/edit) |
 | Groups | [Facebook](https://www.facebook.com/groups/solidcore3dprinter/) EN<br>[Discord](https://discord.gg/jF6c6GG4qz) EN 99 |
+| License | [CC BY-SA](https://www.printables.com/model/221066-solidcore-corexy-3d-printer) |
 
 ## Pictures (10)
 

@@ -16,6 +16,7 @@
 | Stars Likes Views | [🧡⁠465](https://www.printables.com/model/416884-tictac-21)<br>[💚⁠35](https://makerworld.com/en/models/144161-tic-tac-miniaturised-v-minion) |
 | Links | [Files](https://www.printables.com/model/416884-tictac-21/files) |
 | Groups | [Facebook](https://www.facebook.com/groups/ratrig3dprintercommunity) EN 19.9K<br>[Discord](https://discord.gg/ratrig) EN 13.8K |
+| License | [CC BY-NC-SA](https://www.printables.com/model/416884-tictac-21) |
 
 ## Pictures (5)
 

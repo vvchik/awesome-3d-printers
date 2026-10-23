@@ -16,6 +16,7 @@
 | Stars Likes Views | [🧡⁠429](https://www.printables.com/model/1644597-rook-mk2)<br>[⏯️⁠8.3K](https://www.youtube.com/watch?v=Rsd_QlY3pGE)<br>[❤️⁠398](https://www.youtube.com/watch?v=Rsd_QlY3pGE) |
 | Links | [BOM](https://docs.google.com/spreadsheets/d/18EqrtU4kwdb6v4gPMTdCcCdBVbxlF5-EhFE0hZtxHoA/edit)<br>[CAD](https://cad.onshape.com/documents/5010167e95003ed32232fd0e/w/756fbf38edf59fb734f7365c/e/e647ceb1e4681ba492e8722b) |
 | Groups | [Discord](https://discord.gg/rolohaun-3d-946191040682008666) EN 7.8K |
+| License | [CC BY-NC](https://www.printables.com/model/1644597-rook-mk2) |
 
 ## Pictures (5)
 

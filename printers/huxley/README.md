@@ -16,6 +16,7 @@
 | Stars Likes Views | [💙⁠391](https://www.thingiverse.com/thing:16625)<br>[⏯️⁠950](https://www.youtube.com/watch?v=qj9labKZU9g)<br>[❤️⁠3](https://www.youtube.com/watch?v=qj9labKZU9g) |
 | Links | — |
 | Groups | [Forum](https://reprap.org/forum/list.php?214) EN |
+| License | [GPL](https://github.com/reprappro/Huxley/blob/master/README) |
 
 ## Pictures (6)
 

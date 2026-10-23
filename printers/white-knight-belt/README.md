@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/NAK3DDesigns/White-Knight?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/NAK3DDesigns/White-Knight)<br>[💙⁠672](https://www.thingiverse.com/thing:3324280)<br>[⏯️⁠49.2K](https://www.youtube.com/watch?v=PQ-h-ErqrEg)<br>[❤️⁠741](https://www.youtube.com/watch?v=PQ-h-ErqrEg) |
 | Links | [STEP](https://github.com/NAK3DDesigns/White-Knight/blob/master/Assembly/White%20Knight%20Full%20Assembly%20v126.step)<br>[BOM](https://github.com/NAK3DDesigns/White-Knight/tree/master/BOM)<br>[STL](https://github.com/NAK3DDesigns/White-Knight/tree/master/Printer%20STL%27s) |
 | Groups | — |
+| License | [GPL-3.0](https://github.com/NAK3DDesigns/White-Knight/blob/master/LICENSE) |
 
 ## Pictures (5)
 

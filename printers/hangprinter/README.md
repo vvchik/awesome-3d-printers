@@ -17,6 +17,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/tobbelobb/hangprinter?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/tobbelobb/hangprinter)<br>[⏯️⁠88.5K](https://www.youtube.com/watch?v=ULJqLSTriRY)<br>[❤️⁠615](https://www.youtube.com/watch?v=ULJqLSTriRY) |
 | Links | [Files](https://github.com/tobbelobb/hangprinter) |
 | Groups | [Facebook](https://www.facebook.com/groups/hangprinter) EN 1.1K<br>[Discord](https://discord.gg/KAV7x3hgRX) EN 289 |
+| License | [GPL-2.0](https://github.com/tobbelobb/hangprinter/blob/version_4/LICENSE) |
 
 ## Pictures (7)
 

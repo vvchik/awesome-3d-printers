@@ -16,6 +16,7 @@
 | Stars Likes Views | [🧡⁠382](https://www.printables.com/model/857334-min-micro-delta-3d-printer)<br>[⏯️⁠16.9K](https://www.youtube.com/watch?v=kZSuBLWJxl0)<br>[❤️⁠670](https://www.youtube.com/watch?v=kZSuBLWJxl0) |
 | Links | [Files](https://www.printables.com/model/857334-min-micro-delta-3d-printer/files) |
 | Groups | [Discord](https://discord.gg/rolohaun-3d-946191040682008666) EN 7.8K |
+| License | [CC BY-NC](https://www.printables.com/model/857334-min-micro-delta-3d-printer) |
 
 ## Pictures (5)
 

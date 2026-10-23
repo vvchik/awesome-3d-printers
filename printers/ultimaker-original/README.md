@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/Ultimaker/UltimakerOriginal?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/Ultimaker/UltimakerOriginal)<br>[⏯️⁠40.7K](https://www.youtube.com/watch?v=OWZi_rvBJ6o)<br>[❤️⁠48](https://www.youtube.com/watch?v=OWZi_rvBJ6o) |
 | Links | [BOM](https://github.com/Ultimaker/UltimakerOriginal/tree/HEAD/BOM) |
 | Groups | [Forum](https://community.ultimaker.com/) EN<br>[Forum](https://community.ultimaker.com/forum/124-deutsch/) DE<br>[Forum](https://community.ultimaker.com/forum/126-fran%C3%A7ais/) FR<br>[Forum](https://community.ultimaker.com/forum/125-espa%C3%B1ol/) ES<br>[Reddit](https://www.reddit.com/r/ultimaker/) EN 4.6K |
+| License | [CC BY-NC 3.0](https://github.com/Ultimaker/UltimakerOriginal/blob/master/LICENSE) |
 
 ## Pictures (9)
 

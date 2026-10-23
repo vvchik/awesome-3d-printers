@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/alexyu132/fusebox2?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/alexyu132/fusebox2)<br>[💙⁠545](https://www.thingiverse.com/thing:2422839)<br>[💚⁠16](https://makerworld.com/en/models/27001)<br>[⏯️⁠6.3K](https://www.youtube.com/watch?v=aUQ9sjp_YzY)<br>[❤️⁠24](https://www.youtube.com/watch?v=aUQ9sjp_YzY) |
 | Links | [CAD](https://github.com/alexyu132/fusebox2/blob/master/FuseBox2R.skp)<br>[Manual](https://github.com/alexyu132/fusebox2/blob/master/Build%20Tips.md)<br>[BOM](https://github.com/alexyu132/fusebox2#bom) |
 | Groups | — |
+| License | [GPL-3.0](https://github.com/alexyu132/fusebox2/blob/master/LICENSE) |
 
 ## Pictures (6)
 

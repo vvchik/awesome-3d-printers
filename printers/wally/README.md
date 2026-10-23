@@ -16,6 +16,7 @@
 | Stars Likes Views | [⏯️⁠31.5K](https://www.youtube.com/watch?v=iVg7WrgHJik)<br>[❤️⁠171](https://www.youtube.com/watch?v=iVg7WrgHJik) |
 | Links | — |
 | Groups | [Forum](https://reprap.org/forum/list.php?185) EN |
+| License | [GPL-3.0](https://github.com/NicholasSeward/ConceptFORGE/blob/master/LICENSE) |
 
 ## Pictures (6)
 

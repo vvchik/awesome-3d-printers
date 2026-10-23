@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/Annex-Engineering/Chhogori-K2?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/Annex-Engineering/Chhogori-K2)<br>[⏯️⁠35.3K](https://www.youtube.com/watch?v=MTtGYOv85oY)<br>[❤️⁠225](https://www.youtube.com/watch?v=MTtGYOv85oY) |
 | Links | [CAD](https://github.com/Annex-Engineering/Chhogori-K2/tree/master/Release_4.0)<br>[BOM](https://docs.google.com/spreadsheets/d/1O3eyVuQ6M4F03MJSDs4Z71_XyNjXL5HFTZr1jsaAtRc/edit) |
 | Groups | [Discord](https://discord.gg/MzTR3zE) EN 11.4K |
+| License | [ANNEX Engineering License](https://github.com/Annex-Engineering/ANNEX-Engineering-License-Agreement/blob/master/LICENSE.md) |
 
 ## Pictures (4)
 

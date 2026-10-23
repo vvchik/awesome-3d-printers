@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/skarab42/RepRap-iTopie?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/skarab42/RepRap-iTopie)<br>[💙⁠228](https://www.thingiverse.com/thing:888609) |
 | Links | [Manual](https://reprap.org/wiki/ITopie_Build_Manual)<br>[Wiki](https://reprap.org/wiki/ITopie) |
 | Groups | [Forum](https://reprap.org/forum/list.php?406) EN |
+| License | [GPL-3.0](https://github.com/skarab42/RepRap-iTopie/blob/dev/LICENSE.md) |
 
 ## Pictures (9)
 

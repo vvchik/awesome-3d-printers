@@ -16,6 +16,7 @@
 | Stars Likes Views | [🧡⁠955](https://www.printables.com/model/387431-rook-mk1-3d-printer)<br>[⏯️⁠46.6K](https://www.youtube.com/watch?v=JbOr9a6ECg8)<br>[❤️⁠1.9K](https://www.youtube.com/watch?v=JbOr9a6ECg8) |
 | Links | [Manual](https://drive.google.com/file/d/1Nc4iz1Pq0eWxs1gyqM3IEtTrQ-v9zu7r/view)<br>[STEP](https://github.com/rolohaun/Rook/blob/HEAD/CAD/Rook_MK1.step) |
 | Groups | [Discord](https://discord.gg/rolohaun-3d-946191040682008666) EN 7.8K |
+| License | [CC BY-NC 4.0](https://github.com/rolohaun/Rook/blob/main/LICENSE.md) |
 
 ## Pictures (6)
 

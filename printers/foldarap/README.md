@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/EmmanuelG/Foldarap?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/EmmanuelG/Foldarap)<br>[💙⁠1.6K](https://www.thingiverse.com/thing:15877)<br>[⏯️⁠12.7K](https://www.youtube.com/watch?v=XODWCUfyM1o)<br>[❤️⁠48](https://www.youtube.com/watch?v=XODWCUfyM1o) |
 | Links | [Files](https://github.com/EmmanuelG/Foldarap) |
 | Groups | [Forum](https://reprap.org/forum/list.php?283) EN inactive |
+| License | [GPL-3.0](https://github.com/EmmanuelG/Foldarap/blob/master/LICENSE) |
 
 ## Pictures (11)
 

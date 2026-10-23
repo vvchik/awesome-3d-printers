@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/reprappro/Ormerod?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/reprappro/Ormerod)<br>[⏯️⁠7K](https://www.youtube.com/watch?v=HoZ7rOVZr-Q)<br>[❤️⁠20](https://www.youtube.com/watch?v=HoZ7rOVZr-Q) |
 | Links | [CAD](https://github.com/reprappro/Ormerod/tree/master/freeCAD)<br>[Manual](https://reprap.org/wiki/Ormerod#Build_instructions) |
 | Groups | [Forum](https://reprap.org/forum/list.php?340) EN |
+| License | [GPL-3.0](https://github.com/reprappro/Ormerod/blob/master/README.md) |
 
 ## Pictures (5)
 

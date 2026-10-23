@@ -16,6 +16,7 @@
 | Stars Likes Views | [🧡⁠298](https://www.printables.com/model/1473500-simplecore)<br>[⏯️⁠89.7K](https://www.youtube.com/watch?v=HWfT2JbMOvM)<br>[❤️⁠1.8K](https://www.youtube.com/watch?v=HWfT2JbMOvM) |
 | Links | [Files](https://www.printables.com/model/1473500-simplecore/files)<br>[STEP](https://github.com/rolohaun/SimpleCore/blob/HEAD/CAD/SimpleCore%20MK1.step) |
 | Groups | [Discord](https://discord.gg/rolohaun-3d-946191040682008666) EN 7.8K |
+| License | [CC BY-NC-SA 4.0](https://www.printables.com/model/1473500-simplecore) |
 
 ## Pictures (5)
 

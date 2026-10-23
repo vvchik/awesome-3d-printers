@@ -16,6 +16,7 @@
 | Stars Likes Views | [⏯️⁠55.2K](https://www.youtube.com/watch?v=toZpNpHQI7w)<br>[❤️⁠29](https://www.youtube.com/watch?v=toZpNpHQI7w) |
 | Links | — |
 | Groups | [Forum](https://reprap.org/forum/list.php?151) EN |
+| License | [GPL-2.0](https://reprap.org/wiki/Mendel) |
 
 ## Pictures (12)
 

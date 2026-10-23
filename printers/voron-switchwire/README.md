@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/VoronDesign/Voron-Switchwire?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/VoronDesign/Voron-Switchwire)<br>[⏯️⁠88.8K](https://www.youtube.com/watch?v=jwPLl1v5ae4)<br>[❤️⁠1K](https://www.youtube.com/watch?v=jwPLl1v5ae4) |
 | Links | [Manual](https://github.com/VoronDesign/Voron-Switchwire/blob/HEAD/Manuals/Assembly_Manual_SW.pdf)<br>[CAD](https://github.com/VoronDesign/Voron-Switchwire/tree/HEAD/CAD) |
 | Groups | [Discord](https://discord.gg/voron) EN 40.8K<br>[Reddit](https://www.reddit.com/r/VORONDesign/) EN 39.7K<br>[Forum](https://forum.vorondesign.com/) EN 12.8K<br>[Facebook](https://www.facebook.com/groups/voroncorexy/) EN 54.2K<br>[Facebook](https://www.facebook.com/groups/479932403103163/) DE 2.6K<br>[Telegram](https://t.me/aboutvoron) RU 551<br>[Telegram](https://t.me/voron_siboor_es) ES 212<br>[Forum](https://www.lesimprimantes3d.fr/forum/154-voron/) FR |
+| License | [GPL-3.0](https://github.com/VoronDesign/Voron-Switchwire/blob/master/LICENSE) |
 
 ## Pictures (7)
 

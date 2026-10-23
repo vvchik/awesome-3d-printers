@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/iquizzle/uconduit?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/iquizzle/uconduit)<br>[💙⁠367](https://www.thingiverse.com/thing:102972)<br>[⏯️⁠22K](https://www.youtube.com/watch?v=73MlaBWCTPU)<br>[❤️⁠50](https://www.youtube.com/watch?v=73MlaBWCTPU) |
 | Links | [Files](https://github.com/iquizzle/uconduit)<br>[Manual](https://hackaday.com/2013/06/12/using-electrical-conduit-for-a-3d-printer-frame/)<br>[BOM](https://github.com/iquizzle/uconduit/blob/HEAD/UCON_BOM.pdf)<br>[Wiki](https://reprap.org/wiki/Uconduit) |
 | Groups | — |
+| License | [CC BY-SA 3.0](https://github.com/iquizzle/uconduit/blob/master/LICENSE.txt) |
 
 ## Pictures (6)
 

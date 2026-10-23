@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/Ultimaker/Ultimaker2Go?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/Ultimaker/Ultimaker2Go)<br>[⏯️⁠84.8K](https://www.youtube.com/watch?v=C0PyS0v-ssc)<br>[❤️⁠230](https://www.youtube.com/watch?v=C0PyS0v-ssc) |
 | Links | [Files](https://github.com/Ultimaker/Ultimaker2Go)<br>[Manual](https://um-support-files.ultimaker.com/manuals/user-manual/UM2GO/Ultimaker%202%20Go%20-%20User%20manual%20EN%20v2.1.pdf) |
 | Groups | [Forum](https://community.ultimaker.com/) EN<br>[Forum](https://community.ultimaker.com/forum/124-deutsch/) DE<br>[Forum](https://community.ultimaker.com/forum/126-fran%C3%A7ais/) FR<br>[Forum](https://community.ultimaker.com/forum/125-espa%C3%B1ol/) ES<br>[Forum](https://community.ultimaker.com/forum/123-nederlands/) NL<br>[Reddit](https://www.reddit.com/r/ultimaker/) EN 4.6K |
+| License | [CC BY-NC 3.0](https://github.com/Ultimaker/Ultimaker2Go/blob/master/LICENSE) |
 
 ## Pictures (4)
 
