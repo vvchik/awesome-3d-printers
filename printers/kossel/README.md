@@ -20,5 +20,5 @@
 ## Pictures (3)
 
 <table>
-<tr><td align="center" width="33%"><a href="0-kossel.jpg"><img src="0-kossel.jpg" width="260" alt="Kossel picture 0"></a></td><td align="center" width="33%"><a href="1-kossel.jpg"><img src="1-kossel.jpg" width="260" alt="Kossel picture 1"></a></td><td align="center" width="33%"><a href="2-kossel.jpg"><img src="2-kossel.jpg" width="260" alt="Kossel picture 2"></a></td></tr>
+<tr><td align="center" width="33%"><a href="0-kossel.jpg"><img src="0-kossel.jpg" width="260" alt="Kossel picture 0"></a><br><sub>Photo: <a href="https://reprap.org/wiki/User:Johann">Johann C. Rocholl</a></sub></td><td align="center" width="33%"><a href="1-kossel.jpg"><img src="1-kossel.jpg" width="260" alt="Kossel picture 1"></a><br><sub>Photo: <a href="https://www.flickr.com/photos/jcrocholl/">Johann C. Rocholl</a></sub></td><td align="center" width="33%"><a href="2-kossel.jpg"><img src="2-kossel.jpg" width="260" alt="Kossel picture 2"></a><br><sub>Photo: <a href="https://www.youtube.com/@JohannRocholl">Johann Rocholl</a></sub></td></tr>
 </table>

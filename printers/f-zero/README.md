@@ -20,6 +20,6 @@
 ## Pictures (5)
 
 <table>
-<tr><td align="center" width="33%"><a href="0-f-zero.jpg"><img src="0-f-zero.jpg" width="260" alt="F-Zero picture 0"></a></td><td align="center" width="33%"><a href="1-f-zero.jpg"><img src="1-f-zero.jpg" width="260" alt="F-Zero picture 1"></a></td><td align="center" width="33%"><a href="2-f-zero.jpg"><img src="2-f-zero.jpg" width="260" alt="F-Zero picture 2"></a></td></tr>
-<tr><td align="center" width="33%"><a href="3-f-zero.jpg"><img src="3-f-zero.jpg" width="260" alt="F-Zero picture 3"></a></td><td align="center" width="33%"><a href="4-f-zero.jpg"><img src="4-f-zero.jpg" width="260" alt="F-Zero picture 4"></a></td></tr>
+<tr><td align="center" width="33%"><a href="0-f-zero.jpg"><img src="0-f-zero.jpg" width="260" alt="F-Zero picture 0"></a><br><sub>Photo: <a href="https://github.com/zruncho3d">Zruncho 3D</a></sub></td><td align="center" width="33%"><a href="1-f-zero.jpg"><img src="1-f-zero.jpg" width="260" alt="F-Zero picture 1"></a><br><sub>Photo: <a href="https://github.com/zruncho3d">Zruncho 3D</a></sub></td><td align="center" width="33%"><a href="2-f-zero.jpg"><img src="2-f-zero.jpg" width="260" alt="F-Zero picture 2"></a><br><sub>Photo: <a href="https://github.com/zruncho3d">Zruncho 3D</a></sub></td></tr>
+<tr><td align="center" width="33%"><a href="3-f-zero.jpg"><img src="3-f-zero.jpg" width="260" alt="F-Zero picture 3"></a><br><sub>Photo: <a href="https://github.com/zruncho3d">Zruncho 3D</a></sub></td><td align="center" width="33%"><a href="4-f-zero.jpg"><img src="4-f-zero.jpg" width="260" alt="F-Zero picture 4"></a><br><sub>Photo: <a href="https://www.youtube.com/@zruncho3d">Zruncho 3D</a></sub></td></tr>
 </table>

@@ -20,6 +20,6 @@
 ## Pictures (5)
 
 <table>
-<tr><td align="center" width="33%"><a href="0-salad-fork.jpg"><img src="0-salad-fork.jpg" width="260" alt="Salad Fork picture 0"></a></td><td align="center" width="33%"><a href="1-salad-fork.jpg"><img src="1-salad-fork.jpg" width="260" alt="Salad Fork picture 1"></a></td><td align="center" width="33%"><a href="2-salad-fork.jpg"><img src="2-salad-fork.jpg" width="260" alt="Salad Fork picture 2"></a></td></tr>
-<tr><td align="center" width="33%"><a href="3-salad-fork.jpg"><img src="3-salad-fork.jpg" width="260" alt="Salad Fork picture 3"></a></td><td align="center" width="33%"><a href="4-salad-fork.jpg"><img src="4-salad-fork.jpg" width="260" alt="Salad Fork picture 4"></a></td></tr>
+<tr><td align="center" width="33%"><a href="0-salad-fork.jpg"><img src="0-salad-fork.jpg" width="260" alt="Salad Fork picture 0"></a><br><sub>Photo: <a href="https://github.com/Yeriwyn">Yeriwyn</a></sub></td><td align="center" width="33%"><a href="1-salad-fork.jpg"><img src="1-salad-fork.jpg" width="260" alt="Salad Fork picture 1"></a><br><sub>Photo: <a href="https://www.formbot3d.com/">Formbot</a></sub></td><td align="center" width="33%"><a href="2-salad-fork.jpg"><img src="2-salad-fork.jpg" width="260" alt="Salad Fork picture 2"></a><br><sub>Photo: <a href="https://west3d.com/">West3D</a></sub></td></tr>
+<tr><td align="center" width="33%"><a href="3-salad-fork.jpg"><img src="3-salad-fork.jpg" width="260" alt="Salad Fork picture 3"></a><br><sub>Photo: <a href="https://west3d.com/">West3D</a></sub></td><td align="center" width="33%"><a href="4-salad-fork.jpg"><img src="4-salad-fork.jpg" width="260" alt="Salad Fork picture 4"></a><br><sub>Photo: <a href="https://west3d.com/">West3D</a></sub></td></tr>
 </table>

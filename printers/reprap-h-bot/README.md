@@ -20,6 +20,6 @@
 ## Pictures (4)
 
 <table>
-<tr><td align="center" width="33%"><a href="0-reprap-h-bot.jpg"><img src="0-reprap-h-bot.jpg" width="260" alt="RepRap H-Bot Project picture 0"></a></td><td align="center" width="33%"><a href="1-reprap-h-bot.jpg"><img src="1-reprap-h-bot.jpg" width="260" alt="RepRap H-Bot Project picture 1"></a></td><td align="center" width="33%"><a href="2-reprap-h-bot.jpg"><img src="2-reprap-h-bot.jpg" width="260" alt="RepRap H-Bot Project picture 2"></a></td></tr>
-<tr><td align="center" width="33%"><a href="3-reprap-h-bot.jpg"><img src="3-reprap-h-bot.jpg" width="260" alt="RepRap H-Bot Project picture 3"></a></td></tr>
+<tr><td align="center" width="33%"><a href="0-reprap-h-bot.jpg"><img src="0-reprap-h-bot.jpg" width="260" alt="RepRap H-Bot Project picture 0"></a><br><sub>Photo: <a href="https://3dtoday.ru/blogs/yurkovd">YurkovD</a></sub></td><td align="center" width="33%"><a href="1-reprap-h-bot.jpg"><img src="1-reprap-h-bot.jpg" width="260" alt="RepRap H-Bot Project picture 1"></a><br><sub>Photo: <a href="https://3dtoday.ru/blogs/yurkovd">YurkovD</a></sub></td><td align="center" width="33%"><a href="2-reprap-h-bot.jpg"><img src="2-reprap-h-bot.jpg" width="260" alt="RepRap H-Bot Project picture 2"></a><br><sub>Photo: <a href="https://www.reddit.com/user/arki002">u/arki002</a></sub></td></tr>
+<tr><td align="center" width="33%"><a href="3-reprap-h-bot.jpg"><img src="3-reprap-h-bot.jpg" width="260" alt="RepRap H-Bot Project picture 3"></a><br><sub>Photo: <a href="https://www.reddit.com/user/360alaska">u/360alaska</a></sub></td></tr>
 </table>

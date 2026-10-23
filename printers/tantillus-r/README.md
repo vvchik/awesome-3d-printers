@@ -20,6 +20,6 @@
 ## Pictures (4)
 
 <table>
-<tr><td align="center" width="33%"><a href="0-tantillus-r.jpg"><img src="0-tantillus-r.jpg" width="260" alt="Tantillus R picture 0"></a></td><td align="center" width="33%"><a href="1-tantillus-r.jpg"><img src="1-tantillus-r.jpg" width="260" alt="Tantillus R picture 1"></a></td><td align="center" width="33%"><a href="2-tantillus-r.jpg"><img src="2-tantillus-r.jpg" width="260" alt="Tantillus R picture 2"></a></td></tr>
-<tr><td align="center" width="33%"><a href="3-tantillus-r.jpg"><img src="3-tantillus-r.jpg" width="260" alt="Tantillus R picture 3"></a></td></tr>
+<tr><td align="center" width="33%"><a href="0-tantillus-r.jpg"><img src="0-tantillus-r.jpg" width="260" alt="Tantillus R picture 0"></a><br><sub>Photo: <a href="https://github.com/toolson">Lars Scheuten (toolson)</a></sub></td><td align="center" width="33%"><a href="1-tantillus-r.jpg"><img src="1-tantillus-r.jpg" width="260" alt="Tantillus R picture 1"></a><br><sub>Photo: <a href="https://www.youtube.com/@aidilj">aidil jazmi</a></sub></td><td align="center" width="33%"><a href="2-tantillus-r.jpg"><img src="2-tantillus-r.jpg" width="260" alt="Tantillus R picture 2"></a><br><sub>Photo: <a href="https://www.blogger.com/profile/17981768588609934835">Sublime</a></sub></td></tr>
+<tr><td align="center" width="33%"><a href="3-tantillus-r.jpg"><img src="3-tantillus-r.jpg" width="260" alt="Tantillus R picture 3"></a><br><sub>Photo: <a href="https://reprap.org/forum/profile.php?279,41675">toolson</a></sub></td></tr>
 </table>

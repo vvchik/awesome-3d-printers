@@ -21,5 +21,5 @@
 ## Pictures (3)
 
 <table>
-<tr><td align="center" width="33%"><a href="0-infini-z.jpg"><img src="0-infini-z.jpg" width="260" alt="Infini-Z picture 0"></a></td><td align="center" width="33%"><a href="1-infini-z.jpg"><img src="1-infini-z.jpg" width="260" alt="Infini-Z picture 1"></a></td><td align="center" width="33%"><a href="2-infini-z.jpg"><img src="2-infini-z.jpg" width="260" alt="Infini-Z picture 2"></a></td></tr>
+<tr><td align="center" width="33%"><a href="0-infini-z.jpg"><img src="0-infini-z.jpg" width="260" alt="Infini-Z picture 0"></a><br><sub>Photo: <a href="https://www.printables.com/@SunShine">SunShine</a></sub></td><td align="center" width="33%"><a href="1-infini-z.jpg"><img src="1-infini-z.jpg" width="260" alt="Infini-Z picture 1"></a><br><sub>Photo: <a href="https://www.thingiverse.com/Turbo_SunShine">Turbo_SunShine</a></sub></td><td align="center" width="33%"><a href="2-infini-z.jpg"><img src="2-infini-z.jpg" width="260" alt="Infini-Z picture 2"></a><br><sub>Photo: <a href="https://www.printables.com/@Inspir0n">Inspir0n</a></sub></td></tr>
 </table>

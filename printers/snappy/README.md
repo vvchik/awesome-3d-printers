@@ -20,6 +20,6 @@
 ## Pictures (5)
 
 <table>
-<tr><td align="center" width="33%"><a href="0-snappy.jpg"><img src="0-snappy.jpg" width="260" alt="Snappy picture 0"></a></td><td align="center" width="33%"><a href="1-snappy.jpg"><img src="1-snappy.jpg" width="260" alt="Snappy picture 1"></a></td><td align="center" width="33%"><a href="2-snappy.jpg"><img src="2-snappy.jpg" width="260" alt="Snappy picture 2"></a></td></tr>
-<tr><td align="center" width="33%"><a href="3-snappy.jpg"><img src="3-snappy.jpg" width="260" alt="Snappy picture 3"></a></td><td align="center" width="33%"><a href="4-snappy.jpg"><img src="4-snappy.jpg" width="260" alt="Snappy picture 4"></a></td></tr>
+<tr><td align="center" width="33%"><a href="0-snappy.jpg"><img src="0-snappy.jpg" width="260" alt="Snappy picture 0"></a><br><sub>Photo: <a href="https://github.com/revarbat">Revar Desmera</a></sub></td><td align="center" width="33%"><a href="1-snappy.jpg"><img src="1-snappy.jpg" width="260" alt="Snappy picture 1"></a><br><sub>Photo: <a href="https://github.com/revarbat">Revar Desmera</a></sub></td><td align="center" width="33%"><a href="2-snappy.jpg"><img src="2-snappy.jpg" width="260" alt="Snappy picture 2"></a><br><sub>Photo: <a href="https://github.com/revarbat">Revar Desmera</a></sub></td></tr>
+<tr><td align="center" width="33%"><a href="3-snappy.jpg"><img src="3-snappy.jpg" width="260" alt="Snappy picture 3"></a><br><sub>Photo: <a href="https://www.youtube.com/@RevarDesmera">Revar Desmera</a></sub></td><td align="center" width="33%"><a href="4-snappy.jpg"><img src="4-snappy.jpg" width="260" alt="Snappy picture 4"></a><br><sub>Photo: <a href="https://www.youtube.com/@DrDFlo">Dr. D-Flo</a></sub></td></tr>
 </table>

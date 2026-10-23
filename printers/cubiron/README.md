@@ -20,6 +20,6 @@
 ## Pictures (5)
 
 <table>
-<tr><td align="center" width="33%"><a href="0-cubiron.jpg"><img src="0-cubiron.jpg" width="260" alt="Cubiron picture 0"></a></td><td align="center" width="33%"><a href="1-cubiron.jpg"><img src="1-cubiron.jpg" width="260" alt="Cubiron picture 1"></a></td><td align="center" width="33%"><a href="2-cubiron.jpg"><img src="2-cubiron.jpg" width="260" alt="Cubiron picture 2"></a></td></tr>
-<tr><td align="center" width="33%"><a href="3-cubiron.jpg"><img src="3-cubiron.jpg" width="260" alt="Cubiron picture 3"></a></td><td align="center" width="33%"><a href="4-cubiron.jpg"><img src="4-cubiron.jpg" width="260" alt="Cubiron picture 4"></a></td></tr>
+<tr><td align="center" width="33%"><a href="0-cubiron.jpg"><img src="0-cubiron.jpg" width="260" alt="Cubiron picture 0"></a><br><sub>Photo: <a href="https://github.com/ThatGuyHes">RobertGcode</a></sub></td><td align="center" width="33%"><a href="1-cubiron.jpg"><img src="1-cubiron.jpg" width="260" alt="Cubiron picture 1"></a><br><sub>Photo: <a href="https://www.youtube.com/@robertgcode965">RobertGcode</a></sub></td><td align="center" width="33%"><a href="2-cubiron.jpg"><img src="2-cubiron.jpg" width="260" alt="Cubiron picture 2"></a><br><sub>Photo: <a href="https://github.com/ThatGuyHes">RobertGcode</a></sub></td></tr>
+<tr><td align="center" width="33%"><a href="3-cubiron.jpg"><img src="3-cubiron.jpg" width="260" alt="Cubiron picture 3"></a><br><sub>Photo: <a href="https://github.com/ThatGuyHes">RobertGcode</a></sub></td><td align="center" width="33%"><a href="4-cubiron.jpg"><img src="4-cubiron.jpg" width="260" alt="Cubiron picture 4"></a><br><sub>Photo: <a href="https://github.com/ThatGuyHes">RobertGcode</a></sub></td></tr>
 </table>

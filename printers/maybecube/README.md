@@ -20,6 +20,6 @@
 ## Pictures (4)
 
 <table>
-<tr><td align="center" width="33%"><a href="0-maybecube.jpg"><img src="0-maybecube.jpg" width="260" alt="MaybeCube picture 0"></a></td><td align="center" width="33%"><a href="1-maybecube.jpg"><img src="1-maybecube.jpg" width="260" alt="MaybeCube picture 1"></a></td><td align="center" width="33%"><a href="2-maybecube.jpg"><img src="2-maybecube.jpg" width="260" alt="MaybeCube picture 2"></a></td></tr>
-<tr><td align="center" width="33%"><a href="3-maybecube.jpg"><img src="3-maybecube.jpg" width="260" alt="MaybeCube picture 3"></a></td></tr>
+<tr><td align="center" width="33%"><a href="0-maybecube.jpg"><img src="0-maybecube.jpg" width="260" alt="MaybeCube picture 0"></a><br><sub>Photo: <a href="https://github.com/martinbudden">Martin Budden</a></sub></td><td align="center" width="33%"><a href="1-maybecube.jpg"><img src="1-maybecube.jpg" width="260" alt="MaybeCube picture 1"></a><br><sub>Photo: <a href="https://github.com/martinbudden">Martin Budden</a></sub></td><td align="center" width="33%"><a href="2-maybecube.jpg"><img src="2-maybecube.jpg" width="260" alt="MaybeCube picture 2"></a><br><sub>Photo: <a href="https://github.com/martinbudden">Martin Budden</a></sub></td></tr>
+<tr><td align="center" width="33%"><a href="3-maybecube.jpg"><img src="3-maybecube.jpg" width="260" alt="MaybeCube picture 3"></a><br><sub>Photo: <a href="https://github.com/martinbudden">Martin Budden</a></sub></td></tr>
 </table>

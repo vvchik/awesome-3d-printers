@@ -20,5 +20,5 @@
 ## Pictures (1)
 
 <table>
-<tr><td align="center" width="33%"><a href="0-cerberus.jpg"><img src="0-cerberus.jpg" width="260" alt="Cerberus picture 0"></a></td></tr>
+<tr><td align="center" width="33%"><a href="0-cerberus.jpg"><img src="0-cerberus.jpg" width="260" alt="Cerberus picture 0"></a><br><sub>Photo: <a href="https://github.com/grabercars">Steve Graber</a></sub></td></tr>
 </table>

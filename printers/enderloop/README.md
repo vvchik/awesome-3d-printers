@@ -20,5 +20,5 @@
 ## Pictures (3)
 
 <table>
-<tr><td align="center" width="33%"><a href="0-enderloop.jpg"><img src="0-enderloop.jpg" width="260" alt="EnderLoop picture 0"></a></td><td align="center" width="33%"><a href="1-enderloop.jpg"><img src="1-enderloop.jpg" width="260" alt="EnderLoop picture 1"></a></td><td align="center" width="33%"><a href="2-enderloop.jpg"><img src="2-enderloop.jpg" width="260" alt="EnderLoop picture 2"></a></td></tr>
+<tr><td align="center" width="33%"><a href="0-enderloop.jpg"><img src="0-enderloop.jpg" width="260" alt="EnderLoop picture 0"></a><br><sub>Photo: <a href="https://github.com/mcsgroi">mcsgroi</a></sub></td><td align="center" width="33%"><a href="1-enderloop.jpg"><img src="1-enderloop.jpg" width="260" alt="EnderLoop picture 1"></a><br><sub>Photo: <a href="https://github.com/mcsgroi">mcsgroi</a></sub></td><td align="center" width="33%"><a href="2-enderloop.jpg"><img src="2-enderloop.jpg" width="260" alt="EnderLoop picture 2"></a><br><sub>Photo: <a href="https://www.reddit.com/user/Penguinparty321">u/Penguinparty321</a></sub></td></tr>
 </table>

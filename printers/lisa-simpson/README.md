@@ -20,5 +20,5 @@
 ## Pictures (1)
 
 <table>
-<tr><td align="center" width="33%"><a href="0-lisa-simpson.jpg"><img src="0-lisa-simpson.jpg" width="260" alt="LISA Simpson picture 0"></a></td></tr>
+<tr><td align="center" width="33%"><a href="0-lisa-simpson.jpg"><img src="0-lisa-simpson.jpg" width="260" alt="LISA Simpson picture 0"></a><br><sub>Photo: <a href="https://www.youtube.com/@NicholasSeward">Nicholas J Seward</a></sub></td></tr>
 </table>
