@@ -17,9 +17,9 @@
 | Links | — |
 | Groups | [Forum](https://reprap.org/forum/list.php?185) EN |
 
-## Pictures (4)
+## Pictures (6)
 
 <table>
 <tr><td align="center" width="33%"><a href="0-wally.jpg"><img src="0-wally.jpg" width="260" alt="Wally picture 0"></a></td><td align="center" width="33%"><a href="1-wally.jpg"><img src="1-wally.jpg" width="260" alt="Wally picture 1"></a></td><td align="center" width="33%"><a href="2-wally.jpg"><img src="2-wally.jpg" width="260" alt="Wally picture 2"></a></td></tr>
-<tr><td align="center" width="33%"><a href="3-wally.jpg"><img src="3-wally.jpg" width="260" alt="Wally picture 3"></a></td></tr>
+<tr><td align="center" width="33%"><a href="3-wally.jpg"><img src="3-wally.jpg" width="260" alt="Wally picture 3"></a></td><td align="center" width="33%"><a href="4-wally.jpg"><img src="4-wally.jpg" width="260" alt="Wally picture 4"></a></td><td align="center" width="33%"><a href="5-wally.jpg"><img src="5-wally.jpg" width="260" alt="Wally picture 5"></a></td></tr>
 </table>

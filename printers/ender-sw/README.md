@@ -17,8 +17,9 @@
 | Links | [Original](https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/Triano/Ender_3Pro_Switchwire)<br>[CAD](https://github.com/boubounokefalos/Ender_SW/tree/main/CAD)<br>[Wiki](https://github.com/boubounokefalos/Ender_SW/wiki) |
 | Groups | [Discord](https://discord.gg/voron) EN 40.8K |
 
-## Pictures (3)
+## Pictures (5)
 
 <table>
 <tr><td align="center" width="33%"><a href="0-ender-sw.jpg"><img src="0-ender-sw.jpg" width="260" alt="Ender_SW picture 0"></a></td><td align="center" width="33%"><a href="1-ender-sw.jpg"><img src="1-ender-sw.jpg" width="260" alt="Ender_SW picture 1"></a></td><td align="center" width="33%"><a href="2-ender-sw.jpg"><img src="2-ender-sw.jpg" width="260" alt="Ender_SW picture 2"></a></td></tr>
+<tr><td align="center" width="33%"><a href="3-ender-sw.jpg"><img src="3-ender-sw.jpg" width="260" alt="Ender_SW picture 3"></a></td><td align="center" width="33%"><a href="4-ender-sw.jpg"><img src="4-ender-sw.jpg" width="260" alt="Ender_SW picture 4"></a></td></tr>
 </table>

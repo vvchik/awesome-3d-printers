@@ -17,8 +17,9 @@
 | Links | [BOM](https://docs.google.com/spreadsheets/d/1TM1vca-hA29apzcBjQ2FyvvZ5D19cWTZl7NxzBflSlU)<br>[Manual](https://railcore.dozuki.com/c/RailCore%C2%AE_Mini_Kit)<br>[Files](https://github.com/railcore/railcore-mini/tree/main/parts) |
 | Groups | [Facebook](https://www.facebook.com/groups/RailCore/) EN 2.6K<br>[Discord](https://discord.gg/Sy569Hq) EN 742<br>[Reddit](https://www.reddit.com/r/railcore/) EN 206 |
 
-## Pictures (3)
+## Pictures (4)
 
 <table>
 <tr><td align="center" width="33%"><a href="0-railcore-mini.jpg"><img src="0-railcore-mini.jpg" width="260" alt="RailCore Mini picture 0"></a></td><td align="center" width="33%"><a href="1-railcore-mini.jpg"><img src="1-railcore-mini.jpg" width="260" alt="RailCore Mini picture 1"></a></td><td align="center" width="33%"><a href="2-railcore-mini.jpg"><img src="2-railcore-mini.jpg" width="260" alt="RailCore Mini picture 2"></a></td></tr>
+<tr><td align="center" width="33%"><a href="3-railcore-mini.jpg"><img src="3-railcore-mini.jpg" width="260" alt="RailCore Mini picture 3"></a></td></tr>
 </table>

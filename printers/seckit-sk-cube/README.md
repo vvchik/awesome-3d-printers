@@ -6,10 +6,10 @@
 
 | Field | Value |
 | --- | --- |
-| Section | CoreXY · Medium (181–299 mm representative X/Y size) |
+| Section | Legacy designs |
 | Project page | [https://github.com/SecKit/SK-Cube](https://github.com/SecKit/SK-Cube) |
 | Author | SecKit family |
-| About | Smaller self-sourceable 200 mm CoreXY. |
+| About | Smaller self-sourceable 200 mm CoreXY. No update since 2024-10. |
 | Build volume (X×Y×Z) | 200×200×200 |
 | Exterior (W×D×H) | — |
 | Latest version | CAD<br>[2024-10](https://github.com/SecKit/SK-Cube/commit/511a88e391036c4d58976461c35562cc03a3d76a) |

@@ -6,10 +6,10 @@
 
 | Field | Value |
 | --- | --- |
-| Section | CoreXY · Large (≥300 × 300 mm) |
+| Section | Legacy designs |
 | Project page | [https://github.com/SecKit/SK-Tank](https://github.com/SecKit/SK-Tank) |
 | Author | SecKit family |
-| About | All-metal frame kit design. |
+| About | All-metal frame kit design. No update since 2024-03. |
 | Build volume (X×Y×Z) | 350×350×400 |
 | Exterior (W×D×H) | 560×530×710 |
 | Latest version | v2<br>[2024-03](https://github.com/SecKit/SK-Tank/commit/a49a40e45f2f78543e51cf1fb0d3fb20d75e841f) |
@@ -17,8 +17,9 @@
 | Links | [Manual](https://sites.google.com/view/seckit-wiki/sk-tank-350x350x400) |
 | Groups | [Facebook](https://www.facebook.com/groups/SecKitCoreXY3DP/) EN 2.6K |
 
-## Pictures (2)
+## Pictures (5)
 
 <table>
-<tr><td align="center" width="33%"><a href="0-seckit-sk-tank.jpg"><img src="0-seckit-sk-tank.jpg" width="260" alt="SecKit SK-Tank picture 0"></a></td><td align="center" width="33%"><a href="1-seckit-sk-tank.jpg"><img src="1-seckit-sk-tank.jpg" width="260" alt="SecKit SK-Tank picture 1"></a></td></tr>
+<tr><td align="center" width="33%"><a href="0-seckit-sk-tank.jpg"><img src="0-seckit-sk-tank.jpg" width="260" alt="SecKit SK-Tank picture 0"></a></td><td align="center" width="33%"><a href="1-seckit-sk-tank.jpg"><img src="1-seckit-sk-tank.jpg" width="260" alt="SecKit SK-Tank picture 1"></a></td><td align="center" width="33%"><a href="2-seckit-sk-tank.jpg"><img src="2-seckit-sk-tank.jpg" width="260" alt="SecKit SK-Tank picture 2"></a></td></tr>
+<tr><td align="center" width="33%"><a href="3-seckit-sk-tank.jpg"><img src="3-seckit-sk-tank.jpg" width="260" alt="SecKit SK-Tank picture 3"></a></td><td align="center" width="33%"><a href="4-seckit-sk-tank.jpg"><img src="4-seckit-sk-tank.jpg" width="260" alt="SecKit SK-Tank picture 4"></a></td></tr>
 </table>

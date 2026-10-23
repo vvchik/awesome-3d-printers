@@ -17,9 +17,9 @@
 | Links | [STEP](https://github.com/prusa3d/Original-Prusa-MINI/tree/master/STEP)<br>[BOM](https://github.com/prusa3d/Original-Prusa-MINI/tree/master/BOM)<br>[Manual](https://help.prusa3d.com/en/tag/mini-2/) |
 | Groups | [Forum](https://forum.prusa3d.com/forum/original-prusa-mini/) EN 78.7K<br>[Reddit](https://www.reddit.com/r/prusa3d/) EN 112K<br>[Forum](https://forum.prusa3d.com/es/) ES 78.7K<br>[Forum](https://forum.prusa3d.com/cs/) CS 78.7K<br>[Facebook](https://www.facebook.com/groups/Prusai3users/) EN 47.5K<br>[Discord](https://discord.gg/prusa3d) EN 13.6K |
 
-## Pictures (4)
+## Pictures (6)
 
 <table>
 <tr><td align="center" width="33%"><a href="0-prusa-mini.jpg"><img src="0-prusa-mini.jpg" width="260" alt="Original Prusa MINI / MINI+ picture 0"></a></td><td align="center" width="33%"><a href="1-prusa-mini.jpg"><img src="1-prusa-mini.jpg" width="260" alt="Original Prusa MINI / MINI+ picture 1"></a></td><td align="center" width="33%"><a href="2-prusa-mini.jpg"><img src="2-prusa-mini.jpg" width="260" alt="Original Prusa MINI / MINI+ picture 2"></a></td></tr>
-<tr><td align="center" width="33%"><a href="3-prusa-mini.jpg"><img src="3-prusa-mini.jpg" width="260" alt="Original Prusa MINI / MINI+ picture 3"></a></td></tr>
+<tr><td align="center" width="33%"><a href="3-prusa-mini.jpg"><img src="3-prusa-mini.jpg" width="260" alt="Original Prusa MINI / MINI+ picture 3"></a></td><td align="center" width="33%"><a href="4-prusa-mini.jpg"><img src="4-prusa-mini.jpg" width="260" alt="Original Prusa MINI / MINI+ picture 4"></a></td><td align="center" width="33%"><a href="5-prusa-mini.jpg"><img src="5-prusa-mini.jpg" width="260" alt="Original Prusa MINI / MINI+ picture 5"></a></td></tr>
 </table>

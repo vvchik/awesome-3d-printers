@@ -17,8 +17,9 @@
 | Links | [Files](https://www.printables.com/model/255684-ender-ez-belt-3d-printer-conversion) |
 | Groups | — |
 
-## Pictures (3)
+## Pictures (5)
 
 <table>
 <tr><td align="center" width="33%"><a href="0-ender-ez-belt.jpg"><img src="0-ender-ez-belt.jpg" width="260" alt="Ender EZ Belt picture 0"></a></td><td align="center" width="33%"><a href="1-ender-ez-belt.jpg"><img src="1-ender-ez-belt.jpg" width="260" alt="Ender EZ Belt picture 1"></a></td><td align="center" width="33%"><a href="2-ender-ez-belt.jpg"><img src="2-ender-ez-belt.jpg" width="260" alt="Ender EZ Belt picture 2"></a></td></tr>
+<tr><td align="center" width="33%"><a href="3-ender-ez-belt.jpg"><img src="3-ender-ez-belt.jpg" width="260" alt="Ender EZ Belt picture 3"></a></td><td align="center" width="33%"><a href="4-ender-ez-belt.jpg"><img src="4-ender-ez-belt.jpg" width="260" alt="Ender EZ Belt picture 4"></a></td></tr>
 </table>

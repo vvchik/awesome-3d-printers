@@ -6,10 +6,10 @@
 
 | Field | Value |
 | --- | --- |
-| Section | CoreXY · Large (≥300 × 300 mm) |
+| Section | Legacy designs |
 | Project page | [https://github.com/SecKit/SK-Go_SK-Mini](https://github.com/SecKit/SK-Go_SK-Mini) |
 | Author | SecKit family |
-| About | Extrusion-frame design with a self-sourcing path. |
+| About | Extrusion-frame design with a self-sourcing path. No update since 2024-07. |
 | Build volume (X×Y×Z) | 310×310×350 |
 | Exterior (W×D×H) | 520×500×500 |
 | Latest version | Go3<br>[2024-07](https://github.com/SecKit/SK-Go_SK-Mini/commit/36d0f9fadb08e65ddb99c8e1aae8fd9637878261) |

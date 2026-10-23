@@ -17,9 +17,9 @@
 | Links | [CAD](https://github.com/zruncho3d/f-zero/tree/main/CAD)<br>[Manual](https://github.com/zruncho3d/f-zero#buildlog-and-design-doc) |
 | Groups | [Discord](https://discord.gg/voron) EN 40.8K<br>[Discord](https://discord.gg/doomcube) EN 6.9K<br>[Reddit](https://www.reddit.com/r/voroncorexy/) EN 30.3K |
 
-## Pictures (4)
+## Pictures (5)
 
 <table>
 <tr><td align="center" width="33%"><a href="0-f-zero.jpg"><img src="0-f-zero.jpg" width="260" alt="F-Zero picture 0"></a></td><td align="center" width="33%"><a href="1-f-zero.jpg"><img src="1-f-zero.jpg" width="260" alt="F-Zero picture 1"></a></td><td align="center" width="33%"><a href="2-f-zero.jpg"><img src="2-f-zero.jpg" width="260" alt="F-Zero picture 2"></a></td></tr>
-<tr><td align="center" width="33%"><a href="3-f-zero.jpg"><img src="3-f-zero.jpg" width="260" alt="F-Zero picture 3"></a></td></tr>
+<tr><td align="center" width="33%"><a href="3-f-zero.jpg"><img src="3-f-zero.jpg" width="260" alt="F-Zero picture 3"></a></td><td align="center" width="33%"><a href="4-f-zero.jpg"><img src="4-f-zero.jpg" width="260" alt="F-Zero picture 4"></a></td></tr>
 </table>

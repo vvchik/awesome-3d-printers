@@ -17,8 +17,9 @@
 | Links | [STEP](https://github.com/ThatGuyHes/CUBIRON/tree/main/CAD)<br>[Manual](https://github.com/ThatGuyHes/CUBIRON/tree/main/docs)<br>[Firmware](https://github.com/ThatGuyHes/CUBIRON/tree/main/firmware) |
 | Groups | — |
 
-## Pictures (2)
+## Pictures (5)
 
 <table>
-<tr><td align="center" width="33%"><a href="0-cubiron.jpg"><img src="0-cubiron.jpg" width="260" alt="Cubiron picture 0"></a></td><td align="center" width="33%"><a href="1-cubiron.jpg"><img src="1-cubiron.jpg" width="260" alt="Cubiron picture 1"></a></td></tr>
+<tr><td align="center" width="33%"><a href="0-cubiron.jpg"><img src="0-cubiron.jpg" width="260" alt="Cubiron picture 0"></a></td><td align="center" width="33%"><a href="1-cubiron.jpg"><img src="1-cubiron.jpg" width="260" alt="Cubiron picture 1"></a></td><td align="center" width="33%"><a href="2-cubiron.jpg"><img src="2-cubiron.jpg" width="260" alt="Cubiron picture 2"></a></td></tr>
+<tr><td align="center" width="33%"><a href="3-cubiron.jpg"><img src="3-cubiron.jpg" width="260" alt="Cubiron picture 3"></a></td><td align="center" width="33%"><a href="4-cubiron.jpg"><img src="4-cubiron.jpg" width="260" alt="Cubiron picture 4"></a></td></tr>
 </table>

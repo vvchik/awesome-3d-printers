@@ -17,8 +17,9 @@
 | Links | [BOM](https://docs.google.com/spreadsheets/d/18EqrtU4kwdb6v4gPMTdCcCdBVbxlF5-EhFE0hZtxHoA/edit)<br>[CAD](https://cad.onshape.com/documents/5010167e95003ed32232fd0e/w/756fbf38edf59fb734f7365c/e/e647ceb1e4681ba492e8722b) |
 | Groups | [Discord](https://discord.gg/rolohaun-3d-946191040682008666) EN 7.8K |
 
-## Pictures (3)
+## Pictures (5)
 
 <table>
 <tr><td align="center" width="33%"><a href="0-rook-mk2.jpg"><img src="0-rook-mk2.jpg" width="260" alt="Rook MK2 picture 0"></a></td><td align="center" width="33%"><a href="1-rook-mk2.jpg"><img src="1-rook-mk2.jpg" width="260" alt="Rook MK2 picture 1"></a></td><td align="center" width="33%"><a href="2-rook-mk2.jpg"><img src="2-rook-mk2.jpg" width="260" alt="Rook MK2 picture 2"></a></td></tr>
+<tr><td align="center" width="33%"><a href="3-rook-mk2.jpg"><img src="3-rook-mk2.jpg" width="260" alt="Rook MK2 picture 3"></a></td><td align="center" width="33%"><a href="4-rook-mk2.jpg"><img src="4-rook-mk2.jpg" width="260" alt="Rook MK2 picture 4"></a></td></tr>
 </table>
