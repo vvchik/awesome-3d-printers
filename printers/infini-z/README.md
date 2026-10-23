@@ -17,6 +17,7 @@
 | Stars Likes Views | [💙⁠240](https://www.thingiverse.com/thing:6217366)<br>[🧡⁠844](https://www.printables.com/model/581766)<br>[💛⁠33](https://cults3d.com/en/3d-model/tool/infini-z-3d-printer)<br>[⏯️⁠1.5M](https://www.youtube.com/watch?v=Ek_7tBOCcAI)<br>[❤️⁠46K](https://www.youtube.com/watch?v=Ek_7tBOCcAI) |
 | Links | [Files](https://cults3d.com/en/3d-model/tool/infini-z-3d-printer) |
 | Groups | — |
+| License | [CC0 1.0](https://www.printables.com/model/581766-infini-z-3d-printer) |
 
 ## Pictures (3)
 

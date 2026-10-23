@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/Creality3DPrinting/CR-10?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/Creality3DPrinting/CR-10)<br>[⏯️⁠4K](https://www.youtube.com/watch?v=o29NP2wDsc4)<br>[❤️⁠45](https://www.youtube.com/watch?v=o29NP2wDsc4) |
 | Links | [Files](https://github.com/Creality3DPrinting/CR-10/tree/master/3D)<br>[BOM](https://github.com/Creality3DPrinting/CR-10/tree/master/BOM)<br>[Wiring](https://github.com/Creality3DPrinting/CR-10/tree/master/Circuit%20diagram) |
 | Groups | [Facebook](https://www.facebook.com/groups/2209962369021560/) EN 9.9K<br>[Discord](https://discord.com/invite/creality) EN 25K<br>[Reddit](https://www.reddit.com/r/CR10/) EN 41.3K<br>[Telegram](https://t.me/joinchat/ANAZJ0PRxYzfNTg0d6tF0Q) ES 359<br>[Reddit](https://www.reddit.com/r/Creality/) EN 76.4K<br>[Telegram](https://t.me/crealitybr) PT 737 |
+| License | [GPL-3.0](https://github.com/Creality3DPrinting/CR-10/blob/master/README.md) |
 
 ## Pictures (5)
 

@@ -16,6 +16,7 @@
 | Stars Likes Views | [🧡⁠50](https://www.printables.com/model/1142398)<br>[⏯️⁠29.7K](https://www.youtube.com/watch?v=qzcF4g1z9MI)<br>[❤️⁠794](https://www.youtube.com/watch?v=qzcF4g1z9MI) |
 | Links | [CAD](https://a360.co/49FDeXb)<br>[Files](https://wiki.ratrig.com/products/v-core-4-1/files)<br>[Manual](https://wiki.ratrig.com/products/v-core-4-1/build-guide)<br>[BOM](https://docs.google.com/spreadsheets/d/1lGxKfwd0G22HPD6DDV5jK_a0T9UC1q8YWn3PXyn1YvQ/edit) |
 | Groups | [Facebook](https://www.facebook.com/groups/ratrig3dprintercommunity) EN 19.9K<br>[Discord](https://discord.gg/ratrig) EN 13.8K<br>[Reddit](https://www.reddit.com/r/RatRig/) EN 3K |
+| License | [CC BY-NC-SA 4.0](https://ratrig.com/products/rat-rig-v-core-4-1) |
 
 ## Pictures (6)
 

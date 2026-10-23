@@ -16,6 +16,7 @@
 | Stars Likes Views | [🧡⁠443](https://www.printables.com/model/571947-panda-mini-corexy-3d-printer)<br>[⏯️⁠18.5K](https://www.youtube.com/watch?v=EpYWnqYGDhA)<br>[❤️⁠484](https://www.youtube.com/watch?v=EpYWnqYGDhA) |
 | Links | [Files](https://www.printables.com/model/571947-panda-mini-corexy-3d-printer/files) |
 | Groups | [Discord](https://discord.gg/rolohaun-3d-946191040682008666) EN 7.8K |
+| License | [CC BY-NC](https://www.printables.com/model/571947-panda-mini-corexy-3d-printer) |
 
 ## Pictures (6)
 

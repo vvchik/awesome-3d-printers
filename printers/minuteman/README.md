@@ -17,6 +17,7 @@
 | Stars Likes Views | [⏯️⁠4.3M](https://www.youtube.com/watch?v=AJhCPCpLYcE)<br>[❤️⁠18.1K](https://www.youtube.com/watch?v=AJhCPCpLYcE) |
 | Links | [Video](https://www.youtube.com/playlist?list=PLT7wyh27LmscPT1EZpoS3BTWUJjAOQ5Gf)<br>[Hotend](https://github.com/Roetz4point0/Roetz-End) |
 | Groups | [Discord](https://discord.gg/nr6QrWE9Dd) EN 819 |
+| License | None. The design files are not public, so the catalog lists it as a concept. |
 
 ## Pictures (4)
 

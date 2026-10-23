@@ -16,6 +16,7 @@
 | Stars Likes Views | [🧡⁠293](https://www.printables.com/model/255684-ender-ez-belt-3d-printer-conversion)<br>[⏯️⁠25.1K](https://www.youtube.com/watch?v=ViQGZFbM22M)<br>[❤️⁠554](https://www.youtube.com/watch?v=ViQGZFbM22M) |
 | Links | [Files](https://www.printables.com/model/255684-ender-ez-belt-3d-printer-conversion) |
 | Groups | — |
+| License | [CC BY-SA](https://www.printables.com/model/255684-ender-ez-belt-3d-printer-conversion) |
 
 ## Pictures (5)
 

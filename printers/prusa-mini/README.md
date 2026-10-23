@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/prusa3d/Original-Prusa-MINI?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/prusa3d/Original-Prusa-MINI)<br>[🧡⁠2.7K](https://www.printables.com/model/57214)<br>[⏯️⁠1.8M](https://www.youtube.com/watch?v=ipulB4_Xdm8)<br>[❤️⁠5.6K](https://www.youtube.com/watch?v=ipulB4_Xdm8) |
 | Links | [STEP](https://github.com/prusa3d/Original-Prusa-MINI/tree/master/STEP)<br>[BOM](https://github.com/prusa3d/Original-Prusa-MINI/tree/master/BOM)<br>[Manual](https://help.prusa3d.com/en/tag/mini-2/) |
 | Groups | [Forum](https://forum.prusa3d.com/forum/original-prusa-mini/) EN 78.7K<br>[Reddit](https://www.reddit.com/r/prusa3d/) EN 112K<br>[Forum](https://forum.prusa3d.com/es/) ES 78.7K<br>[Forum](https://forum.prusa3d.com/cs/) CS 78.7K<br>[Facebook](https://www.facebook.com/groups/Prusai3users/) EN 47.5K<br>[Discord](https://discord.gg/prusa3d) EN 13.6K |
+| License | [GPL-3.0](https://github.com/prusa3d/Original-Prusa-MINI/blob/master/LICENSE) |
 
 ## Pictures (6)
 

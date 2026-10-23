@@ -16,6 +16,7 @@
 | Stars Likes Views | [⏯️⁠81.9K](https://www.youtube.com/watch?v=Mo5Hp_6uD-E)<br>[❤️⁠111](https://www.youtube.com/watch?v=Mo5Hp_6uD-E) |
 | Links | — |
 | Groups | [Forum](https://reprap.org/forum/list.php?150) EN inactive |
+| License | [GPL](https://reprap.org/wiki/RepRapOneDarwin) |
 
 ## Pictures (8)
 

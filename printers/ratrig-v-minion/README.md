@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/Rat-Rig/V-Minion?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/Rat-Rig/V-Minion)<br>[💙⁠320](https://www.thingiverse.com/thing:5259421)<br>[🧡⁠126](https://www.printables.com/model/240711)<br>[⏯️⁠46.8K](https://www.youtube.com/watch?v=XnDXDmX2tS0)<br>[❤️⁠428](https://www.youtube.com/watch?v=XnDXDmX2tS0) |
 | Links | [Files](https://github.com/Rat-Rig/V-Minion/tree/main/cad)<br>[Manual](https://rat-rig.github.io/V-Minion/) |
 | Groups | [Facebook](https://www.facebook.com/groups/ratrig3dprintercommunity) EN 19.9K<br>[Discord](https://discord.gg/ratrig) EN 13.8K<br>[Reddit](https://www.reddit.com/r/RatRig/) EN 3K |
+| License | [CC BY-NC-SA 4.0](https://github.com/Rat-Rig/V-Minion/blob/main/LICENSE) |
 
 ## Pictures (9)
 

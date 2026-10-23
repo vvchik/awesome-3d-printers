@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/SecKit/SK-Cube?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/SecKit/SK-Cube)<br>[⏯️⁠4.4K](https://www.youtube.com/watch?v=wUzZTefc6xk)<br>[❤️⁠42](https://www.youtube.com/watch?v=wUzZTefc6xk) |
 | Links | [STEP](https://github.com/SecKit/SK-Cube/tree/main/STEP%20files)<br>[BOM](https://github.com/SecKit/SK-Cube/tree/main/self-sourcing%20components)<br>[Manual](https://sites.google.com/view/seckit-wiki/sk-cube-200x200x200/assembly-manual/sk-cube-assembly-manual) |
 | Groups | [Facebook](https://www.facebook.com/groups/SecKitCoreXY3DP/) EN 2.6K |
+| License | [CC BY-NC-SA 4.0](https://github.com/SecKit/SK-Cube/blob/main/STEP%20files/README.md) |
 
 ## Pictures (5)
 

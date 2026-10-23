@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/alexyu132/encore?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/alexyu132/encore)<br>[💙⁠456](https://www.thingiverse.com/thing:7363835)<br>[🧡⁠1.1K](https://www.printables.com/model/1743331-encore-mini-corexy-3d-printer-with-a-fully-printed)<br>[💚⁠73](https://makerworld.com/en/models/2882748-encore-mini-corexy-3d-printer)<br>[⏯️⁠59.8K](https://www.youtube.com/watch?v=9xukniyO6fI)<br>[❤️⁠2.7K](https://www.youtube.com/watch?v=9xukniyO6fI) |
 | Links | [STEP](https://github.com/alexyu132/encore/blob/main/encore.step)<br>[BOM](https://github.com/alexyu132/encore/blob/main/documentation/BOM.md)<br>[Manual](https://github.com/alexyu132/encore/blob/main/documentation/build%20guide/build%20guide.md)<br>[Video](https://www.youtube.com/watch?v=9xukniyO6fI) |
 | Groups | — |
+| License | [GPL-3.0](https://github.com/alexyu132/encore/blob/main/LICENSE) |
 
 ## Pictures (5)
 

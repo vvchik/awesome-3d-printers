@@ -16,6 +16,7 @@
 | Stars Likes Views | [💙⁠3.1K](https://www.thingiverse.com/thing:17175)<br>[⏯️⁠388K](https://www.youtube.com/watch?v=AYs6jASd_Ww)<br>[❤️⁠982](https://www.youtube.com/watch?v=AYs6jASd_Ww) |
 | Links | — |
 | Groups | [Forum](https://reprap.org/forum/list.php?178) EN<br>[Facebook](https://www.facebook.com/groups/delta3dp/) EN 2.7K inactive |
+| License | [GPL-2.0](https://web.archive.org/web/20180101150721/https://www.thingiverse.com/thing:17175) |
 
 ## Pictures (7)
 

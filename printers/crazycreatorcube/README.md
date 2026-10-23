@@ -16,6 +16,7 @@
 | Stars Likes Views | [⏯️⁠2K](https://www.youtube.com/watch?v=ieHzbuYLtvw)<br>[❤️⁠21](https://www.youtube.com/watch?v=ieHzbuYLtvw) |
 | Links | [Files](https://crazycreatorcube.notion.site/36e3e15898e84799a97ddfb9b4dca4f0)<br>[BOM](https://crazycreatorcube.notion.site/ed57916179c4499496eb0558b678a58c)<br>[Manual](https://crazycreatorcube.notion.site/a64bb78a88fa46268ef8e895a60c252a)<br>[Config](https://github.com/CrazyCreatorCube/Software/tree/HEAD/Firmware) |
 | Groups | [Discord](https://discord.gg/WKWhDyq) EN 122<br>[Facebook](https://www.facebook.com/groups/crazycreatorcube/) |
+| License | [CC BY-NC-SA 4.0](https://crazycreatorcube.notion.site/c096782ca3784b22926e81d944a84967) |
 
 ## Pictures (14)
 

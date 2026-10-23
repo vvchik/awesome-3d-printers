@@ -16,6 +16,7 @@
 | Stars Likes Views | [🧡⁠213](https://www.printables.com/model/1327596-delta-flyer-3d-printer)<br>[⏯️⁠9.7K](https://www.youtube.com/watch?v=LaAyrJOo7wg)<br>[❤️⁠368](https://www.youtube.com/watch?v=LaAyrJOo7wg) |
 | Links | [Manual](https://kanrog.github.io/Delta-Flyer/)<br>[BOM](https://docs.google.com/spreadsheets/d/1400rbdxxYbIA15yIi4UiYHQk1Ul_DCyP7nSTH7CUpFE/edit)<br>[CAD](https://cad.onshape.com/documents/de9bc61850e74a1717307838/w/2a32f2b0d6edf7beeb9fcbf7/e/392043168b1092bab001d0df) |
 | Groups | [Discord](https://discord.gg/rolohaun-3d-946191040682008666) EN 7.8K |
+| License | [CC BY-NC](https://www.printables.com/model/1327596-delta-flyer-3d-printer) |
 
 ## Pictures (6)
 

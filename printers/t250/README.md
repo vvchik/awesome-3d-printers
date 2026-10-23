@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/mszturc/T250?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/mszturc/T250)<br>[🧡⁠851](https://www.printables.com/model/1341051-t250-the-worlds-fastest-3d-printer)<br>[⏯️⁠169K](https://www.youtube.com/watch?v=qVF_iwO3d04)<br>[❤️⁠6K](https://www.youtube.com/watch?v=qVF_iwO3d04) |
 | Links | [STEP](https://github.com/mszturc/T250/blob/HEAD/CAD/T250-v1.0-final.step)<br>[Manual](https://github.com/mszturc/T250/tree/HEAD/Docs) |
 | Groups | [Discord](https://discord.gg/fW7BcUErgZ) EN 4.4K<br>[Facebook](https://www.facebook.com/groups/181335024786568) EN 456 |
+| License | [CC BY-NC-SA 4.0](https://github.com/mszturc/T250/blob/main/License.md) |
 
 ## Pictures (6)
 

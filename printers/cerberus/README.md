@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/grabercars/Cerberus?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/grabercars/Cerberus)<br>[⏯️⁠78.4K](https://www.youtube.com/watch?v=32bxll7pv9U)<br>[❤️⁠303](https://www.youtube.com/watch?v=32bxll7pv9U) |
 | Links | [Files](https://github.com/grabercars/Cerberus)<br>[Wiki](https://reprap.org/wiki/Cerberus) |
 | Groups | [Google Groups](https://groups.google.com/g/deltabot) EN<br>[Forum](https://reprap.org/forum/list.php?178) EN |
+| License | [CC BY-SA 3.0](https://github.com/grabercars/Cerberus#readme) |
 
 ## Pictures (1)
 

@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/Rat-Rig/V-Chonk?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/Rat-Rig/V-Chonk)<br>[⏯️⁠18.2K](https://www.youtube.com/watch?v=TIkY9gv_bjg)<br>[❤️⁠308](https://www.youtube.com/watch?v=TIkY9gv_bjg) |
 | Links | [STEP](https://github.com/Rat-Rig/V-Chonk#step-files)<br>[BOM](https://github.com/Rat-Rig/V-Chonk/tree/main/bom)<br>[STL](https://github.com/Rat-Rig/V-Chonk/tree/main/stl) |
 | Groups | [Facebook](https://www.facebook.com/groups/ratrig3dprintercommunity) EN 19.9K<br>[Discord](https://discord.gg/ratrig) EN 13.8K<br>[Reddit](https://www.reddit.com/r/RatRig/) EN 3K |
+| License | [CC BY-SA 4.0](https://github.com/Rat-Rig/V-Chonk/blob/main/LICENSE) |
 
 ## Pictures (7)
 

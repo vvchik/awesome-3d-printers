@@ -16,6 +16,7 @@
 | Stars Likes Views | [💙⁠9](https://www.thingiverse.com/thing:4795475) |
 | Links | [Files](https://www.thingiverse.com/thing:4795475/files) |
 | Groups | — |
+| License | [CC BY](https://www.thingiverse.com/thing:4795475) |
 
 ## Pictures (2)
 

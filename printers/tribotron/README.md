@@ -16,6 +16,7 @@
 | Stars Likes Views | [💙⁠247](https://www.thingiverse.com/thing:3013586)<br>[⏯️⁠19.7K](https://www.youtube.com/watch?v=K0pcGKAQ4eA)<br>[❤️⁠141](https://www.youtube.com/watch?v=K0pcGKAQ4eA) |
 | Links | [Files](https://www.thingiverse.com/thing:3013586/files)<br>[Manual](https://www.instructables.com/Tribotron-3D-Printer/)<br>[Video](https://youtu.be/K0pcGKAQ4eA) |
 | Groups | — |
+| License | [CC BY-NC 4.0](https://www.thingiverse.com/thing:3013586) |
 
 ## Pictures (5)
 

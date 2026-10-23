@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/mszturc/THE100?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/mszturc/THE100)<br>[🧡⁠2.1K](https://www.printables.com/model/572689-the-100-the-fastest-3d-printer-based-on-a-printed-)<br>[⏯️⁠255K](https://www.youtube.com/watch?v=0K9NM08S0IA)<br>[❤️⁠6.7K](https://www.youtube.com/watch?v=0K9NM08S0IA) |
 | Links | [STEP](https://github.com/mszturc/THE100/blob/HEAD/STEP/The%20100%20v1.1.step)<br>[Manual](https://github.com/mszturc/THE100/tree/HEAD/Docs) |
 | Groups | [Discord](https://discord.gg/fW7BcUErgZ) EN 4.4K<br>[Facebook](https://www.facebook.com/groups/181335024786568) EN 456 |
+| License | [CC BY-NC-SA 4.0](https://github.com/mszturc/THE100/blob/main/License.md) |
 
 ## Pictures (6)
 

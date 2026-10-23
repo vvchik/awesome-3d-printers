@@ -16,6 +16,7 @@
 | Stars Likes Views | [⏯️⁠32.5K](https://www.youtube.com/watch?v=40id30dChnU)<br>[❤️⁠180](https://www.youtube.com/watch?v=40id30dChnU) |
 | Links | — |
 | Groups | [Forum](https://reprap.org/forum/list.php?151) EN |
+| License | [GPL-3.0](https://github.com/josefprusa/PrusaMendel/blob/master/source/x-end.scad) |
 
 ## Pictures (10)
 

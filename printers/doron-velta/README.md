@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/rogerlz/Doron-Velta?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/rogerlz/Doron-Velta)<br>[⏯️⁠4.7K](https://www.youtube.com/watch?v=DuFxvsZ5HEU)<br>[❤️⁠90](https://www.youtube.com/watch?v=DuFxvsZ5HEU) |
 | Links | [CAD](https://github.com/rogerlz/Doron-Velta/tree/main/CAD)<br>[STL](https://github.com/rogerlz/Doron-Velta/tree/main/STLs)<br>[BOM](https://github.com/rogerlz/Doron-Velta/blob/main/BOM.md) |
 | Groups | [Discord](https://discord.gg/doomcube) EN 6.9K<br>[Discord](https://discord.gg/voron) EN 40.8K |
+| License | [GPL-3.0](https://github.com/rogerlz/Doron-Velta/blob/main/LICENSE) |
 
 ## Pictures (5)
 

@@ -16,6 +16,7 @@
 | Stars Likes Views | [💙⁠859](https://www.thingiverse.com/thing:500041) |
 | Links | [Files](https://www.thingiverse.com/thing:500041/files) |
 | Groups | [Facebook](https://www.facebook.com/groups/1711323699127948/) EN 5K inactive<br>[Telegram](https://t.me/cbotdbotcorexy) ES 260 |
+| License | [CC BY-SA 3.0](https://web.archive.org/web/20170720055344/https://www.thingiverse.com/thing:500041) |
 
 ## Pictures (9)
 

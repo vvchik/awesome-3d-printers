@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/Annex-Engineering/Gasherbrum-K3?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/Annex-Engineering/Gasherbrum-K3)<br>[⏯️⁠28.6K](https://www.youtube.com/watch?v=kHAcm8c9pTk)<br>[❤️⁠359](https://www.youtube.com/watch?v=kHAcm8c9pTk) |
 | Links | [Files](https://github.com/Annex-Engineering/Gasherbrum-K3/tree/HEAD/Release_1_2) |
 | Groups | [Discord](https://discord.gg/MzTR3zE) EN 11.4K |
+| License | [ANNEX Engineering License](https://github.com/Annex-Engineering/ANNEX-Engineering-License-Agreement/blob/main/LICENSE.md) |
 
 ## Pictures (7)
 

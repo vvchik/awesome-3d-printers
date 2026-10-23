@@ -16,6 +16,7 @@
 | Stars Likes Views | [💙⁠8.5K](https://www.thingiverse.com/thing:3382718)<br>[🧡⁠142](https://www.printables.com/model/46738)<br>[⏯️⁠115K](https://www.youtube.com/watch?v=N3xaPhAPYKM)<br>[❤️⁠417](https://www.youtube.com/watch?v=N3xaPhAPYKM) |
 | Links | [Files](https://www.thingiverse.com/thing:3382718/files) |
 | Groups | [Facebook](https://www.facebook.com/groups/BenLevi) EN 7K<br>[Facebook](https://www.facebook.com/groups/578496329454012/) TR 190<br>[Facebook](https://www.facebook.com/groups/419619945577500/) IT 174<br>[Facebook](https://www.facebook.com/groups/386234302158871/) DE 158 |
+| License | [CC BY-NC-SA 3.0](https://web.archive.org/web/20190717111409/http://www.thingiverse.com/thing:3382718) |
 
 ## Pictures (9)
 

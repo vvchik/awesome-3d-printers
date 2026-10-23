@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/railcore/parts?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/railcore/parts)<br>[💙⁠568](https://www.thingiverse.com/thing:2407174)<br>[🧡⁠19](https://www.printables.com/model/160936)<br>[⏯️⁠6.4K](https://www.youtube.com/watch?v=7e-cUZTqmMM)<br>[❤️⁠47](https://www.youtube.com/watch?v=7e-cUZTqmMM) |
 | Links | [STEP](https://github.com/railcore/parts/tree/HEAD/STEP) |
 | Groups | [Facebook](https://www.facebook.com/groups/RailCore/) EN 2.6K<br>[Discord](https://discord.gg/Sy569Hq) EN 742<br>[Reddit](https://www.reddit.com/r/railcore/) EN 206 |
+| License | [CC BY-SA 3.0](https://github.com/railcore/parts/blob/master/README.md) |
 
 ## Pictures (11)
 

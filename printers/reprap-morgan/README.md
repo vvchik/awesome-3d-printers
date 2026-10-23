@@ -16,6 +16,7 @@
 | Stars Likes Views | [⏯️⁠50.9K](https://www.youtube.com/watch?v=oSmo7iZ10Bk)<br>[❤️⁠123](https://www.youtube.com/watch?v=oSmo7iZ10Bk) |
 | Links | — |
 | Groups | [Forum](https://reprap.org/forum/list.php?185) EN |
+| License | [GPL-2.0](https://github.com/qharley/Morgan/blob/master/README.md) |
 
 ## Pictures (8)
 

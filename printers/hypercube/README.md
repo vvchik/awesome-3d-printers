@@ -16,6 +16,7 @@
 | Stars Likes Views | [💙⁠15K](https://www.thingiverse.com/thing:1752766)<br>[⏯️⁠280K](https://www.youtube.com/watch?v=xFt7vzweUiw)<br>[❤️⁠2.2K](https://www.youtube.com/watch?v=xFt7vzweUiw) |
 | Links | [Files](https://www.thingiverse.com/thing:1752766/files) |
 | Groups | [Facebook](https://www.facebook.com/groups/1871049783171141/) EN 6.9K inactive<br>[Facebook](https://www.facebook.com/groups/139876176592778/) PT 2K inactive<br>[Facebook](https://www.facebook.com/groups/hypercubesupport/) EN 1.8K inactive |
+| License | [CC BY-NC 3.0](https://web.archive.org/web/2019/https://www.thingiverse.com/thing:1752766) |
 
 ## Pictures (7)
 

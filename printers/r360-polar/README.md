@@ -16,6 +16,7 @@
 | Stars Likes Views | [⏯️⁠33.3K](https://www.youtube.com/watch?v=lvcS7TT98mA)<br>[❤️⁠178](https://www.youtube.com/watch?v=lvcS7TT98mA) |
 | Links | — |
 | Groups | [Forum](https://reprap.org/forum/list.php?185) EN |
+| License | [CC BY-SA 3.0](https://github.com/kory75/R-360-3D-Printer/blob/master/README.md) |
 
 ## Pictures (3)
 

@@ -16,6 +16,7 @@
 | Stars Likes Views | [💙⁠11.9K](https://www.thingiverse.com/thing:2254103)<br>[⏯️⁠362K](https://www.youtube.com/watch?v=1rctCsUGnX8)<br>[❤️⁠2.3K](https://www.youtube.com/watch?v=1rctCsUGnX8) |
 | Links | [Files](https://www.thingiverse.com/thing:2254103/files) |
 | Groups | [Facebook](https://www.facebook.com/groups/Hypercubeevolution/) EN 14.8K inactive<br>[Facebook](https://www.facebook.com/groups/1871049783171141/) EN 6.9K inactive<br>[Facebook](https://www.facebook.com/groups/hevopro/) EN 3K inactive<br>[Facebook](https://www.facebook.com/groups/HypercubeEvoDeutsch/) DE 2.1K inactive<br>[Facebook](https://www.facebook.com/groups/139876176592778/) PT 2K inactive<br>[Facebook](https://www.facebook.com/groups/hypercubeevolutionfr/) FR 1.6K inactive |
+| License | [CC BY 3.0](https://web.archive.org/web/2019/https://www.thingiverse.com/thing:2254103) |
 
 ## Pictures (11)
 

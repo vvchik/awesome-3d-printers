@@ -16,6 +16,7 @@
 | Stars Likes Views | [💙⁠2.4K](https://www.thingiverse.com/thing:177256) |
 | Links | — |
 | Groups | [Forum](https://reprap.org/forum/list.php?344) EN<br>[Facebook](https://www.facebook.com/groups/Smartrap/) EN 64 |
+| License | [GPL-2.0](https://github.com/smartfriendz/smartrap/blob/master/LICENSE) |
 
 ## Pictures (7)
 

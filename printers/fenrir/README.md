@@ -17,6 +17,7 @@
 | Stars Likes Views | [⏯️⁠1.7K](https://www.youtube.com/watch?v=qJi_0GzD9xU)<br>[❤️⁠58](https://www.youtube.com/watch?v=qJi_0GzD9xU) |
 | Links | [Video](https://www.youtube.com/watch?v=qJi_0GzD9xU) |
 | Groups | — |
+| License | Not stated, and no public files. It is not clear if the design is open source, so the catalog lists it as a concept. |
 
 ## Pictures (1)
 

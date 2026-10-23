@@ -16,6 +16,7 @@
 | Stars Likes Views | [💙⁠105](https://www.thingiverse.com/thing:4487878) |
 | Links | [Files](https://www.thingiverse.com/thing:4487878/files) |
 | Groups | — |
+| License | [CC BY-NC-SA](https://web.archive.org/web/20201009234519id_/https://cdn.thingiverse.com/zipfiles/b0/8a/c2/2f/11/Little+Cube+-+CoreXY+Printer+-+Small+Factor+Form+-++Fun+To+Assemble.zip) |
 
 ## Pictures (2)
 

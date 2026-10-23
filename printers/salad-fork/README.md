@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/PrintersForAnts/Salad_Fork?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/PrintersForAnts/Salad_Fork) |
 | Links | [CAD](https://github.com/PrintersForAnts/Salad_Fork/tree/HEAD/CAD)<br>[Manual](https://github.com/PrintersForAnts/Salad_Fork/blob/HEAD/Salad%20Fork%20Manual.pdf) |
 | Groups | [Discord](https://discord.gg/doomcube) EN 6.9K |
+| License | [GPL-3.0](https://github.com/PrintersForAnts/Salad_Fork/blob/master/LICENSE) |
 
 ## Pictures (5)
 

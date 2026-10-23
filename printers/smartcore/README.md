@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/smartfriendz/smartcore?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/smartfriendz/smartcore)<br>[💙⁠1.9K](https://www.thingiverse.com/thing:651117) |
 | Links | [Files](https://github.com/smartfriendz/smartcore/tree/master/sources)<br>[STL](https://github.com/smartfriendz/smartcore/tree/master/stl)<br>[Wiki](https://reprap.org/wiki/SmartrapCore) |
 | Groups | [Forum](https://reprap.org/forum/list.php?397) EN<br>[Forum](https://reprap.org/forum/list.php?344) EN |
+| License | [GPL-3.0](https://www.thingiverse.com/thing:651117) |
 
 ## Pictures (8)
 

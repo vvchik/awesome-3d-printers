@@ -16,6 +16,7 @@
 | Stars Likes Views | [⏯️⁠107K](https://www.youtube.com/watch?v=upwTgwNi1PQ)<br>[❤️⁠3.9K](https://www.youtube.com/watch?v=upwTgwNi1PQ) |
 | Links | [STEP](https://k3d.tech/vostok/releases/9.5/assets/vostok_v9.5_assembly.stp.7z)<br>[BOM](https://k3d.tech/vostok/releases/9.5/assets/vostok_v9.5_bom.xlsx)<br>[Manual](https://k3d.tech/vostok/manual/prepare/start/)<br>[Config](https://github.com/dmitry-sorkin/vostok_configuration/blob/main/README.en.md) |
 | Groups | [Telegram](https://t.me/vostok3dp) RU 4.2K<br>[Telegram](https://t.me/k3d_vostok) RU 3.4K<br>[Telegram](https://t.me/K_3_D) RU 36.2K |
+| License | [CC BY 4.0](https://k3d.tech/vostok/) |
 
 ## Pictures (8)
 

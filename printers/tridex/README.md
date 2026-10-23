@@ -16,6 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/FrankenVoron/Tridex?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/FrankenVoron/Tridex)<br>[⏯️⁠62.6K](https://www.youtube.com/watch?v=31fqpKYj7v4)<br>[❤️⁠1.1K](https://www.youtube.com/watch?v=31fqpKYj7v4) |
 | Links | [CAD](https://github.com/FrankenVoron/Tridex/tree/main/CAD)<br>[BOM](https://github.com/FrankenVoron/Tridex/blob/main/Documentation/0_bill_of_materials.md)<br>[Manual](https://github.com/FrankenVoron/Tridex/blob/main/Documentation/1_assembly_instructions.md)<br>[STL](https://github.com/FrankenVoron/Tridex/tree/main/STLs) |
 | Groups | [Discord](https://discord.gg/voron) EN 40.8K<br>[Discord](https://discord.gg/doomcube) EN 6.9K<br>[Reddit](https://www.reddit.com/r/voroncorexy/) EN 30.3K |
+| License | [GPL-3.0](https://github.com/FrankenVoron/Tridex/blob/main/LICENSE) |
 
 ## Pictures (7)
 
