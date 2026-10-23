@@ -17,8 +17,9 @@
 | Links | [Files](https://www.printables.com/model/857334-min-micro-delta-3d-printer/files) |
 | Groups | [Discord](https://discord.gg/rolohaun-3d-946191040682008666) EN 7.8K |
 
-## Pictures (2)
+## Pictures (5)
 
 <table>
-<tr><td align="center" width="33%"><a href="0-min-micro-delta.jpg"><img src="0-min-micro-delta.jpg" width="260" alt="MIN Micro Delta picture 0"></a></td><td align="center" width="33%"><a href="1-min-micro-delta.jpg"><img src="1-min-micro-delta.jpg" width="260" alt="MIN Micro Delta picture 1"></a></td></tr>
+<tr><td align="center" width="33%"><a href="0-min-micro-delta.jpg"><img src="0-min-micro-delta.jpg" width="260" alt="MIN Micro Delta picture 0"></a></td><td align="center" width="33%"><a href="1-min-micro-delta.jpg"><img src="1-min-micro-delta.jpg" width="260" alt="MIN Micro Delta picture 1"></a></td><td align="center" width="33%"><a href="2-min-micro-delta.jpg"><img src="2-min-micro-delta.jpg" width="260" alt="MIN Micro Delta picture 2"></a></td></tr>
+<tr><td align="center" width="33%"><a href="3-min-micro-delta.jpg"><img src="3-min-micro-delta.jpg" width="260" alt="MIN Micro Delta picture 3"></a></td><td align="center" width="33%"><a href="4-min-micro-delta.jpg"><img src="4-min-micro-delta.jpg" width="260" alt="MIN Micro Delta picture 4"></a></td></tr>
 </table>

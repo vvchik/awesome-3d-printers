@@ -18,8 +18,8 @@
 | Links | [Files](https://cults3d.com/en/3d-model/tool/infini-z-3d-printer) |
 | Groups | — |
 
-## Pictures (2)
+## Pictures (3)
 
 <table>
-<tr><td align="center" width="33%"><a href="0-infini-z.jpg"><img src="0-infini-z.jpg" width="260" alt="Infini-Z picture 0"></a></td><td align="center" width="33%"><a href="1-infini-z.jpg"><img src="1-infini-z.jpg" width="260" alt="Infini-Z picture 1"></a></td></tr>
+<tr><td align="center" width="33%"><a href="0-infini-z.jpg"><img src="0-infini-z.jpg" width="260" alt="Infini-Z picture 0"></a></td><td align="center" width="33%"><a href="1-infini-z.jpg"><img src="1-infini-z.jpg" width="260" alt="Infini-Z picture 1"></a></td><td align="center" width="33%"><a href="2-infini-z.jpg"><img src="2-infini-z.jpg" width="260" alt="Infini-Z picture 2"></a></td></tr>
 </table>

@@ -17,9 +17,11 @@
 | Links | [Files](https://rh3d.xyz/E3NG_v1_2/standard/files)<br>[Manual](https://rh3d.xyz/E3NG_v1_2/standard/build_guide) |
 | Groups | [Discord](https://discord.com/invite/Zkvu6uu2AR) EN 4.8K |
 
-## Pictures (4)
+## Pictures (10)
 
 <table>
 <tr><td align="center" width="33%"><a href="0-ender-3-ng.jpg"><img src="0-ender-3-ng.jpg" width="260" alt="Ender-3 NG picture 0"></a></td><td align="center" width="33%"><a href="1-ender-3-ng.jpg"><img src="1-ender-3-ng.jpg" width="260" alt="Ender-3 NG picture 1"></a></td><td align="center" width="33%"><a href="2-ender-3-ng.jpg"><img src="2-ender-3-ng.jpg" width="260" alt="Ender-3 NG picture 2"></a></td></tr>
-<tr><td align="center" width="33%"><a href="3-ender-3-ng.jpg"><img src="3-ender-3-ng.jpg" width="260" alt="Ender-3 NG picture 3"></a></td></tr>
+<tr><td align="center" width="33%"><a href="3-ender-3-ng.jpg"><img src="3-ender-3-ng.jpg" width="260" alt="Ender-3 NG picture 3"></a></td><td align="center" width="33%"><a href="4-ender-3-ng.jpg"><img src="4-ender-3-ng.jpg" width="260" alt="Ender-3 NG picture 4"></a></td><td align="center" width="33%"><a href="5-ender-3-ng.jpg"><img src="5-ender-3-ng.jpg" width="260" alt="Ender-3 NG picture 5"></a></td></tr>
+<tr><td align="center" width="33%"><a href="6-ender-3-ng.jpg"><img src="6-ender-3-ng.jpg" width="260" alt="Ender-3 NG picture 6"></a></td><td align="center" width="33%"><a href="7-ender-3-ng.jpg"><img src="7-ender-3-ng.jpg" width="260" alt="Ender-3 NG picture 7"></a></td><td align="center" width="33%"><a href="8-ender-3-ng.jpg"><img src="8-ender-3-ng.jpg" width="260" alt="Ender-3 NG picture 8"></a></td></tr>
+<tr><td align="center" width="33%"><a href="9-ender-3-ng.jpg"><img src="9-ender-3-ng.jpg" width="260" alt="Ender-3 NG picture 9"></a></td></tr>
 </table>
