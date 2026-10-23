@@ -20,6 +20,6 @@
 ## Pictures (5)
 
 <table>
-<tr><td align="center" width="33%"><a href="0-mendelmax.jpg"><img src="0-mendelmax.jpg" width="260" alt="MendelMax picture 0"></a></td><td align="center" width="33%"><a href="1-mendelmax.jpg"><img src="1-mendelmax.jpg" width="260" alt="MendelMax picture 1"></a></td><td align="center" width="33%"><a href="2-mendelmax.jpg"><img src="2-mendelmax.jpg" width="260" alt="MendelMax picture 2"></a></td></tr>
+<tr><td align="center" width="33%"><a href="0-mendelmax.jpg"><img src="0-mendelmax.jpg" width="260" alt="MendelMax picture 0"></a><br><sub>Photo: Maxbots</sub></td><td align="center" width="33%"><a href="1-mendelmax.jpg"><img src="1-mendelmax.jpg" width="260" alt="MendelMax picture 1"></a></td><td align="center" width="33%"><a href="2-mendelmax.jpg"><img src="2-mendelmax.jpg" width="260" alt="MendelMax picture 2"></a><br><sub>Photo: <a href="https://reprap.org/wiki/User:Kludgineer">Kludgineer</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-mendelmax.jpg"><img src="3-mendelmax.jpg" width="260" alt="MendelMax picture 3"></a></td><td align="center" width="33%"><a href="4-mendelmax.jpg"><img src="4-mendelmax.jpg" width="260" alt="MendelMax picture 4"></a></td></tr>
 </table>

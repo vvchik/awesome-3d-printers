@@ -20,6 +20,6 @@
 ## Pictures (5)
 
 <table>
-<tr><td align="center" width="33%"><a href="0-ender-sw.jpg"><img src="0-ender-sw.jpg" width="260" alt="Ender_SW picture 0"></a></td><td align="center" width="33%"><a href="1-ender-sw.jpg"><img src="1-ender-sw.jpg" width="260" alt="Ender_SW picture 1"></a></td><td align="center" width="33%"><a href="2-ender-sw.jpg"><img src="2-ender-sw.jpg" width="260" alt="Ender_SW picture 2"></a></td></tr>
+<tr><td align="center" width="33%"><a href="0-ender-sw.jpg"><img src="0-ender-sw.jpg" width="260" alt="Ender_SW picture 0"></a><br><sub>Photo: <a href="https://github.com/boubounokefalos">DaRk_dOg</a></sub></td><td align="center" width="33%"><a href="1-ender-sw.jpg"><img src="1-ender-sw.jpg" width="260" alt="Ender_SW picture 1"></a><br><sub>Photo: <a href="https://github.com/boubounokefalos">DaRk_dOg</a></sub></td><td align="center" width="33%"><a href="2-ender-sw.jpg"><img src="2-ender-sw.jpg" width="260" alt="Ender_SW picture 2"></a><br><sub>Photo: <a href="https://www.reddit.com/user/FizzysTech">u/FizzysTech</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-ender-sw.jpg"><img src="3-ender-sw.jpg" width="260" alt="Ender_SW picture 3"></a></td><td align="center" width="33%"><a href="4-ender-sw.jpg"><img src="4-ender-sw.jpg" width="260" alt="Ender_SW picture 4"></a></td></tr>
 </table>

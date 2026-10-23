@@ -20,6 +20,6 @@
 ## Pictures (5)
 
 <table>
-<tr><td align="center" width="33%"><a href="0-doron-velta.jpg"><img src="0-doron-velta.jpg" width="260" alt="Doron Velta picture 0"></a></td><td align="center" width="33%"><a href="1-doron-velta.jpg"><img src="1-doron-velta.jpg" width="260" alt="Doron Velta picture 1"></a></td><td align="center" width="33%"><a href="2-doron-velta.jpg"><img src="2-doron-velta.jpg" width="260" alt="Doron Velta picture 2"></a></td></tr>
+<tr><td align="center" width="33%"><a href="0-doron-velta.jpg"><img src="0-doron-velta.jpg" width="260" alt="Doron Velta picture 0"></a><br><sub>Photo: <a href="https://www.3dprintersonlinestore.com/">3dprintersonlinestore/FYSETC</a></sub></td><td align="center" width="33%"><a href="1-doron-velta.jpg"><img src="1-doron-velta.jpg" width="260" alt="Doron Velta picture 1"></a><br><sub>Photo: <a href="https://github.com/rogerlz">rogerlz</a></sub></td><td align="center" width="33%"><a href="2-doron-velta.jpg"><img src="2-doron-velta.jpg" width="260" alt="Doron Velta picture 2"></a><br><sub>Photo: <a href="https://github.com/rogerlz">rogerlz</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-doron-velta.jpg"><img src="3-doron-velta.jpg" width="260" alt="Doron Velta picture 3"></a></td><td align="center" width="33%"><a href="4-doron-velta.jpg"><img src="4-doron-velta.jpg" width="260" alt="Doron Velta picture 4"></a></td></tr>
 </table>

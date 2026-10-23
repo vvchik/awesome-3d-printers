@@ -20,6 +20,6 @@
 ## Pictures (5)
 
 <table>
-<tr><td align="center" width="33%"><a href="0-encore.jpg"><img src="0-encore.jpg" width="260" alt="Encore picture 0"></a></td><td align="center" width="33%"><a href="1-encore.jpg"><img src="1-encore.jpg" width="260" alt="Encore picture 1"></a></td><td align="center" width="33%"><a href="2-encore.jpg"><img src="2-encore.jpg" width="260" alt="Encore picture 2"></a></td></tr>
-<tr><td align="center" width="33%"><a href="3-encore.jpg"><img src="3-encore.jpg" width="260" alt="Encore picture 3"></a></td><td align="center" width="33%"><a href="4-encore.jpg"><img src="4-encore.jpg" width="260" alt="Encore picture 4"></a></td></tr>
+<tr><td align="center" width="33%"><a href="0-encore.jpg"><img src="0-encore.jpg" width="260" alt="Encore picture 0"></a><br><sub>Photo: <a href="https://github.com/alexyu132">Alex Yu</a></sub></td><td align="center" width="33%"><a href="1-encore.jpg"><img src="1-encore.jpg" width="260" alt="Encore picture 1"></a><br><sub>Photo: <a href="https://github.com/alexyu132">Alex Yu</a></sub></td><td align="center" width="33%"><a href="2-encore.jpg"><img src="2-encore.jpg" width="260" alt="Encore picture 2"></a><br><sub>Photo: <a href="https://github.com/alexyu132">Alex Yu</a></sub></td></tr>
+<tr><td align="center" width="33%"><a href="3-encore.jpg"><img src="3-encore.jpg" width="260" alt="Encore picture 3"></a><br><sub>Photo: <a href="https://github.com/alexyu132">Alex Yu</a></sub></td><td align="center" width="33%"><a href="4-encore.jpg"><img src="4-encore.jpg" width="260" alt="Encore picture 4"></a></td></tr>
 </table>

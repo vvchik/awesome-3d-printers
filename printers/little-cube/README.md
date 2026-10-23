@@ -20,5 +20,5 @@
 ## Pictures (2)
 
 <table>
-<tr><td align="center" width="33%"><a href="0-little-cube.jpg"><img src="0-little-cube.jpg" width="260" alt="Little Cube picture 0"></a></td><td align="center" width="33%"><a href="1-little-cube.jpg"><img src="1-little-cube.jpg" width="260" alt="Little Cube picture 1"></a></td></tr>
+<tr><td align="center" width="33%"><a href="0-little-cube.jpg"><img src="0-little-cube.jpg" width="260" alt="Little Cube picture 0"></a><br><sub>Photo: longlh</sub></td><td align="center" width="33%"><a href="1-little-cube.jpg"><img src="1-little-cube.jpg" width="260" alt="Little Cube picture 1"></a><br><sub>Photo: longlh</sub></td></tr>
 </table>

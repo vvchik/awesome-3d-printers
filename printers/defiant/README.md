@@ -20,5 +20,5 @@
 ## Pictures (3)
 
 <table>
-<tr><td align="center" width="33%"><a href="0-defiant.jpg"><img src="0-defiant.jpg" width="260" alt="Defiant picture 0"></a></td><td align="center" width="33%"><a href="1-defiant.jpg"><img src="1-defiant.jpg" width="260" alt="Defiant picture 1"></a></td><td align="center" width="33%"><a href="2-defiant.jpg"><img src="2-defiant.jpg" width="260" alt="Defiant picture 2"></a></td></tr>
+<tr><td align="center" width="33%"><a href="0-defiant.jpg"><img src="0-defiant.jpg" width="260" alt="Defiant picture 0"></a><br><sub>Photo: <a href="https://github.com/rolohaun">Rolohaun</a></sub></td><td align="center" width="33%"><a href="1-defiant.jpg"><img src="1-defiant.jpg" width="260" alt="Defiant picture 1"></a><br><sub>Photo: <a href="https://github.com/rolohaun">Rolohaun</a></sub></td><td align="center" width="33%"><a href="2-defiant.jpg"><img src="2-defiant.jpg" width="260" alt="Defiant picture 2"></a><br><sub>Photo: <a href="https://github.com/rolohaun">Rolohaun</a></sub></td></tr>
 </table>

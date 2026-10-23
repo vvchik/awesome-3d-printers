@@ -20,6 +20,6 @@
 ## Pictures (5)
 
 <table>
-<tr><td align="center" width="33%"><a href="0-voron-v0.jpg"><img src="0-voron-v0.jpg" width="260" alt="Voron V0 picture 0"></a></td><td align="center" width="33%"><a href="1-voron-v0.jpg"><img src="1-voron-v0.jpg" width="260" alt="Voron V0 picture 1"></a></td><td align="center" width="33%"><a href="2-voron-v0.jpg"><img src="2-voron-v0.jpg" width="260" alt="Voron V0 picture 2"></a></td></tr>
-<tr><td align="center" width="33%"><a href="3-voron-v0.jpg"><img src="3-voron-v0.jpg" width="260" alt="Voron V0 picture 3"></a></td><td align="center" width="33%"><a href="4-voron-v0.jpg"><img src="4-voron-v0.jpg" width="260" alt="Voron V0 picture 4"></a></td></tr>
+<tr><td align="center" width="33%"><a href="0-voron-v0.jpg"><img src="0-voron-v0.jpg" width="260" alt="Voron V0 picture 0"></a><br><sub>Photo: <a href="https://www.3dprintersonlinestore.com">3dprintersonlinestore</a></sub></td><td align="center" width="33%"><a href="1-voron-v0.jpg"><img src="1-voron-v0.jpg" width="260" alt="Voron V0 picture 1"></a><br><sub>Photo: <a href="https://www.formbot3d.com">Formbot</a></sub></td><td align="center" width="33%"><a href="2-voron-v0.jpg"><img src="2-voron-v0.jpg" width="260" alt="Voron V0 picture 2"></a><br><sub>Photo: <a href="https://www.3dprintersonlinestore.com">3dprintersonlinestore</a></sub></td></tr>
+<tr><td align="center" width="33%"><a href="3-voron-v0.jpg"><img src="3-voron-v0.jpg" width="260" alt="Voron V0 picture 3"></a><br><sub>Photo: <a href="https://phaserfpv.com.au">phaserfpv</a></sub></td><td align="center" width="33%"><a href="4-voron-v0.jpg"><img src="4-voron-v0.jpg" width="260" alt="Voron V0 picture 4"></a><br><sub>Photo: <a href="https://github.com/VoronDesign">Voron Design</a></sub></td></tr>
 </table>

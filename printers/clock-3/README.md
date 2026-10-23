@@ -20,5 +20,5 @@
 ## Pictures (3)
 
 <table>
-<tr><td align="center" width="33%"><a href="0-clock-3.jpg"><img src="0-clock-3.jpg" width="260" alt="Clock 3 picture 0"></a></td><td align="center" width="33%"><a href="1-clock-3.jpg"><img src="1-clock-3.jpg" width="260" alt="Clock 3 picture 1"></a></td><td align="center" width="33%"><a href="2-clock-3.jpg"><img src="2-clock-3.jpg" width="260" alt="Clock 3 picture 2"></a></td></tr>
+<tr><td align="center" width="33%"><a href="0-clock-3.jpg"><img src="0-clock-3.jpg" width="260" alt="Clock 3 picture 0"></a><br><sub>Photo: <a href="https://github.com/jon-harper">Jon Harper</a></sub></td><td align="center" width="33%"><a href="1-clock-3.jpg"><img src="1-clock-3.jpg" width="260" alt="Clock 3 picture 1"></a><br><sub>Photo: <a href="https://github.com/jon-harper">Jon Harper</a></sub></td><td align="center" width="33%"><a href="2-clock-3.jpg"><img src="2-clock-3.jpg" width="260" alt="Clock 3 picture 2"></a><br><sub>Photo: <a href="https://github.com/jon-harper">Jon Harper</a></sub></td></tr>
 </table>

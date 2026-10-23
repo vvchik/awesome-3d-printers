@@ -392,3 +392,7 @@ To add a full row, follow "Column notes":
 1. Put the row in the table for its motion system and size. If the design has no update since 2024-10 and no active group, use Legacy. If it shaped later printers, use Historical.
 2. Count only the creator's own pages and videos. For a GitHub repository, add the star badge from an existing row.
 3. Sort rows by GitHub stars, highest first. If a row has no repository, use its highest like count. Rows with no counts go last.
+
+## License
+
+The text of this list is under [CC BY 4.0](LICENSE). You can copy and change it. Give credit with a link to this list. The pictures in `printers/` are not covered by this license. Their authors keep all rights. Each printer page credits the authors, and [GALLERY.md](GALLERY.md#picture-credits) tells you how to ask for a fix or a removal.

@@ -20,6 +20,6 @@
 ## Pictures (4)
 
 <table>
-<tr><td align="center" width="33%"><a href="0-railcore-mini.jpg"><img src="0-railcore-mini.jpg" width="260" alt="RailCore Mini picture 0"></a></td><td align="center" width="33%"><a href="1-railcore-mini.jpg"><img src="1-railcore-mini.jpg" width="260" alt="RailCore Mini picture 1"></a></td><td align="center" width="33%"><a href="2-railcore-mini.jpg"><img src="2-railcore-mini.jpg" width="260" alt="RailCore Mini picture 2"></a></td></tr>
-<tr><td align="center" width="33%"><a href="3-railcore-mini.jpg"><img src="3-railcore-mini.jpg" width="260" alt="RailCore Mini picture 3"></a></td></tr>
+<tr><td align="center" width="33%"><a href="0-railcore-mini.jpg"><img src="0-railcore-mini.jpg" width="260" alt="RailCore Mini picture 0"></a><br><sub>Photo: <a href="https://github.com/aunixsystem">Ben Withem</a></sub></td><td align="center" width="33%"><a href="1-railcore-mini.jpg"><img src="1-railcore-mini.jpg" width="260" alt="RailCore Mini picture 1"></a><br><sub>Photo: <a href="https://www.printables.com/@RailCoreLabs_241362">RailCore Labs</a></sub></td><td align="center" width="33%"><a href="2-railcore-mini.jpg"><img src="2-railcore-mini.jpg" width="260" alt="RailCore Mini picture 2"></a><br><sub>Photo: <a href="https://github.com/aunixsystem">Ben Withem</a></sub></td></tr>
+<tr><td align="center" width="33%"><a href="3-railcore-mini.jpg"><img src="3-railcore-mini.jpg" width="260" alt="RailCore Mini picture 3"></a><br><sub>Photo: <a href="https://railcore.org/">RailCore</a></sub></td></tr>
 </table>
