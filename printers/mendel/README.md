@@ -12,9 +12,9 @@
 | About | Influential second-generation RepRap, and the parent of the Prusa Mendel and MendelMax. |
 | Build volume (X×Y×Z) | 200×200×140 |
 | Exterior (W×D×H) | — |
-| Latest version | First release<br>[2009-10](http://blog.reprap.org/2009/10/mendel-uploaded.html) |
+| Latest version | Files<br>[2011-05](https://sourceforge.net/projects/reprap/files/) |
 | Stars Likes Views | [⏯️⁠55.2K](https://www.youtube.com/watch?v=toZpNpHQI7w)<br>[❤️⁠29](https://www.youtube.com/watch?v=toZpNpHQI7w) |
-| Links | — |
+| Links | [CAD](https://github.com/reprap/mendel/tree/master/mechanics/solid-models) |
 | Groups | [Forum](https://reprap.org/forum/list.php?151) EN |
 | License | [GPL-2.0](https://reprap.org/wiki/Mendel) |
 
@@ -26,3 +26,10 @@
 <tr><td align="center" width="33%"><a href="6-mendel.jpg"><img src="6-mendel.jpg" width="260" alt="Mendel picture 6"></a></td><td align="center" width="33%"><a href="7-mendel.jpg"><img src="7-mendel.jpg" width="260" alt="Mendel picture 7"></a><br><sub>Photo: <a href="https://reprap.org/wiki/User:Adrianbowyer">Adrian Bowyer</a></sub></td><td align="center" width="33%"><a href="8-mendel.jpg"><img src="8-mendel.jpg" width="260" alt="Mendel picture 8"></a></td></tr>
 <tr><td align="center" width="33%"><a href="9-mendel.jpg"><img src="9-mendel.jpg" width="260" alt="Mendel picture 9"></a><br><sub>Photo: <a href="http://regz91.com/REPRAP.html">regz91</a></sub></td><td align="center" width="33%"><a href="10-mendel.jpg"><img src="10-mendel.jpg" width="260" alt="Mendel picture 10"></a></td><td align="center" width="33%"><a href="11-mendel.jpg"><img src="11-mendel.jpg" width="260" alt="Mendel picture 11"></a></td></tr>
 </table>
+
+## Other homes of the files
+
+- [SourceForge SVN](https://svn.code.sf.net/p/reprap/code/trunk/mendel/): original Mendel mechanics. Last design commit r4142 on 2011-06-22 fixed the X carriage STL. GPL-2.0.
+- [SourceForge files](https://sourceforge.net/projects/reprap/files/): dated Mendel release zips from 2009-11 to 2011-05. GPL-2.0.
+- [GitHub](https://github.com/reprap/mendel-II): deprecated Mendel II OpenSCAD files and STL. No license stated.
+- Wayback Machine: [latest snapshot](http://web.archive.org/web/20261012224832/https://reprap.org/wiki/Mendel), 2026-10-12.

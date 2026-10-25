@@ -24,3 +24,11 @@
 <tr><td align="center" width="33%"><a href="0-vzbot.jpg"><img src="0-vzbot.jpg" width="260" alt="VzBot Vz330 picture 0"></a><br><sub>Photo: <a href="https://github.com/VzBoT3D">VzBoT</a></sub></td><td align="center" width="33%"><a href="1-vzbot.jpg"><img src="1-vzbot.jpg" width="260" alt="VzBot Vz330 picture 1"></a><br><sub>Photo: <a href="https://github.com/VzBoT3D">VzBoT</a></sub></td><td align="center" width="33%"><a href="2-vzbot.jpg"><img src="2-vzbot.jpg" width="260" alt="VzBot Vz330 picture 2"></a><br><sub>Photo: <a href="https://github.com/simonvez">VzBoT</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-vzbot.jpg"><img src="3-vzbot.jpg" width="260" alt="VzBot Vz330 picture 3"></a><br><sub>Photo: <a href="https://github.com/VzBoT3D">VzBoT</a></sub></td><td align="center" width="33%"><a href="4-vzbot.jpg"><img src="4-vzbot.jpg" width="260" alt="VzBot Vz330 picture 4"></a><br><sub>Photo: <a href="https://www.teamfdm.com/profile/3365-penatr8tor/">Penatr8tor</a></sub></td><td align="center" width="33%"><a href="5-vzbot.jpg"><img src="5-vzbot.jpg" width="260" alt="VzBot Vz330 picture 5"></a><br><sub>Photo: <a href="https://forum.drucktipps3d.de/user/16625-hubacca/">Hubacca</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- [VzBot docs](https://docs.vzbot.org/vz330_printed): online build manual for the printed version, CC BY-NC-SA 4.0 (site footer).
+- [VzBot docs, Mellow kit](https://docs.vzbot.org/vz330_mellow): online build manual for the Mellow CNC kit, CC BY-NC-SA 4.0 (site footer).
+- [Autodesk Fusion](https://a360.co/3FtdnGd): Fusion model of the printed Vz330, linked from the repo README, no license shown.
+- [Autodesk Fusion](https://a360.co/4iu8HhW): Fusion model of the full CNC AWD kit, linked from the repo README, no license shown.
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260216085502/https://github.com/VzBoT3D/VzBoT-Vz330), 2026-02-16.

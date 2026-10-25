@@ -26,3 +26,10 @@
 <tr><td align="center" width="33%"><a href="6-railcore-ii.jpg"><img src="6-railcore-ii.jpg" width="260" alt="RailCore II picture 6"></a><br><sub>Photo: <a href="https://3ddistributed.com/author/shane77304/">Shane Hooper</a></sub></td><td align="center" width="33%"><a href="7-railcore-ii.jpg"><img src="7-railcore-ii.jpg" width="260" alt="RailCore II picture 7"></a><br><sub>Photo: <a href="https://3ddistributed.com/author/shane77304/">Shane Hooper</a></sub></td><td align="center" width="33%"><a href="8-railcore-ii.jpg"><img src="8-railcore-ii.jpg" width="260" alt="RailCore II picture 8"></a><br><sub>Photo: <a href="https://3ddistributed.com/author/shane77304/">Shane Hooper</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="9-railcore-ii.jpg"><img src="9-railcore-ii.jpg" width="260" alt="RailCore II picture 9"></a><br><sub>Photo: <a href="https://3ddistributed.com/author/shane77304/">Shane Hooper</a></sub></td><td align="center" width="33%"><a href="10-railcore-ii.jpg"><img src="10-railcore-ii.jpg" width="260" alt="RailCore II picture 10"></a><br><sub>Photo: <a href="https://3ddistributed.com/author/shane77304/">Shane Hooper</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- [Printables](https://www.printables.com/model/160936): 25 STL for the 300 ZL/ZLT, CC BY, uploaded by RailCoreLabs.
+- [Thingiverse](https://www.thingiverse.com/thing:2407174): printed parts, CC BY, uploaded by kraegar.
+- [Thingiverse](https://www.thingiverse.com/thing:2765693): ZL option parts, CC BY, uploaded by kraegar.
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260121110036/https://github.com/railcore/parts), 2026-01-21.

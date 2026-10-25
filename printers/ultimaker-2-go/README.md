@@ -24,3 +24,7 @@
 <tr><td align="center" width="33%"><a href="0-ultimaker-2-go.jpg"><img src="0-ultimaker-2-go.jpg" width="260" alt="Ultimaker 2 Go picture 0"></a><br><sub>Photo: <a href="https://github.com/Ultimaker">Ultimaker</a></sub></td><td align="center" width="33%"><a href="1-ultimaker-2-go.jpg"><img src="1-ultimaker-2-go.jpg" width="260" alt="Ultimaker 2 Go picture 1"></a><br><sub>Photo: <a href="https://github.com/Ultimaker">Ultimaker</a></sub></td><td align="center" width="33%"><a href="2-ultimaker-2-go.jpg"><img src="2-ultimaker-2-go.jpg" width="260" alt="Ultimaker 2 Go picture 2"></a><br><sub>Photo: <a href="https://github.com/Ultimaker">Ultimaker</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-ultimaker-2-go.jpg"><img src="3-ultimaker-2-go.jpg" width="260" alt="Ultimaker 2 Go picture 3"></a><br><sub>Photo: <a href="https://github.com/Ultimaker">Ultimaker</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20251219135341/https://github.com/Ultimaker/Ultimaker2Go), 2025-12-19.

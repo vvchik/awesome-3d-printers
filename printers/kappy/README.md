@@ -25,3 +25,7 @@
 <tr><td align="center" width="33%"><a href="3-kappy.jpg"><img src="3-kappy.jpg" width="260" alt="Kappy picture 3"></a><br><sub>Photo: <a href="https://www.printables.com/@razorsh4rk_242298">razorsh4rk</a></sub></td><td align="center" width="33%"><a href="4-kappy.jpg"><img src="4-kappy.jpg" width="260" alt="Kappy picture 4"></a><br><sub>Photo: <a href="https://www.printables.com/@razorsh4rk_242298">razorsh4rk</a></sub></td><td align="center" width="33%"><a href="5-kappy.jpg"><img src="5-kappy.jpg" width="260" alt="Kappy picture 5"></a><br><sub>Photo: <a href="https://www.printables.com/@enragedbyte">enragedByte</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="6-kappy.jpg"><img src="6-kappy.jpg" width="260" alt="Kappy picture 6"></a><br><sub>Photo: <a href="https://www.printables.com/@enragedbyte">enragedByte</a></sub></td><td align="center" width="33%"><a href="7-kappy.jpg"><img src="7-kappy.jpg" width="260" alt="Kappy picture 7"></a><br><sub>Photo: <a href="https://www.printables.com/@KCChan_1773410">K.C Chan</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260311111034/https://www.printables.com/model/625544-kappy-3d-printer), 2026-03-11.

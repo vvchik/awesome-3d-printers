@@ -25,3 +25,9 @@
 <tr><td align="center" width="33%"><a href="3-hypercube.jpg"><img src="3-hypercube.jpg" width="260" alt="HyperCube picture 3"></a><br><sub>Photo: <a href="https://www.thingiverse.com/Tech2C">Tech2C</a></sub></td><td align="center" width="33%"><a href="4-hypercube.jpg"><img src="4-hypercube.jpg" width="260" alt="HyperCube picture 4"></a><br><sub>Photo: <a href="https://www.thingiverse.com/Tech2C">Tech2C</a></sub></td><td align="center" width="33%"><a href="5-hypercube.jpg"><img src="5-hypercube.jpg" width="260" alt="HyperCube picture 5"></a></td></tr>
 <tr><td align="center" width="33%"><a href="6-hypercube.jpg"><img src="6-hypercube.jpg" width="260" alt="HyperCube picture 6"></a><br><sub>Photo: <a href="https://www.thingiverse.com/TunnelVision">TunnelVision</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- [Thingiverse](https://www.thingiverse.com/thing:2013921): retired versions of the parts, 21 files. CC BY 4.0.
+- [RepRap wiki](https://reprap.org/wiki/HyperCube): docs, links to Thingiverse. CC BY-NC 3.0.
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260921203812/https://www.thingiverse.com/thing:1752766), 2026-09-21.

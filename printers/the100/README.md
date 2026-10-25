@@ -24,3 +24,10 @@
 <tr><td align="center" width="33%"><a href="0-the100.jpg"><img src="0-the100.jpg" width="260" alt="THE100 picture 0"></a><br><sub>Photo: <a href="https://www.printables.com/@MattThePrintingNerd">Matt the Printing Nerd</a></sub></td><td align="center" width="33%"><a href="1-the100.jpg"><img src="1-the100.jpg" width="260" alt="THE100 picture 1"></a><br><sub>Photo: <a href="https://www.printables.com/@MattThePrintingNerd">Matt the Printing Nerd</a></sub></td><td align="center" width="33%"><a href="2-the100.jpg"><img src="2-the100.jpg" width="260" alt="THE100 picture 2"></a><br><sub>Photo: <a href="https://www.printables.com/@MattThePrintingNerd">Matt the Printing Nerd</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-the100.jpg"><img src="3-the100.jpg" width="260" alt="THE100 picture 3"></a><br><sub>Photo: <a href="https://www.printables.com/@MattThePrintingNerd">Matt the Printing Nerd</a></sub></td><td align="center" width="33%"><a href="4-the100.jpg"><img src="4-the100.jpg" width="260" alt="THE100 picture 4"></a><br><sub>Photo: <a href="https://hackaday.io/hacker/1321136">Matt the Printing Nerd</a></sub></td><td align="center" width="33%"><a href="5-the100.jpg"><img src="5-the100.jpg" width="260" alt="THE100 picture 5"></a><br><sub>Photo: <a href="https://www.printables.com/@MattThePrintingNerd">Matt the Printing Nerd</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- [Printables](https://www.printables.com/model/572689-the-100-the-fastest-3d-printer-based-on-a-printed-): v1.1 STEP and STL, CC BY-NC-SA.
+- [Printables](https://www.printables.com/model/430339-the-100): v1.0 STEP and STL, CC BY-NC-SA.
+- [Hackaday.io](https://hackaday.io/project/190348-the-100-the-fastest-3d-printer): docs and build logs from 2023, no license shown.
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260929055237/https://github.com/MSzturc/the100), 2026-09-29.

@@ -25,3 +25,7 @@
 <tr><td align="center" width="33%"><a href="3-vzbot-vz150.jpg"><img src="3-vzbot-vz150.jpg" width="260" alt="VzBot Vz150 picture 3"></a><br><sub>Photo: <a href="https://github.com/pbsuper">pbsuper</a></sub></td><td align="center" width="33%"><a href="4-vzbot-vz150.jpg"><img src="4-vzbot-vz150.jpg" width="260" alt="VzBot Vz150 picture 4"></a></td><td align="center" width="33%"><a href="5-vzbot-vz150.jpg"><img src="5-vzbot-vz150.jpg" width="260" alt="VzBot Vz150 picture 5"></a></td></tr>
 <tr><td align="center" width="33%"><a href="6-vzbot-vz150.jpg"><img src="6-vzbot-vz150.jpg" width="260" alt="VzBot Vz150 picture 6"></a></td></tr>
 </table>
+
+## Other homes of the files
+
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20240527132656/https://github.com/VzBoT3D/VzBoT-Vz150), 2024-05-27.

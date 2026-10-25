@@ -23,3 +23,7 @@
 <table>
 <tr><td align="center" width="33%"><a href="0-tiny-t.jpg"><img src="0-tiny-t.jpg" width="260" alt="Tiny-T picture 0"></a><br><sub>Photo: <a href="https://github.com/PrintersForAnts">Printers for Ants</a></sub></td><td align="center" width="33%"><a href="1-tiny-t.jpg"><img src="1-tiny-t.jpg" width="260" alt="Tiny-T picture 1"></a><br><sub>Photo: <a href="https://github.com/PrintersForAnts">Printers for Ants</a></sub></td><td align="center" width="33%"><a href="2-tiny-t.jpg"><img src="2-tiny-t.jpg" width="260" alt="Tiny-T picture 2"></a></td></tr>
 </table>
+
+## Other homes of the files
+
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260308223545/https://github.com/PrintersForAnts/Tiny-T), 2026-03-08.

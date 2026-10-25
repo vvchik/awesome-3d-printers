@@ -24,3 +24,7 @@
 <tr><td align="center" width="33%"><a href="0-tantillus.jpg"><img src="0-tantillus.jpg" width="260" alt="Tantillus picture 0"></a><br><sub>Photo: <a href="https://reprap.org/wiki/User:Leonal">Leonal</a></sub></td><td align="center" width="33%"><a href="1-tantillus.jpg"><img src="1-tantillus.jpg" width="260" alt="Tantillus picture 1"></a><br><sub>Photo: <a href="https://reprap.org/forum/profile.php?1,9813">Sublime</a></sub></td><td align="center" width="33%"><a href="2-tantillus.jpg"><img src="2-tantillus.jpg" width="260" alt="Tantillus picture 2"></a><br><sub>Photo: <a href="http://scheuten.me/">toolson</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-tantillus.jpg"><img src="3-tantillus.jpg" width="260" alt="Tantillus picture 3"></a><br><sub>Photo: <a href="https://geometricobjectdepositiontool.blogspot.com/">Sublime</a></sub></td><td align="center" width="33%"><a href="4-tantillus.jpg"><img src="4-tantillus.jpg" width="260" alt="Tantillus picture 4"></a><br><sub>Photo: <a href="https://www.printables.com/@al177">al177</a></sub></td><td align="center" width="33%"><a href="5-tantillus.jpg"><img src="5-tantillus.jpg" width="260" alt="Tantillus picture 5"></a><br><sub>Photo: <a href="https://www.youtube.com/@aidilj">aidil jazmi</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- Wayback Machine: [latest snapshot](http://web.archive.org/web/20220808235510/https://github.com/Intrinsically-Sublime/Tantillus), 2022-08-08.

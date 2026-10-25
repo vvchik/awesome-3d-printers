@@ -23,3 +23,8 @@
 <table>
 <tr><td align="center" width="33%"><a href="0-clock-3.jpg"><img src="0-clock-3.jpg" width="260" alt="Clock 3 picture 0"></a><br><sub>Photo: <a href="https://github.com/jon-harper">Jon Harper</a></sub></td><td align="center" width="33%"><a href="1-clock-3.jpg"><img src="1-clock-3.jpg" width="260" alt="Clock 3 picture 1"></a><br><sub>Photo: <a href="https://github.com/jon-harper">Jon Harper</a></sub></td><td align="center" width="33%"><a href="2-clock-3.jpg"><img src="2-clock-3.jpg" width="260" alt="Clock 3 picture 2"></a><br><sub>Photo: <a href="https://github.com/jon-harper">Jon Harper</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- [GitHub Pages](https://jon-harper.github.io/clock-3/): project docs, GPL-3.0.
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20221104001106/https://github.com/jon-harper/clock-3), 2022-11-04.

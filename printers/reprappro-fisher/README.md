@@ -24,3 +24,12 @@
 <tr><td align="center" width="33%"><a href="0-reprappro-fisher.jpg"><img src="0-reprappro-fisher.jpg" width="260" alt="RepRapPro Fisher 1 picture 0"></a><br><sub>Photo: <a href="https://reprap.org/wiki/User:SallyRepRap">SallyRepRap</a></sub></td><td align="center" width="33%"><a href="1-reprappro-fisher.jpg"><img src="1-reprappro-fisher.jpg" width="260" alt="RepRapPro Fisher 1 picture 1"></a><br><sub>Photo: <a href="https://github.com/reprappro">RepRapPro</a></sub></td><td align="center" width="33%"><a href="2-reprappro-fisher.jpg"><img src="2-reprappro-fisher.jpg" width="260" alt="RepRapPro Fisher 1 picture 2"></a><br><sub>Photo: <a href="https://github.com/reprappro">RepRapPro</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-reprappro-fisher.jpg"><img src="3-reprappro-fisher.jpg" width="260" alt="RepRapPro Fisher 1 picture 3"></a><br><sub>Photo: <a href="https://github.com/reprappro">RepRapPro</a></sub></td><td align="center" width="33%"><a href="4-reprappro-fisher.jpg"><img src="4-reprappro-fisher.jpg" width="260" alt="RepRapPro Fisher 1 picture 4"></a><br><sub>Photo: <a href="https://github.com/reprappro">RepRapPro</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- [GitHub, RepRap Ltd](https://github.com/RepRapLtd/Fisher): fork with STEP, SolidWorks, FreeCAD, STL, DXF and Duet firmware, updated to 2021-02. GPL-2.0.
+- [GitHub, eMAKER](https://github.com/emaker/Fisher): kit maker fork with STEP, SolidWorks, STL, DXF, firmware and heatbed upgrades (re-upload by eMAKER). GPL-2.0.
+- [RepRap Ltd, beta manual](https://reprapltd.com/reprappro/documentation/fisher-beta/index.html): build manual of the Fisher beta.
+- [eMAKER docs](https://emaker.io/documentation/fisher-build-instructions/): build instructions and the heatbed upgrade. GPL.
+- [RepRap wiki](https://reprap.org/wiki/Fisher): overview and supplier links. GPL.
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20241202035529/https://github.com/reprappro/Fisher), 2024-12-02.

@@ -24,3 +24,7 @@
 <tr><td align="center" width="33%"><a href="0-rook-mk2.jpg"><img src="0-rook-mk2.jpg" width="260" alt="Rook MK2 picture 0"></a><br><sub>Photo: <a href="https://www.printables.com/@Rolohaun">Rolohaun</a></sub></td><td align="center" width="33%"><a href="1-rook-mk2.jpg"><img src="1-rook-mk2.jpg" width="260" alt="Rook MK2 picture 1"></a><br><sub>Photo: <a href="https://www.printables.com/@Rolohaun">Rolohaun</a></sub></td><td align="center" width="33%"><a href="2-rook-mk2.jpg"><img src="2-rook-mk2.jpg" width="260" alt="Rook MK2 picture 2"></a><br><sub>Photo: <a href="https://www.printables.com/@Rolohaun">Rolohaun</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-rook-mk2.jpg"><img src="3-rook-mk2.jpg" width="260" alt="Rook MK2 picture 3"></a><br><sub>Photo: <a href="https://www.printables.com/@ginza93_3545694">ginza93</a></sub></td><td align="center" width="33%"><a href="4-rook-mk2.jpg"><img src="4-rook-mk2.jpg" width="260" alt="Rook MK2 picture 4"></a><br><sub>Photo: <a href="https://www.printables.com/@j3dcnc">j3dcnc</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260609115529/https://www.printables.com/model/1644597-rook-mk2), 2026-06-09.

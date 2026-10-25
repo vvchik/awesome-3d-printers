@@ -25,3 +25,9 @@
 <tr><td align="center" width="33%"><a href="3-dueling-zero.jpg"><img src="3-dueling-zero.jpg" width="260" alt="Dueling Zero picture 3"></a><br><sub>Photo: <a href="https://github.com/zruncho3d">Zruncho 3D</a></sub></td><td align="center" width="33%"><a href="4-dueling-zero.jpg"><img src="4-dueling-zero.jpg" width="260" alt="Dueling Zero picture 4"></a><br><sub>Photo: <a href="https://github.com/zruncho3d">Zruncho 3D</a></sub></td><td align="center" width="33%"><a href="5-dueling-zero.jpg"><img src="5-dueling-zero.jpg" width="260" alt="Dueling Zero picture 5"></a><br><sub>Photo: <a href="https://github.com/zruncho3d">Zruncho 3D</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="6-dueling-zero.jpg"><img src="6-dueling-zero.jpg" width="260" alt="Dueling Zero picture 6"></a><br><sub>Photo: <a href="https://github.com/zruncho3d">Zruncho 3D</a></sub></td><td align="center" width="33%"><a href="7-dueling-zero.jpg"><img src="7-dueling-zero.jpg" width="260" alt="Dueling Zero picture 7"></a><br><sub>Photo: <a href="https://www.youtube.com/@zruncho3d">Zruncho 3D</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- [Google Drive, v3](https://drive.google.com/file/d/1U-At9Qk3_djhFbRaB3mEeM05XXbvnGhe/view): native Fusion f3z of the v3 gantry, 2023-09-14. License not stated.
+- [Google Drive, v1](https://drive.google.com/file/d/1XVWL-ye3ak-054TESjwwNMo5rwroPHxu/view): native Fusion f3z of the archived v1, 2022-08-17. License not stated.
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260223073354/https://github.com/zruncho3d/DuelingZero), 2026-02-23.

@@ -24,3 +24,7 @@
 <tr><td align="center" width="33%"><a href="0-creality-cr-10.jpg"><img src="0-creality-cr-10.jpg" width="260" alt="Original CR-10 picture 0"></a><br><sub>Photo: <a href="https://www.creality.com">Creality</a></sub></td><td align="center" width="33%"><a href="1-creality-cr-10.jpg"><img src="1-creality-cr-10.jpg" width="260" alt="Original CR-10 picture 1"></a><br><sub>Photo: <a href="https://www.creality.com">Creality</a></sub></td><td align="center" width="33%"><a href="2-creality-cr-10.jpg"><img src="2-creality-cr-10.jpg" width="260" alt="Original CR-10 picture 2"></a><br><sub>Photo: <a href="https://www.creality.com">Creality</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-creality-cr-10.jpg"><img src="3-creality-cr-10.jpg" width="260" alt="Original CR-10 picture 3"></a><br><sub>Photo: <a href="https://www.creality.com">Creality</a></sub></td><td align="center" width="33%"><a href="4-creality-cr-10.jpg"><img src="4-creality-cr-10.jpg" width="260" alt="Original CR-10 picture 4"></a><br><sub>Photo: <a href="https://www.creality.com">Creality</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- Wayback Machine: [latest snapshot](http://web.archive.org/web/20260308061133/https://github.com/Creality3DPrinting/CR-10), 2026-03-08.

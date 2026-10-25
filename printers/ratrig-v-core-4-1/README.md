@@ -24,3 +24,10 @@
 <tr><td align="center" width="33%"><a href="0-ratrig-v-core-4-1.jpg"><img src="0-ratrig-v-core-4-1.jpg" width="260" alt="Rat Rig V-Core 4.1 picture 0"></a><br><sub>Photo: <a href="https://ratrig.com">Rat Rig</a></sub></td><td align="center" width="33%"><a href="1-ratrig-v-core-4-1.jpg"><img src="1-ratrig-v-core-4-1.jpg" width="260" alt="Rat Rig V-Core 4.1 picture 1"></a><br><sub>Photo: <a href="https://ratrig.com">Rat Rig</a></sub></td><td align="center" width="33%"><a href="2-ratrig-v-core-4-1.jpg"><img src="2-ratrig-v-core-4-1.jpg" width="260" alt="Rat Rig V-Core 4.1 picture 2"></a><br><sub>Photo: <a href="https://ratrig.com">Rat Rig</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-ratrig-v-core-4-1.jpg"><img src="3-ratrig-v-core-4-1.jpg" width="260" alt="Rat Rig V-Core 4.1 picture 3"></a><br><sub>Photo: <a href="https://ratrig.com">Rat Rig</a></sub></td><td align="center" width="33%"><a href="4-ratrig-v-core-4-1.jpg"><img src="4-ratrig-v-core-4-1.jpg" width="260" alt="Rat Rig V-Core 4.1 picture 4"></a><br><sub>Photo: <a href="https://ratrig.com">Rat Rig</a></sub></td><td align="center" width="33%"><a href="5-ratrig-v-core-4-1.jpg"><img src="5-ratrig-v-core-4-1.jpg" width="260" alt="Rat Rig V-Core 4.1 picture 5"></a><br><sub>Photo: <a href="https://ratrig.com">Rat Rig</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- [GitHub, printed parts](https://github.com/Rat-Rig/RatRig-PrintedParts/tree/main/V-Core-4.1): V-Core 4.1 STL. CC BY-NC-SA 4.0.
+- [GitHub, panels](https://github.com/Rat-Rig/RatRig-Panels/tree/main/V-Core-4.0): V-Core 4.0 enclosure panels, DXF and STEP. The 4.1 wiki links the same 4.0 panel set. CC BY-NC-SA 4.0.
+- [Printables](https://www.printables.com/model/1142398): V-Core 4.0 printed parts STL and panel DXF. CC BY-NC-SA.
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260226092756/https://ratrig.com/products/rat-rig-v-core-4-1), 2026-02-26.

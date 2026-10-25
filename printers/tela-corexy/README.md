@@ -23,3 +23,7 @@
 <table>
 <tr><td align="center" width="33%"><a href="0-tela-corexy.jpg"><img src="0-tela-corexy.jpg" width="260" alt="TeLa picture 0"></a><br><sub>Photo: <a href="https://www.youtube.com/@AliakseiSolovyov">Техно Лаборатория (Aliaksei Solovyov)</a></sub></td><td align="center" width="33%"><a href="1-tela-corexy.jpg"><img src="1-tela-corexy.jpg" width="260" alt="TeLa picture 1"></a><br><sub>Photo: <a href="https://www.youtube.com/@AliakseiSolovyov">Техно Лаборатория (Aliaksei Solovyov)</a></sub></td><td align="center" width="33%"><a href="2-tela-corexy.jpg"><img src="2-tela-corexy.jpg" width="260" alt="TeLa picture 2"></a><br><sub>Photo: <a href="https://www.youtube.com/@AliakseiSolovyov">Техно Лаборатория (Aliaksei Solovyov)</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260226064004/https://www.youtube.com/playlist?list=PLRrkC8b4XLig8odCiBDuxA58ZgszBqeMb), 2026-02-26.

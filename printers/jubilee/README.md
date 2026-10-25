@@ -24,3 +24,8 @@
 <tr><td align="center" width="33%"><a href="0-jubilee.jpg"><img src="0-jubilee.jpg" width="260" alt="Jubilee picture 0"></a><br><sub>Photo: <a href="https://github.com/poofjunior">Joshua Vasquez (poofjunior)</a></sub></td><td align="center" width="33%"><a href="1-jubilee.jpg"><img src="1-jubilee.jpg" width="260" alt="Jubilee picture 1"></a><br><sub>Photo: <a href="https://github.com/poofjunior">Joshua Vasquez (poofjunior)</a></sub></td><td align="center" width="33%"><a href="2-jubilee.jpg"><img src="2-jubilee.jpg" width="260" alt="Jubilee picture 2"></a><br><sub>Photo: <a href="https://www.reddit.com/user/jackantubis">u/jackantubis</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-jubilee.jpg"><img src="3-jubilee.jpg" width="260" alt="Jubilee picture 3"></a><br><sub>Photo: <a href="https://www.youtube.com/@darkspeedy26">darkspeedy26</a></sub></td><td align="center" width="33%"><a href="4-jubilee.jpg"><img src="4-jubilee.jpg" width="260" alt="Jubilee picture 4"></a><br><sub>Photo: <a href="https://www.reddit.com/user/jackantubis">u/jackantubis</a></sub></td><td align="center" width="33%"><a href="5-jubilee.jpg"><img src="5-jubilee.jpg" width="260" alt="Jubilee picture 5"></a><br><sub>Photo: <a href="https://3ddistributed.com/author/shane77304/">Shane Hooper</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- [Thingiverse](https://www.thingiverse.com/thing:3843001): old snapshot of the STL, STEP, and SolidWorks files, marked out of date by the author. CC BY (stated in the description).
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260721135949/https://github.com/machineagency/jubilee), 2026-07-21.

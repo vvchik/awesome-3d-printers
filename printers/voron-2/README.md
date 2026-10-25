@@ -24,3 +24,8 @@
 <tr><td align="center" width="33%"><a href="0-voron-2.jpg"><img src="0-voron-2.jpg" width="260" alt="Voron 2 (2.0 to 2.4) picture 0"></a><br><sub>Photo: <a href="https://github.com/VoronDesign">Voron Design</a></sub></td><td align="center" width="33%"><a href="1-voron-2.jpg"><img src="1-voron-2.jpg" width="260" alt="Voron 2 (2.0 to 2.4) picture 1"></a><br><sub>Photo: <a href="https://spool3d.ca">Spool3D/LDO</a></sub></td><td align="center" width="33%"><a href="2-voron-2.jpg"><img src="2-voron-2.jpg" width="260" alt="Voron 2 (2.0 to 2.4) picture 2"></a><br><sub>Photo: <a href="https://voron.at">voron.at/LDO</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-voron-2.jpg"><img src="3-voron-2.jpg" width="260" alt="Voron 2 (2.0 to 2.4) picture 3"></a><br><sub>Photo: <a href="https://github.com/VoronDesign">Voron Design</a></sub></td><td align="center" width="33%"><a href="4-voron-2.jpg"><img src="4-voron-2.jpg" width="260" alt="Voron 2 (2.0 to 2.4) picture 4"></a><br><sub>Photo: Brian Leonard</sub></td><td align="center" width="33%"><a href="5-voron-2.jpg"><img src="5-voron-2.jpg" width="260" alt="Voron 2 (2.0 to 2.4) picture 5"></a><br><sub>Photo: <a href="https://github.com/VoronDesign">Voron Design</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- [voron.zip](https://voron.zip/done/V2.zip): official release download of the 2.4 files, and the [manual PDF](https://voron.zip/web/viewer.html?file=manuals/Assembly_Manual_2.4r2.pdf). License not stated on the page.
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20261001005403/https://github.com/VoronDesign/Voron-2), 2026-10-01.

@@ -24,3 +24,7 @@
 <tr><td align="center" width="33%"><a href="0-ender-ez-belt.jpg"><img src="0-ender-ez-belt.jpg" width="260" alt="Ender EZ Belt picture 0"></a><br><sub>Photo: <a href="https://www.printables.com/@AdamfromPowerbelt3D">Adam from Powerbelt3D</a></sub></td><td align="center" width="33%"><a href="1-ender-ez-belt.jpg"><img src="1-ender-ez-belt.jpg" width="260" alt="Ender EZ Belt picture 1"></a><br><sub>Photo: <a href="https://www.printables.com/@AdamfromPowerbelt3D">Adam from Powerbelt3D</a></sub></td><td align="center" width="33%"><a href="2-ender-ez-belt.jpg"><img src="2-ender-ez-belt.jpg" width="260" alt="Ender EZ Belt picture 2"></a><br><sub>Photo: <a href="https://www.printables.com/@AdamfromPowerbelt3D">Adam from Powerbelt3D</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-ender-ez-belt.jpg"><img src="3-ender-ez-belt.jpg" width="260" alt="Ender EZ Belt picture 3"></a><br><sub>Photo: <a href="https://www.printables.com/@Munkee915_429691">Munkee915</a></sub></td><td align="center" width="33%"><a href="4-ender-ez-belt.jpg"><img src="4-ender-ez-belt.jpg" width="260" alt="Ender EZ Belt picture 4"></a><br><sub>Photo: <a href="https://www.printables.com/@AdamfromPowerbelt3D">Adam from Powerbelt3D</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20241129175855/https://www.printables.com/model/255684-ender-ez-belt-3d-printer-conversion), 2024-11-29.

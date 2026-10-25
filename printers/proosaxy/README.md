@@ -16,7 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/SnakeOilXY/ProosaXY?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/SnakeOilXY/ProosaXY)<br>[🧡⁠583](https://www.printables.com/model/518614-proosaxy-mk3s-to-corexy-conversion)<br>[⏯️⁠9.2K](https://www.youtube.com/watch?v=Dink3JQ-bNY)<br>[❤️⁠91](https://www.youtube.com/watch?v=Dink3JQ-bNY) |
 | Links | [CAD](https://github.com/SnakeOilXY/ProosaXY/tree/master/src)<br>[STL](https://github.com/SnakeOilXY/ProosaXY/tree/master/STLs)<br>[BOM](https://github.com/SnakeOilXY/ProosaXY#bom) |
 | Groups | [Discord](https://discord.gg/WZVP2HuAag) EN 1.3K |
-| License | [GPL-3.0](https://github.com/SnakeOilXY/ProosaXY/blob/master/LICENSE) |
+| License | [GPL-3.0 (GitHub, Printables), CC BY-NC (MakerWorld)](https://github.com/SnakeOilXY/ProosaXY/blob/master/LICENSE) |
 
 ## Pictures (6)
 
@@ -24,3 +24,9 @@
 <tr><td align="center" width="33%"><a href="0-proosaxy.jpg"><img src="0-proosaxy.jpg" width="260" alt="ProosaXY picture 0"></a><br><sub>Photo: <a href="https://www.printables.com/@Chip">Chip</a></sub></td><td align="center" width="33%"><a href="1-proosaxy.jpg"><img src="1-proosaxy.jpg" width="260" alt="ProosaXY picture 1"></a><br><sub>Photo: <a href="https://github.com/SnakeOilXY">SnakeOilXY</a></sub></td><td align="center" width="33%"><a href="2-proosaxy.jpg"><img src="2-proosaxy.jpg" width="260" alt="ProosaXY picture 2"></a><br><sub>Photo: <a href="https://github.com/SnakeOilXY">SnakeOilXY</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-proosaxy.jpg"><img src="3-proosaxy.jpg" width="260" alt="ProosaXY picture 3"></a><br><sub>Photo: <a href="https://makerworld.com/en/@ChipCE">ChipCE</a></sub></td><td align="center" width="33%"><a href="4-proosaxy.jpg"><img src="4-proosaxy.jpg" width="260" alt="ProosaXY picture 4"></a><br><sub>Photo: <a href="https://makerworld.com/en/@ChipCE">ChipCE</a></sub></td><td align="center" width="33%"><a href="5-proosaxy.jpg"><img src="5-proosaxy.jpg" width="260" alt="ProosaXY picture 5"></a></td></tr>
 </table>
+
+## Other homes of the files
+
+- [Printables](https://www.printables.com/model/518614-proosaxy-mk3s-to-corexy-conversion): STEP assembly and STL zip of the 2023-07 release. GPL-3.0.
+- [MakerWorld](https://makerworld.com/en/models/37258): STEP assembly and photos. CC BY-NC.
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20250326201955/https://github.com/SnakeOilXY/ProosaXY), 2025-03-26.

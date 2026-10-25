@@ -14,9 +14,9 @@
 | Exterior (W×D×H) | — |
 | Latest version | Files<br>[2022-01](https://github.com/RoyBerntsenDesign/V-King-CoreXY/commit/59a7ad08779e54fee8d0c5510eb178a15f1034da) |
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/RoyBerntsenDesign/V-King-CoreXY?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/RoyBerntsenDesign/V-King-CoreXY)<br>[💙⁠541](https://www.thingiverse.com/thing:2921021)<br>[🤍⁠21](https://www.myminifactory.com/object/3d-print-v-king-corexy-v2-0-73409)<br>[⏯️⁠43K](https://www.youtube.com/watch?v=wINF7qM0DQU)<br>[❤️⁠458](https://www.youtube.com/watch?v=wINF7qM0DQU) |
-| Links | [CAD](https://a360.co/3YxhjgS)<br>[STL](https://github.com/RoyBerntsenDesign/V-King-CoreXY/tree/master/Part%20File%20Library)<br>[BOM](https://github.com/RoyBerntsenDesign/V-King-CoreXY/blob/master/Document%20Library/Bill%20Of%20Materials/V-King%20CoreXY%20V2%20-%20Part%20Order%20List.xlsx)<br>[Manual](https://github.com/RoyBerntsenDesign/V-King-CoreXY/blob/master/Document%20Library/V-king%20MK2%20Assembly%20Manual%20V1.0.pdf)<br>[Config](https://github.com/RoyBerntsenDesign/V-King-CoreXY/tree/master/Firmware%20Files/RRF-Duet) |
+| Links | [CAD](https://github.com/RoyBerntsenDesign/V-King-CoreXY/tree/master/Source%20File%20Library)<br>[STL](https://github.com/RoyBerntsenDesign/V-King-CoreXY/tree/master/Part%20File%20Library)<br>[BOM](https://github.com/RoyBerntsenDesign/V-King-CoreXY/blob/master/Document%20Library/Bill%20Of%20Materials/V-King%20CoreXY%20V2%20-%20Part%20Order%20List.xlsx)<br>[Manual](https://github.com/RoyBerntsenDesign/V-King-CoreXY/blob/master/Document%20Library/V-king%20MK2%20Assembly%20Manual%20V1.0.pdf)<br>[Config](https://github.com/RoyBerntsenDesign/V-King-CoreXY/tree/master/Firmware%20Files/RRF-Duet) |
 | Groups | [Facebook](https://www.facebook.com/groups/viking3d/) EN |
-| License | [CC BY-SA 4.0](https://github.com/RoyBerntsenDesign/V-King-CoreXY/blob/master/LICENSE) |
+| License | [CC BY-SA 4.0 (GitHub LICENSE), CC BY-NC 3.0 (GitHub README), CC BY-NC-SA 4.0 (Thingiverse), MyMiniFactory Credit, No remix, Non-commercial](https://github.com/RoyBerntsenDesign/V-King-CoreXY/blob/master/LICENSE) |
 
 ## Pictures (14)
 
@@ -27,3 +27,9 @@
 <tr><td align="center" width="33%"><a href="9-v-king.jpg"><img src="9-v-king.jpg" width="260" alt="V-King CoreXY picture 9"></a><br><sub>Photo: <a href="https://www.myminifactory.com/users/Pro3D">Roy Berntsen</a></sub></td><td align="center" width="33%"><a href="10-v-king.jpg"><img src="10-v-king.jpg" width="260" alt="V-King CoreXY picture 10"></a><br><sub>Photo: <a href="https://www.myminifactory.com/users/Pro3D">Roy Berntsen</a></sub></td><td align="center" width="33%"><a href="11-v-king.jpg"><img src="11-v-king.jpg" width="260" alt="V-King CoreXY picture 11"></a><br><sub>Photo: <a href="https://www.myminifactory.com/users/Pro3D">Roy Berntsen</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="12-v-king.jpg"><img src="12-v-king.jpg" width="260" alt="V-King CoreXY picture 12"></a><br><sub>Photo: <a href="https://www.youtube.com/@PRO3DESIGN">Roy Berntsen</a></sub></td><td align="center" width="33%"><a href="13-v-king.jpg"><img src="13-v-king.jpg" width="260" alt="V-King CoreXY picture 13"></a><br><sub>Photo: <a href="https://www.youtube.com/@PRO3DESIGN">Roy Berntsen</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- [Thingiverse](https://www.thingiverse.com/thing:2921021): V2.0 with the 2020 update, 7 files. CC BY-NC-SA 4.0.
+- [MyMiniFactory](https://www.myminifactory.com/object/3d-print-v-king-corexy-v2-0-73409): V2.0 STL and the part order list PDF. MyMiniFactory Credit, No remix, Non-commercial.
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20250515171857/https://github.com/RoyBerntsenDesign/V-King-CoreXY), 2025-05-15.

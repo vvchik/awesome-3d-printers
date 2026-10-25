@@ -25,3 +25,7 @@
 <tr><td align="center" width="33%"><a href="3-ender-3.jpg"><img src="3-ender-3.jpg" width="260" alt="Original Ender-3 picture 3"></a><br><sub>Photo: <a href="https://www.creality.com/">Creality</a></sub></td><td align="center" width="33%"><a href="4-ender-3.jpg"><img src="4-ender-3.jpg" width="260" alt="Original Ender-3 picture 4"></a><br><sub>Photo: <a href="https://www.creality.com/">Creality</a></sub></td><td align="center" width="33%"><a href="5-ender-3.jpg"><img src="5-ender-3.jpg" width="260" alt="Original Ender-3 picture 5"></a><br><sub>Photo: <a href="https://www.creality.com/">Creality</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="6-ender-3.jpg"><img src="6-ender-3.jpg" width="260" alt="Original Ender-3 picture 6"></a><br><sub>Photo: <a href="https://shopgoodwill.com/">ShopGoodwill</a></sub></td><td align="center" width="33%"><a href="7-ender-3.jpg"><img src="7-ender-3.jpg" width="260" alt="Original Ender-3 picture 7"></a></td></tr>
 </table>
+
+## Other homes of the files
+
+- Wayback Machine: [latest snapshot](http://web.archive.org/web/20260914093850/https://github.com/Creality3DPrinting/Ender-3), 2026-09-14.

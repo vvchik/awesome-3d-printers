@@ -24,3 +24,7 @@
 <tr><td align="center" width="33%"><a href="0-rook-mk1.jpg"><img src="0-rook-mk1.jpg" width="260" alt="Rook MK1 picture 0"></a><br><sub>Photo: <a href="https://www.printables.com/@Rolohaun">Rolohaun Design</a></sub></td><td align="center" width="33%"><a href="1-rook-mk1.jpg"><img src="1-rook-mk1.jpg" width="260" alt="Rook MK1 picture 1"></a><br><sub>Photo: <a href="https://west3d.com">West3D/LDO</a></sub></td><td align="center" width="33%"><a href="2-rook-mk1.jpg"><img src="2-rook-mk1.jpg" width="260" alt="Rook MK1 picture 2"></a><br><sub>Photo: <a href="https://kb-3d.com">kb-3d/LDO</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-rook-mk1.jpg"><img src="3-rook-mk1.jpg" width="260" alt="Rook MK1 picture 3"></a><br><sub>Photo: <a href="https://www.youtube.com/@Rolohaun">Rolohaun</a></sub></td><td align="center" width="33%"><a href="4-rook-mk1.jpg"><img src="4-rook-mk1.jpg" width="260" alt="Rook MK1 picture 4"></a><br><sub>Photo: <a href="https://www.printables.com/@edgett">edgett</a></sub></td><td align="center" width="33%"><a href="5-rook-mk1.jpg"><img src="5-rook-mk1.jpg" width="260" alt="Rook MK1 picture 5"></a><br><sub>Photo: <a href="https://www.youtube.com/@Rolohaun">Rolohaun</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260306045644/https://www.printables.com/model/387431-rook-mk1-3d-printer), 2026-03-06.

@@ -9,14 +9,14 @@
 | Section | Historical designs |
 | Project page | [https://github.com/smartfriendz/smartcore](https://github.com/smartfriendz/smartcore) |
 | Author | Smartfriendz |
-| About | Simple CoreXY in a wooden box from the Smartrap maker, and an early DIY CoreXY. |
+| About | Simple CoreXY in a wooden box from the Smartrap maker, and an early DIY CoreXY. Versions are the wooden SmartrapCore 1.2, the SmartrapCore ALU on aluminium extrusions, and the larger ALU XL300. |
 | Build volume (X×Y×Z) | 300×300×300 |
 | Exterior (W×D×H) | — |
-| Latest version | 1.2.4<br>[2015-06](https://github.com/smartfriendz/smartcore/commit/7468fec6c8d8e96a0075c108afc296941ad031ac) |
+| Latest version | Log<br>[2017-07](https://www.thingiverse.com/thing:651117) |
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/smartfriendz/smartcore?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/smartfriendz/smartcore)<br>[💙⁠1.9K](https://www.thingiverse.com/thing:651117) |
-| Links | [Files](https://github.com/smartfriendz/smartcore/tree/master/sources)<br>[STL](https://github.com/smartfriendz/smartcore/tree/master/stl)<br>[Wiki](https://reprap.org/wiki/SmartrapCore) |
+| Links | [Files](https://github.com/smartfriendz/smartcore/tree/master/sources) 1.2.4<br>[STL](https://github.com/smartfriendz/smartcore/tree/master/stl) 1.2.4<br>[STL](https://www.thingiverse.com/thing:1007070) ALU<br>[STL](https://github.com/smartfriendz/smartrapcore-XL/tree/master/stl) XL300<br>[Wiki](https://reprap.org/wiki/SmartrapCore) |
 | Groups | [Forum](https://reprap.org/forum/list.php?397) EN<br>[Forum](https://reprap.org/forum/list.php?344) EN |
-| License | [GPL-3.0](https://www.thingiverse.com/thing:651117) |
+| License | [GPL-2.0 (Thingiverse), GPL-3.0 (YouMagine)](https://www.thingiverse.com/thing:651117) |
 
 ## Pictures (8)
 
@@ -25,3 +25,12 @@
 <tr><td align="center" width="33%"><a href="3-smartcore.jpg"><img src="3-smartcore.jpg" width="260" alt="SmartCore picture 3"></a><br><sub>Photo: <a href="https://github.com/smartfriendz">Smartfriendz</a></sub></td><td align="center" width="33%"><a href="4-smartcore.jpg"><img src="4-smartcore.jpg" width="260" alt="SmartCore picture 4"></a><br><sub>Photo: <a href="https://reprap.org/wiki/User:Smartfriendz">Smartfriendz</a></sub></td><td align="center" width="33%"><a href="5-smartcore.jpg"><img src="5-smartcore.jpg" width="260" alt="SmartCore picture 5"></a><br><sub>Photo: <a href="https://www.thingiverse.com/louis2">louis2</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="6-smartcore.jpg"><img src="6-smartcore.jpg" width="260" alt="SmartCore picture 6"></a><br><sub>Photo: <a href="https://3dtoday.ru/blogs/alex-r">Alex&amp;r</a></sub></td><td align="center" width="33%"><a href="7-smartcore.jpg"><img src="7-smartcore.jpg" width="260" alt="SmartCore picture 7"></a><br><sub>Photo: <a href="https://www.thingiverse.com/pocho86">pocho86</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- [Thingiverse](https://www.thingiverse.com/thing:651117): STL plates, last updated 2017-07 with the final production plates. GPL-2.0.
+- [YouMagine](https://youmagine.com/designs/smartcore): OpenJSCAD sources. The page marks them obsolete and points to a private Onshape document. GPL-3.0.
+- [GitHub](https://github.com/smartfriendz/smartrapcore-alu): SmartrapCore ALU STL and firmware, 2016-01. No license stated.
+- [GitHub](https://github.com/smartfriendz/smartrapcore-XL): SmartrapCore XL300 STL, firmware, and profiles, 2016-11. GPL-3.0.
+- [Thingiverse](https://www.thingiverse.com/thing:1361163): SmartrapCore XL300 files. GPL-2.0.
+- Wayback Machine: [latest snapshot](http://web.archive.org/web/20240630064544/https://github.com/smartfriendz/smartcore), 2024-06-30.

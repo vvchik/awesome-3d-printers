@@ -23,3 +23,7 @@
 <table>
 <tr><td align="center" width="33%"><a href="0-cerberus.jpg"><img src="0-cerberus.jpg" width="260" alt="Cerberus picture 0"></a><br><sub>Photo: <a href="https://github.com/grabercars">Steve Graber</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260917181531/https://github.com/grabercars/Cerberus), 2026-09-17.

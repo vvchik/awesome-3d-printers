@@ -25,3 +25,8 @@
 <tr><td align="center" width="33%"><a href="3-rostock.jpg"><img src="3-rostock.jpg" width="260" alt="Rostock picture 3"></a><br><sub>Photo: <a href="https://www.thingiverse.com/Johann">Johann C. Rocholl</a></sub></td><td align="center" width="33%"><a href="4-rostock.jpg"><img src="4-rostock.jpg" width="260" alt="Rostock picture 4"></a><br><sub>Photo: <a href="https://www.thingiverse.com/Johann">Johann C. Rocholl</a></sub></td><td align="center" width="33%"><a href="5-rostock.jpg"><img src="5-rostock.jpg" width="260" alt="Rostock picture 5"></a><br><sub>Photo: <a href="https://www.thingiverse.com/Johann">Johann C. Rocholl</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="6-rostock.jpg"><img src="6-rostock.jpg" width="260" alt="Rostock picture 6"></a><br><sub>Photo: <a href="https://www.thingiverse.com/Johann">Johann C. Rocholl</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- [Thingiverse](https://www.thingiverse.com/thing:17175): two ZIP archives of printed parts, GPL, uploaded by Johann.
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260928080857/https://reprap.org/wiki/Rostock), 2026-09-28.

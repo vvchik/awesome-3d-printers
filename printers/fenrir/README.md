@@ -24,3 +24,7 @@
 <table>
 <tr><td align="center" width="33%"><a href="0-fenrir.jpg"><img src="0-fenrir.jpg" width="260" alt="Fenrir picture 0"></a><br><sub>Photo: <a href="https://www.makerviking.com/">MakerViking</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260121010136/https://www.makerviking.com/wiki/fenrir-corexy-3d-printer), 2026-01-21.

@@ -9,12 +9,12 @@
 | Section | CoreXY · Medium (181–299 mm representative X/Y size) |
 | Project page | [https://www.printables.com/model/1473500-simplecore](https://www.printables.com/model/1473500-simplecore) |
 | Author | Rolohaun |
-| About | Budget-friendly CoreXY with triple-Z bed and an expandable frame. |
+| About | Budget-friendly CoreXY with triple-Z bed and an expandable frame. The current Redux 220 Rev1.5 replaced the MK1 on GitHub. |
 | Build volume (X×Y×Z) | 215×220×220 |
 | Exterior (W×D×H) | — |
 | Latest version | Update<br>[2026-06](https://www.printables.com/model/1473500-simplecore) |
 | Stars Likes Views | [🧡⁠298](https://www.printables.com/model/1473500-simplecore)<br>[⏯️⁠89.7K](https://www.youtube.com/watch?v=HWfT2JbMOvM)<br>[❤️⁠1.8K](https://www.youtube.com/watch?v=HWfT2JbMOvM) |
-| Links | [Files](https://www.printables.com/model/1473500-simplecore/files)<br>[STEP](https://github.com/rolohaun/SimpleCore/blob/HEAD/CAD/SimpleCore%20MK1.step) |
+| Links | [Files](https://www.printables.com/model/1473500-simplecore/files) Redux 220<br>[STEP](https://github.com/rolohaun/SimpleCore/blob/HEAD/CAD/SimpleCore%20MK1.step) old MK1 |
 | Groups | [Discord](https://discord.gg/rolohaun-3d-946191040682008666) EN 7.8K |
 | License | [CC BY-NC-SA 4.0](https://www.printables.com/model/1473500-simplecore) |
 

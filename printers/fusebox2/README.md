@@ -16,7 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/alexyu132/fusebox2?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/alexyu132/fusebox2)<br>[💙⁠545](https://www.thingiverse.com/thing:2422839)<br>[💚⁠16](https://makerworld.com/en/models/27001)<br>[⏯️⁠6.3K](https://www.youtube.com/watch?v=aUQ9sjp_YzY)<br>[❤️⁠24](https://www.youtube.com/watch?v=aUQ9sjp_YzY) |
 | Links | [CAD](https://github.com/alexyu132/fusebox2/blob/master/FuseBox2R.skp)<br>[Manual](https://github.com/alexyu132/fusebox2/blob/master/Build%20Tips.md)<br>[BOM](https://github.com/alexyu132/fusebox2#bom) |
 | Groups | — |
-| License | [GPL-3.0](https://github.com/alexyu132/fusebox2/blob/master/LICENSE) |
+| License | [GPL-3.0 (GitHub), CC BY (Thingiverse), CC BY-NC-SA (MakerWorld)](https://github.com/alexyu132/fusebox2/blob/master/LICENSE) |
 
 ## Pictures (6)
 
@@ -24,3 +24,9 @@
 <tr><td align="center" width="33%"><a href="0-fusebox2.jpg"><img src="0-fusebox2.jpg" width="260" alt="FuseBox2 / 2R picture 0"></a><br><sub>Photo: <a href="https://github.com/alexyu132">Alex Yu</a></sub></td><td align="center" width="33%"><a href="1-fusebox2.jpg"><img src="1-fusebox2.jpg" width="260" alt="FuseBox2 / 2R picture 1"></a><br><sub>Photo: <a href="https://www.thingiverse.com/_AlexY">Alex Yu</a></sub></td><td align="center" width="33%"><a href="2-fusebox2.jpg"><img src="2-fusebox2.jpg" width="260" alt="FuseBox2 / 2R picture 2"></a><br><sub>Photo: <a href="https://www.thingiverse.com/_AlexY">Alex Yu</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-fusebox2.jpg"><img src="3-fusebox2.jpg" width="260" alt="FuseBox2 / 2R picture 3"></a><br><sub>Photo: <a href="https://makerworld.com/en/@AlexY_">Alex Yu</a></sub></td><td align="center" width="33%"><a href="4-fusebox2.jpg"><img src="4-fusebox2.jpg" width="260" alt="FuseBox2 / 2R picture 4"></a><br><sub>Photo: <a href="https://makerworld.com/en/@AlexY_">Alex Yu</a></sub></td><td align="center" width="33%"><a href="5-fusebox2.jpg"><img src="5-fusebox2.jpg" width="260" alt="FuseBox2 / 2R picture 5"></a><br><sub>Photo: <a href="https://www.thingiverse.com/_AlexY">Alex Yu</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- [Thingiverse](https://www.thingiverse.com/thing:2422839): early STL. Since 2018-07 the files are on GitHub only. CC BY.
+- [MakerWorld](https://makerworld.com/en/models/27001): one STL. The page points to GitHub for the latest files. CC BY-NC-SA.
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20230525103817/https://github.com/alexyu132/fusebox2), 2023-05-25.

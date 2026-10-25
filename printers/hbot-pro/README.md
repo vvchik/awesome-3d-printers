@@ -24,3 +24,7 @@
 <tr><td align="center" width="33%"><a href="0-hbot-pro.jpg"><img src="0-hbot-pro.jpg" width="260" alt="Hbot Pro ST / XL picture 0"></a><br><sub>Photo: <a href="https://github.com/campy">Campy</a></sub></td><td align="center" width="33%"><a href="1-hbot-pro.jpg"><img src="1-hbot-pro.jpg" width="260" alt="Hbot Pro ST / XL picture 1"></a><br><sub>Photo: <a href="https://github.com/campy">Campy</a></sub></td><td align="center" width="33%"><a href="2-hbot-pro.jpg"><img src="2-hbot-pro.jpg" width="260" alt="Hbot Pro ST / XL picture 2"></a><br><sub>Photo: <a href="https://github.com/campy">Campy</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-hbot-pro.jpg"><img src="3-hbot-pro.jpg" width="260" alt="Hbot Pro ST / XL picture 3"></a><br><sub>Photo: <a href="https://3dtoday.ru/blogs/yurkovd">YurkovD</a></sub></td><td align="center" width="33%"><a href="4-hbot-pro.jpg"><img src="4-hbot-pro.jpg" width="260" alt="Hbot Pro ST / XL picture 4"></a></td><td align="center" width="33%"><a href="5-hbot-pro.jpg"><img src="5-hbot-pro.jpg" width="260" alt="Hbot Pro ST / XL picture 5"></a><br><sub>Photo: <a href="https://www.blogger.com/profile/16664166839761725343">Mark Carew</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- [3DEspana wiki, archived](https://web.archive.org/web/20201127022355/https://wiki.3despana.com/index.php?title=Hbot_pro): build docs, site offline, snapshot 2020-11-27.

@@ -23,3 +23,7 @@
 <table>
 <tr><td align="center" width="33%"><a href="0-defiant.jpg"><img src="0-defiant.jpg" width="260" alt="Defiant picture 0"></a><br><sub>Photo: <a href="https://github.com/rolohaun">Rolohaun</a></sub></td><td align="center" width="33%"><a href="1-defiant.jpg"><img src="1-defiant.jpg" width="260" alt="Defiant picture 1"></a><br><sub>Photo: <a href="https://github.com/rolohaun">Rolohaun</a></sub></td><td align="center" width="33%"><a href="2-defiant.jpg"><img src="2-defiant.jpg" width="260" alt="Defiant picture 2"></a><br><sub>Photo: <a href="https://github.com/rolohaun">Rolohaun</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20261003152054/https://github.com/rolohaun/Defiant), 2026-10-03.

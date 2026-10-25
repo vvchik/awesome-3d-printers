@@ -9,7 +9,7 @@
 | Section | CoreXY · Small (≤180 mm representative X/Y size) |
 | Project page | [https://www.printables.com/model/571947-panda-mini-corexy-3d-printer](https://www.printables.com/model/571947-panda-mini-corexy-3d-printer) |
 | Author | Rolohaun |
-| About | Small-format CoreXY. |
+| About | Small-format CoreXY. Rolohaun showed a redesign named RC150 in a 2024-03 [video](https://www.youtube.com/watch?v=_9OtFwTv4e4), with no public files. |
 | Build volume (X×Y×Z) | 140×140×? |
 | Exterior (W×D×H) | — |
 | Latest version | beta<br>[2024-02](https://www.printables.com/model/571947-panda-mini-corexy-3d-printer) |
@@ -24,3 +24,7 @@
 <tr><td align="center" width="33%"><a href="0-panda-mini.jpg"><img src="0-panda-mini.jpg" width="260" alt="Panda Mini picture 0"></a><br><sub>Photo: <a href="https://www.printables.com/@Rolohaun">Rolohaun Design</a></sub></td><td align="center" width="33%"><a href="1-panda-mini.jpg"><img src="1-panda-mini.jpg" width="260" alt="Panda Mini picture 1"></a><br><sub>Photo: <a href="https://www.printables.com/@Rolohaun">Rolohaun Design</a></sub></td><td align="center" width="33%"><a href="2-panda-mini.jpg"><img src="2-panda-mini.jpg" width="260" alt="Panda Mini picture 2"></a><br><sub>Photo: <a href="https://www.youtube.com/@Rolohaun">Rolohaun</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-panda-mini.jpg"><img src="3-panda-mini.jpg" width="260" alt="Panda Mini picture 3"></a><br><sub>Photo: <a href="https://www.youtube.com/@Rolohaun">Rolohaun</a></sub></td><td align="center" width="33%"><a href="4-panda-mini.jpg"><img src="4-panda-mini.jpg" width="260" alt="Panda Mini picture 4"></a></td><td align="center" width="33%"><a href="5-panda-mini.jpg"><img src="5-panda-mini.jpg" width="260" alt="Panda Mini picture 5"></a></td></tr>
 </table>
+
+## Other homes of the files
+
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260626005649/https://www.printables.com/model/571947-panda-mini-corexy-3d-printer), 2026-06-26.

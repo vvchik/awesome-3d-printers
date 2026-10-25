@@ -14,7 +14,7 @@
 | Exterior (W×D×H) | — |
 | Latest version | CAD<br>[2014-01](https://github.com/NicholasSeward/ConceptFORGE/commit/3dcbc6ba5797609bff680bafbcaf4fe8c3eb378b) |
 | Stars Likes Views | [⏯️⁠81.7K](https://www.youtube.com/watch?v=IEGTe1G2Gqs)<br>[❤️⁠402](https://www.youtube.com/watch?v=IEGTe1G2Gqs) |
-| Links | — |
+| Links | [Files](https://github.com/NicholasSeward/ConceptFORGE/tree/master/GUS%20Simpson) |
 | Groups | [Forum](https://reprap.org/forum/list.php?178) EN |
 | License | [GPL-3.0](https://github.com/NicholasSeward/ConceptFORGE/blob/master/LICENSE) |
 
@@ -25,3 +25,8 @@
 <tr><td align="center" width="33%"><a href="3-gus-simpson.jpg"><img src="3-gus-simpson.jpg" width="260" alt="GUS Simpson picture 3"></a><br><sub>Photo: <a href="https://www.youtube.com/@NicholasSeward">Nicholas Seward</a></sub></td><td align="center" width="33%"><a href="4-gus-simpson.jpg"><img src="4-gus-simpson.jpg" width="260" alt="GUS Simpson picture 4"></a><br><sub>Photo: <a href="https://www.youtube.com/@NicholasSeward">Nicholas J Seward</a></sub></td><td align="center" width="33%"><a href="5-gus-simpson.jpg"><img src="5-gus-simpson.jpg" width="260" alt="GUS Simpson picture 5"></a><br><sub>Photo: <a href="https://www.youtube.com/@OndraSzk">OndraSzk</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="6-gus-simpson.jpg"><img src="6-gus-simpson.jpg" width="260" alt="GUS Simpson picture 6"></a><br><sub>Photo: <a href="https://www.youtube.com/@JarekSzczepanski">Jaroslaw Szczepanski</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- [conceptforge.org, archived](http://web.archive.org/web/20250815182434/http://www.conceptforge.org/): author site, offline.
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260608050439/https://www.reprap.org/wiki/GUS_Simpson), 2026-06-08.
