@@ -6,7 +6,7 @@
 
 | Field | Value |
 | --- | --- |
-| Section | Cartesian · Medium (>180 mm on either X/Y axis) |
+| Section | Cartesian · Medium and large (>180 mm on either X/Y axis) |
 | Project page | [https://github.com/lhndo/LH-Stinger](https://github.com/lhndo/LH-Stinger) |
 | Author | LHndo |
 | About | Performance-focused moving-bed design. R1.0 is the last release, and FYSETC sells an official upgraded [Rev2 kit](https://www.fysetc.com/products/lh-stinger-3d-printer-kit). |

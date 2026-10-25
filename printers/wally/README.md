@@ -8,12 +8,12 @@
 | --- | --- |
 | Section | Historical designs |
 | Project page | [https://reprap.org/wiki/Wally](https://reprap.org/wiki/Wally) |
-| Author | RepRap |
+| Author | Nicholas Seward |
 | About | Compact printed SCARA, and one of the early SCARA printers. |
 | Build volume (X×Y×Z) | 150×150×?<br>Ø200×? |
 | Exterior (W×D×H) | — |
 | Latest version | CAD<br>[2014-03](https://github.com/NicholasSeward/ConceptFORGE/commit/ac16f74621393b2546382053cf1fa064c8461e51) |
-| Stars Likes Views | [⏯️⁠31.5K](https://www.youtube.com/watch?v=iVg7WrgHJik)<br>[❤️⁠171](https://www.youtube.com/watch?v=iVg7WrgHJik) |
+| Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/NicholasSeward/ConceptFORGE?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/NicholasSeward/ConceptFORGE)<br>[⏯️⁠31.5K](https://www.youtube.com/watch?v=iVg7WrgHJik)<br>[❤️⁠171](https://www.youtube.com/watch?v=iVg7WrgHJik) |
 | Links | [STEP](https://github.com/NicholasSeward/ConceptFORGE/tree/master/Wally/STEPs)<br>[CAD](https://github.com/NicholasSeward/ConceptFORGE/tree/master/Wally/INVENTOR)<br>[STL](https://github.com/NicholasSeward/ConceptFORGE/tree/master/Wally/STLs)<br>[BOM](https://github.com/NicholasSeward/ConceptFORGE/blob/master/Wally/BOM%20WALLY.csv) |
 | Groups | [Forum](https://reprap.org/forum/list.php?185) EN |
 | License | [GPL-3.0](https://github.com/NicholasSeward/ConceptFORGE/blob/master/LICENSE) |

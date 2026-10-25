@@ -6,10 +6,10 @@
 
 | Field | Value |
 | --- | --- |
-| Section | Legacy designs |
+| Section | CoreXY · Large (≥300 × 300 mm) |
 | Project page | [https://www.printables.com/model/221066-solidcore-corexy-3d-printer](https://www.printables.com/model/221066-solidcore-corexy-3d-printer) |
 | Author | 3D Distributed |
-| About | All-metal CoreXY with machined aluminium motion parts, linear rails on all axes, and triple Z with a kinematic bed. The frame scales to other sizes. No update since 2022-06. |
+| About | All-metal CoreXY with machined aluminium motion parts, linear rails on all axes, and triple Z with a kinematic bed. The frame scales to other sizes. |
 | Build volume (X×Y×Z) | 350×350×350 |
 | Exterior (W×D×H) | — |
 | Latest version | Files<br>[2022-06](https://www.printables.com/model/221066-solidcore-corexy-3d-printer/files) |

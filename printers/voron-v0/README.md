@@ -33,5 +33,6 @@
 
 ## Mods and variants
 
+- [Tri-Zero](https://github.com/zruncho3d/tri-zero) by zruncho3d: triple belted Z and automatic bed leveling, 120 mm or Plus50 170 mm; also supports a fresh build. GPL-3.0.
 - [Pandora's Box](https://github.com/MasturMynd/Pandoras_Box) by MasturMynd: larger X and Y travel, triple belted Z, and automatic bed tramming. GPL-3.0.
 - [Hex-Zero (HX0)](https://github.com/Alexander-T-Moss/Hex-Zero) by Alexander-T-Moss: Tri-Zero Z motion redesign with a revised Pandora gantry and a stiffer flying bed. GPL-3.0.

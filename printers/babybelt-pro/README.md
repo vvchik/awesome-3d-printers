@@ -6,11 +6,10 @@
 
 | Field | Value |
 | --- | --- |
-| Section | Other motion systems |
+| Section | Belt |
 | Project page | [https://github.com/RobMink/BabyBeltPro](https://github.com/RobMink/BabyBeltPro) |
 | Author | Rob Mink |
 | About | Compact belt printer. The current Pro v2.6 follows the original BabyBelt. |
-| Build type | Belt printer |
 | Build volume (X×Y×Z) | 100×100×∞ |
 | Exterior (W×D×H) | — |
 | Latest version | v2.6<br>[2026-08](https://github.com/RobMink/BabyBeltPro/blob/HEAD/documentation/CHANGE-LOG.md#2026-08-13) |

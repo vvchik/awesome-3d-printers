@@ -6,10 +6,10 @@
 
 | Field | Value |
 | --- | --- |
-| Section | Delta |
+| Section | Legacy designs |
 | Project page | [https://github.com/rolohaun/PhoenixDelta](https://github.com/rolohaun/PhoenixDelta) |
 | Author | Rolohaun |
-| About | Large experimental delta built around a 350 mm bed; work in progress. |
+| About | Large experimental delta built around a 350 mm bed; work in progress. No update since 2022-06. |
 | Build volume (X×Y×Z) | — |
 | Exterior (W×D×H) | — |
 | Latest version | v136<br>[2022-06](https://github.com/rolohaun/PhoenixDelta/commit/db586e7d112afa5ce4109a48907ebc12a832534a) |

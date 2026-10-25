@@ -8,8 +8,8 @@
 | --- | --- |
 | Section | Historical designs |
 | Project page | [https://www.thingiverse.com/thing:500041](https://www.thingiverse.com/thing:500041) |
-| Author | V-slot wheel CoreXY on extrusion, and the parent of the D-Bot. |
-| About |  |
+| Author | Carl Feniak |
+| About | V-slot wheel CoreXY on extrusion, and the parent of the D-Bot. |
 | Build volume (X×Y×Z) | configurable |
 | Exterior (W×D×H) | — |
 | Latest version | Rework<br>[2016-03](https://www.thingiverse.com/thing:500041/files) |

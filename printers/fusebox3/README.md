@@ -6,10 +6,10 @@
 
 | Field | Value |
 | --- | --- |
-| Section | Legacy designs |
+| Section | CoreXY · Medium (181–299 mm representative X/Y size) |
 | Project page | [https://github.com/alexyu132/fusebox3](https://github.com/alexyu132/fusebox3) |
 | Author | Alex Yu |
-| About | Midsize CoreXY using linear rails and a belt-driven Z; creator marks it under development. No update since 2024-02 and no active group. |
+| About | Midsize CoreXY using linear rails and a belt-driven Z; creator marks it under development. |
 | Build volume (X×Y×Z) | 235×235×235 |
 | Exterior (W×D×H) | 350×372×427 |
 | Latest version | CAD<br>[2024-02](https://github.com/alexyu132/fusebox3/commit/9c494a677b439fe6ca2699f7f0f0948dd96e7325) |

@@ -6,10 +6,10 @@
 
 | Field | Value |
 | --- | --- |
-| Section | Historical designs |
+| Section | Cartesian · Medium and large (>180 mm on either X/Y axis) |
 | Project page | [https://github.com/prusa3d/Original-Prusa-i3](https://github.com/prusa3d/Original-Prusa-i3) |
 | Author | Prusa family |
-| About | The most copied desktop layout, followed by many commercial clones. It started in 2012 as the RepRap [Prusa i3](https://reprap.org/wiki/Prusa_i3) and grew through MK2, MK3, MK3S+ and MK3.5 to the MK4 and MK4S with a new frame and Nextruder. The MK3.9 and MK3.9S upgrade an MK3S+ to MK4 parts. The CORE One replaces the line. |
+| About | The most copied desktop layout, followed by many commercial clones. It started in 2012 as the RepRap [Prusa i3](https://reprap.org/wiki/Prusa_i3) and grew through MK2, MK3, MK3S+ and MK3.5 to the MK4 and MK4S with a new frame and Nextruder. The MK3.9 and MK3.9S upgrade an MK3S+ to MK4 parts. |
 | Build volume (X×Y×Z) | early: 200×200×200<br>MK3S+: 250×210×210<br>MK4S: 250×210×220 |
 | Exterior (W×D×H) | — |
 | Latest version | MK4S<br>[2026-08](https://www.printables.com/model/451500-mk4smk39s-printable-parts) |
@@ -42,3 +42,4 @@
 
 - [P3steel toolson edition MK1](https://www.thingiverse.com/thing:1054909) by toolson: reworked printed parts for the P3Steel steel frame. CC BY-NC.
 - [P3steel toolson edition MK2](https://github.com/toolson/P3sTE_MK2) by toolson: second rework on an unmodified P3Steel v2 frame, with sintered-bronze bushings. CC BY-NC 3.0.
+- [RotBot](https://www.printables.com/model/288723-4-axis-modification-for-mk3s-with-rotational-print) by Mich (ZHAW): a toolhead with a 45° nozzle that rotates without limit for conical slicing, base Original Prusa i3 MK3S. GPL-3.0.

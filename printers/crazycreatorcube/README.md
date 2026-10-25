@@ -13,7 +13,7 @@
 | Build volume (X×Y×Z) | 350×330×400 |
 | Exterior (W×D×H) | 600×600×600 |
 | Latest version | Files<br>[2020-11](https://crazycreatorcube.notion.site/c3ee2eca588f40cfa626e6a32b98aae4) |
-| Stars Likes Views | [⏯️⁠2K](https://www.youtube.com/watch?v=ieHzbuYLtvw)<br>[❤️⁠21](https://www.youtube.com/watch?v=ieHzbuYLtvw) |
+| Stars Likes Views | [💙⁠14](https://www.thingiverse.com/thing:4111728)<br>[🧡⁠12](https://www.printables.com/model/100893)<br>[⏯️⁠2K](https://www.youtube.com/watch?v=ieHzbuYLtvw)<br>[❤️⁠21](https://www.youtube.com/watch?v=ieHzbuYLtvw) |
 | Links | [Files](https://crazycreatorcube.notion.site/36e3e15898e84799a97ddfb9b4dca4f0)<br>[BOM](https://crazycreatorcube.notion.site/ed57916179c4499496eb0558b678a58c)<br>[Manual](https://crazycreatorcube.notion.site/a64bb78a88fa46268ef8e895a60c252a)<br>[Config](https://github.com/CrazyCreatorCube/Software/tree/HEAD/Firmware) |
 | Groups | [Discord](https://discord.gg/WKWhDyq) EN 122<br>[Facebook](https://www.facebook.com/groups/crazycreatorcube/) |
 | License | [CC BY-NC-SA 4.0](https://crazycreatorcube.notion.site/c096782ca3784b22926e81d944a84967) |

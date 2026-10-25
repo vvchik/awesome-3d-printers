@@ -13,7 +13,7 @@
 | Build volume (X×Y×Z) | M: 400×250×250<br>L: 400×400×400<br>XL: 500×500×500 |
 | Exterior (W×D×H) | — |
 | Latest version | v9.5<br>[2026-09](https://github.com/dmitry-sorkin/k3d-site/commit/92c4b06ff91228bfd0dde3903ce569bfc12d6043) |
-| Stars Likes Views | [⏯️⁠107K](https://www.youtube.com/watch?v=upwTgwNi1PQ)<br>[❤️⁠3.9K](https://www.youtube.com/watch?v=upwTgwNi1PQ) |
+| Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/dmitry-sorkin/K3D-VOSTOK?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/dmitry-sorkin/K3D-VOSTOK)<br>[⏯️⁠107K](https://www.youtube.com/watch?v=upwTgwNi1PQ)<br>[❤️⁠3.9K](https://www.youtube.com/watch?v=upwTgwNi1PQ) |
 | Links | [STEP](https://k3d.tech/vostok/releases/9.5/assets/vostok_v9.5_assembly.stp.7z)<br>[BOM](https://k3d.tech/vostok/releases/9.5/assets/vostok_v9.5_bom.xlsx)<br>[Manual](https://k3d.tech/vostok/manual/prepare/start/)<br>[Config](https://github.com/dmitry-sorkin/vostok_configuration/blob/main/README.en.md) |
 | Groups | [Telegram](https://t.me/vostok3dp) RU 4.2K<br>[Telegram](https://t.me/k3d_vostok) RU 3.4K<br>[Telegram](https://t.me/K_3_D) RU 36.2K |
 | License | [CC BY 4.0 (k3d.tech), GPL-3.0 (GitHub, v0.5 to v0.7)](https://k3d.tech/vostok/) |

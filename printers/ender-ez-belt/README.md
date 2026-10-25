@@ -6,10 +6,10 @@
 
 | Field | Value |
 | --- | --- |
-| Section | Legacy designs |
+| Section | Belt |
 | Project page | [https://www.printables.com/model/255684-ender-ez-belt-3d-printer-conversion](https://www.printables.com/model/255684-ender-ez-belt-3d-printer-conversion) |
 | Author | Powerbelt3D |
-| About | Documented Ender-3 conveyor conversion; the creator calls the project open source, but its Formula32 belt is no longer sold by the closed shop. No update since 2022 and no active group. |
+| About | Documented Ender-3 conveyor conversion; the creator calls the project open source, but its Formula32 belt is no longer sold by the closed shop. |
 | Build volume (X×Y×Z) | — |
 | Exterior (W×D×H) | — |
 | Latest version | Update<br>[2022-12](https://www.printables.com/model/255684-ender-ez-belt-3d-printer-conversion) |

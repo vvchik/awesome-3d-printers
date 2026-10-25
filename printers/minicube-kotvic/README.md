@@ -8,8 +8,8 @@
 | --- | --- |
 | Section | Legacy designs |
 | Project page | [https://www.thingiverse.com/thing:4795475](https://www.thingiverse.com/thing:4795475) |
-| Author | Compact CoreXY with Fusion 360 files; marked work in progress and missing assembly instructions. No update since 2021 and no active group. |
-| About |  |
+| Author | Kotvic |
+| About | Compact CoreXY with Fusion 360 files; marked work in progress and missing assembly instructions. No update since 2021 and no active group. |
 | Build volume (X×Y×Z) | 149×140×135 |
 | Exterior (W×D×H) | 265×265×265 |
 | Latest version | First release<br>[2021-03](https://www.thingiverse.com/thing:4795475) |

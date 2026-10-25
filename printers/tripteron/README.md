@@ -8,7 +8,7 @@
 | --- | --- |
 | Section | Historical designs |
 | Project page | [https://reprap.org/wiki/Tripteron](https://reprap.org/wiki/Tripteron) |
-| Author | RepRap |
+| Author | Apsu |
 | About | A rare working printer with three orthogonal parallel arms. |
 | Build volume (X×Y×Z) | — |
 | Exterior (W×D×H) | — |

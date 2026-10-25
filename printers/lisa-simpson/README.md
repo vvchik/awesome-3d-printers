@@ -8,12 +8,12 @@
 | --- | --- |
 | Section | Historical designs |
 | Project page | [https://reprap.org/wiki/LISA_Simpson](https://reprap.org/wiki/LISA_Simpson) |
-| Author | Simpson family |
+| Author | Nicholas Seward |
 | About | Experimental grounded delta variant that followed the GUS Simpson. |
 | Build volume (X×Y×Z) | — |
 | Exterior (W×D×H) | — |
 | Latest version | CAD<br>[2013-12](https://github.com/NicholasSeward/ConceptFORGE/commit/45678f0afa2dc6453e01f95c084fde2b6fef4e30) |
-| Stars Likes Views | [⏯️⁠48.1K](https://www.youtube.com/watch?v=N7XVxtgHHhY)<br>[❤️⁠325](https://www.youtube.com/watch?v=N7XVxtgHHhY) |
+| Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/NicholasSeward/ConceptFORGE?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/NicholasSeward/ConceptFORGE)<br>[⏯️⁠48.1K](https://www.youtube.com/watch?v=N7XVxtgHHhY)<br>[❤️⁠325](https://www.youtube.com/watch?v=N7XVxtgHHhY) |
 | Links | [STEP](https://github.com/NicholasSeward/ConceptFORGE/tree/master/LISA%20Simpson/STEPs)<br>[CAD](https://github.com/NicholasSeward/ConceptFORGE/tree/master/LISA%20Simpson/INVENTOR%20FILES)<br>[STL](https://github.com/NicholasSeward/ConceptFORGE/tree/master/LISA%20Simpson/STLs)<br>[BOM](https://github.com/NicholasSeward/ConceptFORGE/blob/master/LISA%20Simpson/BOM.csv) |
 | Groups | [Forum](https://reprap.org/forum/list.php?178) EN |
 | License | [GPL-3.0](https://github.com/NicholasSeward/ConceptFORGE/blob/master/LICENSE) |

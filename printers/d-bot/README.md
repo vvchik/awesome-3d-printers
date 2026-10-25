@@ -8,8 +8,8 @@
 | --- | --- |
 | Section | Historical designs |
 | Project page | [https://www.thingiverse.com/thing:1001065](https://www.thingiverse.com/thing:1001065) |
-| Author | Extrusion-frame DIY CoreXY derived from the C-Bot, with a large modding community. |
-| About |  |
+| Author | spauda01 |
+| About | Extrusion-frame DIY CoreXY derived from the C-Bot, with a large modding community. |
 | Build volume (X×Y×Z) | configurable |
 | Exterior (W×D×H) | — |
 | Latest version | Files<br>[2017-06](https://www.thingiverse.com/thing:1001065/files) |

@@ -8,7 +8,7 @@
 | --- | --- |
 | Section | Historical designs |
 | Project page | [https://reprap.org/wiki/Rostock](https://reprap.org/wiki/Rostock) |
-| Author | RepRap |
+| Author | Johann C. Rocholl |
 | About | Foundational parallel-arm delta, and the first popular delta printer. |
 | Build volume (X×Y×Z) | Ø200×400 |
 | Exterior (W×D×H) | — |
