@@ -6,10 +6,10 @@
 
 | Field | Value |
 | --- | --- |
-| Section | CoreXY · Large (≥300 × 300 mm) |
+| Section | Legacy designs |
 | Project page | [https://github.com/railcore/parts](https://github.com/railcore/parts) |
 | Author | RailCore family |
-| About | Rail-guided, rigid CoreXY. |
+| About | Rail-guided, rigid CoreXY. No update since 2020-10. |
 | Build volume (X×Y×Z) | 300ZL: 300×300×330<br>300ZLT: 300×300×600 |
 | Exterior (W×D×H) | 300ZL: 572×495×546<br>300ZLT: 572×495×830 |
 | Latest version | CAD<br>[2020-10](https://github.com/railcore/parts/commit/45a68a4f941d5f8e2e07596e1877a5b1ad6989ae) |

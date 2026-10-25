@@ -6,10 +6,11 @@
 
 | Field | Value |
 | --- | --- |
-| Section | Historical designs |
+| Section | Concepts and prototypes |
 | Project page | [https://reprap.org/wiki/FoldaRapX](https://reprap.org/wiki/FoldaRapX) |
 | Author | Emmanuel Gilloz |
 | About | Portable printer in a flight case. A scissor lift is the Z axis, so the machine unfolds as the print grows. The prototype stopped at version 0.1, because firmware for the non-linear Z axis was never finished. |
+| Build type | Scissor-lift Z |
 | Build volume (X×Y×Z) | — |
 | Exterior (W×D×H) | — |
 | Latest version | CAD<br>[2020-05](https://github.com/EmmanuelG/FoldaRapX/commit/075d811cd35dd8bc92e509428f954cf5ef3d8455) |

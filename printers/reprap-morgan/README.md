@@ -8,12 +8,12 @@
 | --- | --- |
 | Section | Historical designs |
 | Project page | [https://reprap.org/wiki/RepRap_Morgan](https://reprap.org/wiki/RepRap_Morgan) |
-| Author | RepRap |
+| Author | Quentin Harley |
 | About | Articulated-arm SCARA printer, and the best-known SCARA RepRap. The classic Morgan led to Lilian, the open base of the commercial Morgan Pro 2. |
 | Build volume (X×Y×Z) | v1: 200×200×200<br>Pro 2: 380×220×200 |
 | Exterior (W×D×H) | — |
 | Latest version | Lilian<br>[2017-10](https://github.com/RepRapMorgan/lilian/commit/303b7ee624fcbefedc1778529a221b1034b10e8b) |
-| Stars Likes Views | [⏯️⁠50.9K](https://www.youtube.com/watch?v=oSmo7iZ10Bk)<br>[❤️⁠123](https://www.youtube.com/watch?v=oSmo7iZ10Bk) |
+| Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/qharley/Morgan?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/qharley/Morgan)<br>[⏯️⁠50.9K](https://www.youtube.com/watch?v=oSmo7iZ10Bk)<br>[❤️⁠123](https://www.youtube.com/watch?v=oSmo7iZ10Bk) |
 | Links | [CAD](https://github.com/RepRapMorgan/lilian/tree/master/source) Lilian<br>[STL](https://github.com/RepRapMorgan/lilian/tree/master/stl) Lilian<br>[CAD](https://github.com/qharley/Morgan) classic |
 | Groups | [Forum](https://reprap.org/forum/list.php?185) EN |
 | License | [GPL-2.0](https://github.com/qharley/Morgan/blob/master/README.md) |

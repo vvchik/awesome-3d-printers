@@ -8,7 +8,7 @@
 | --- | --- |
 | Section | Historical designs |
 | Project page | [https://reprap.org/wiki/Huxley](https://reprap.org/wiki/Huxley) |
-| Author | RepRap |
+| Author | Ed Sells / RepRapPro |
 | About | Compact early Cartesian RepRap, and the first small RepRap. It began as the RepRap Mini Mendel, then came the RepRapPro Huxley kit and the dual-extruder RepRapPro Huxley Duo. |
 | Build volume (X×Y×Z) | 140×140×110 |
 | Exterior (W×D×H) | — |

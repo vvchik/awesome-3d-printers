@@ -6,10 +6,10 @@
 
 | Field | Value |
 | --- | --- |
-| Section | Historical designs |
+| Section | Legacy designs |
 | Project page | [https://github.com/Intrinsically-Sublime/Tantillus](https://github.com/Intrinsically-Sublime/Tantillus) |
 | Author | Sublime |
-| About | Small, portable printer with fishing-line drives and printed or laser-cut enclosure options. It inspired the Tantillus R. |
+| About | Small, portable printer with fishing-line drives and printed or laser-cut enclosure options. It inspired the Tantillus R. No update since 2013. |
 | Build volume (X×Y×Z) | 100×100×100 |
 | Exterior (W×D×H) | printed: 225×225×300<br>laser-cut: 240×240×300 |
 | Latest version | CAD<br>[2013-07](https://github.com/Intrinsically-Sublime/Tantillus/commit/64c1c6ecd790764a1e828ce54a4ee6f9e18b8753) |

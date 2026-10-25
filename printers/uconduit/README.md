@@ -6,10 +6,10 @@
 
 | Field | Value |
 | --- | --- |
-| Section | Historical designs |
+| Section | Legacy designs |
 | Project page | [https://github.com/iquizzle/uconduit](https://github.com/iquizzle/uconduit) |
 | Author | Lee Miller |
-| About | Early single-belt H-bot with a frame of hardware-store steel conduit and parametric OpenSCAD source. |
+| About | Early single-belt H-bot with a frame of hardware-store steel conduit and parametric OpenSCAD source. No update since 2013. |
 | Build volume (X×Y×Z) | 265×250×240 |
 | Exterior (W×D×H) | 485×445×380 |
 | Latest version | CAD<br>[2013-12](https://github.com/iquizzle/uconduit/commit/3d66a1659d0b6aba79ace77930395a757839446d) |

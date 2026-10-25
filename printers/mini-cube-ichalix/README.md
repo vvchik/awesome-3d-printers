@@ -8,8 +8,8 @@
 | --- | --- |
 | Section | Legacy designs |
 | Project page | [https://www.thingiverse.com/thing:3910543](https://www.thingiverse.com/thing:3910543) |
-| Author | 120 mm BLV MGN Cube derivative with a single Z axis; documentation remains work in progress. No update since 2019. |
-| About |  |
+| Author | iChalix |
+| About | 120 mm BLV MGN Cube derivative with a single Z axis; documentation remains work in progress. No update since 2019. |
 | Build volume (X×Y×Z) | 120×120×110 |
 | Exterior (W×D×H) | 325×355×338 |
 | Latest version | Log<br>[2019-12](https://www.thingiverse.com/thing:3910543) |

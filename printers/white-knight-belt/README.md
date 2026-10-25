@@ -6,7 +6,7 @@
 
 | Field | Value |
 | --- | --- |
-| Section | Legacy designs |
+| Section | Belt |
 | Project page | [https://github.com/NAK3DDesigns/White-Knight](https://github.com/NAK3DDesigns/White-Knight) |
 | Author | NAK3D Designs |
 | About | DIY continuous-print belt printer with a published full assembly. No update since 2020 and no active group. |

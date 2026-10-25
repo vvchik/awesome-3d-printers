@@ -9,12 +9,12 @@
 | Section | CoreXY · Medium (181–299 mm representative X/Y size) |
 | Project page | [https://github.com/VoronDesign/Voron-Trident](https://github.com/VoronDesign/Voron-Trident) |
 | Author | Voron family |
-| About | Fixed gantry and independently driven Z bed; current R2 release revises XY and Z motion. It replaced the Voron 1.8, the last of the V1 line from 1.0 to 1.8. |
+| About | Fixed gantry and independently driven Z bed; current R2 release revises XY and Z motion. It replaced the Voron 1.8, the last of the V1 line, which already had the fixed gantry and the stacked belts. The Voron 1.0 is in the [Voron Legacy](../../README.md#voron-legacy) row. |
 | Build volume (X×Y×Z) | 250: 250×250×250<br>300: 300×300×250<br>350: 350×350×250 |
 | Exterior (W×D×H) | 250: 410×410×500<br>300: 460×460×500<br>350: 510×510×500 |
 | Latest version | R2<br>[2026-06](https://github.com/VoronDesign/Voron-Trident/releases/tag/VTr2) |
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/VoronDesign/Voron-Trident?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/VoronDesign/Voron-Trident) |
-| Links | [CAD](https://github.com/VoronDesign/Voron-Trident/tree/HEAD/CAD)<br>[Manual](https://github.com/VoronDesign/Voron-Trident/blob/HEAD/Manual/Assembly_Manual_Trident.pdf)<br>[CAD](https://github.com/VoronDesign/Voron-1/tree/Voron1.8/CAD) old V1.8<br>[Manual](https://github.com/VoronDesign/Voron-1/tree/Voron1.8/Docs) old V1.8<br>[CAD](https://github.com/VoronDesign/Voron-1/tree/Voron1.6/CAD) old V1.6<br>[CAD](https://github.com/VoronDesign/Voron-1/tree/Voron1.0/CAD) old V1.0 |
+| Links | [CAD](https://github.com/VoronDesign/Voron-Trident/tree/HEAD/CAD)<br>[Manual](https://github.com/VoronDesign/Voron-Trident/blob/HEAD/Manual/Assembly_Manual_Trident.pdf)<br>[CAD](https://github.com/VoronDesign/Voron-1/tree/Voron1.8/CAD) old V1.8<br>[Manual](https://github.com/VoronDesign/Voron-1/tree/Voron1.8/Docs) old V1.8<br>[CAD](https://github.com/VoronDesign/Voron-1/tree/Voron1.6/CAD) old V1.6 |
 | Groups | [Discord](https://discord.gg/voron) EN 40.8K<br>[Reddit](https://www.reddit.com/r/VORONDesign/) EN 39.7K<br>[Forum](https://forum.vorondesign.com/) EN 12.8K<br>[Facebook](https://www.facebook.com/groups/voron.trident/) EN 1.4K<br>[Facebook](https://www.facebook.com/groups/voroncorexy/) EN 54.2K<br>[Facebook](https://www.facebook.com/groups/479932403103163/) DE 2.6K<br>[Telegram](https://t.me/aboutvoron) RU 551<br>[Telegram](https://t.me/voron_siboor_es) ES 212<br>[Forum](https://www.lesimprimantes3d.fr/forum/154-voron/) FR |
 | License | [GPL-3.0](https://github.com/VoronDesign/Voron-Trident/blob/main/LICENSE) |
 
@@ -33,3 +33,7 @@
 - [voron.zip](https://voron.zip/done/VT.zip): official release archive of the Trident files, linked from vorondesign.com. License not stated.
 - [voron.zip](https://voron.zip/web/viewer.html?file=manuals/Assembly_Manual_Trident.pdf): copy of the assembly manual PDF. License not stated.
 - Wayback Machine: [latest snapshot](https://web.archive.org/web/20260923154213/https://github.com/VoronDesign/Voron-Trident), 2026-09-23.
+
+## Mods and variants
+
+- [Voron Trident 5-axis](https://github.com/Buzzloopster/Voron-Trident-5-axis) by Buzzloopster: an A tilt and endless C rotation bed under the stock CoreXY, run by RepRapFirmware robot kinematics, base Voron Trident 250. GPL-3.0.

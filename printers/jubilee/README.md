@@ -6,10 +6,10 @@
 
 | Field | Value |
 | --- | --- |
-| Section | CoreXY · Large (≥300 × 300 mm) |
+| Section | Legacy designs |
 | Project page | [https://github.com/machineagency/jubilee](https://github.com/machineagency/jubilee) |
 | Author | Machine Agency |
-| About | Open tool-changing platform. |
+| About | Open tool-changing platform. No update since 2021-10. |
 | Build volume (X×Y×Z) | 300×300×300 |
 | Exterior (W×D×H) | 476×604×558 |
 | Latest version | v2.2.2<br>[2021-10](https://github.com/machineagency/jubilee/releases/tag/v2.2.2) |

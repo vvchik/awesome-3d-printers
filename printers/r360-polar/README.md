@@ -8,13 +8,13 @@
 | --- | --- |
 | Section | Historical designs |
 | Project page | [https://reprap.org/wiki/R_360](https://reprap.org/wiki/R_360) |
-| Author | RepRap |
-| About | Radial polar motion experiment. R-360 Open is a parametric second generation that stayed a work in progress in 2015. One of the few documented open polar printers. |
+| Author | Kornel Farkas |
+| About | Radial polar motion experiment. One of the few documented open polar printers. |
 | Build volume (X×Y×Z) | Ø210×200 |
 | Exterior (W×D×H) | — |
 | Latest version | CAD<br>[2016-12](https://github.com/kory75/R-360-3D-Printer/commit/bb1308cb728c34756b5bd67819abd588ab218c91) |
-| Stars Likes Views | [⏯️⁠33.3K](https://www.youtube.com/watch?v=lvcS7TT98mA)<br>[❤️⁠178](https://www.youtube.com/watch?v=lvcS7TT98mA) |
-| Links | [Files](https://github.com/kory75/R-360-3D-Printer) R-360<br>[CAD](https://github.com/kory75/R-360-Open-3D-Printer) R-360 Open |
+| Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/kory75/R-360-3D-Printer?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/kory75/R-360-3D-Printer)<br>[⏯️⁠33.3K](https://www.youtube.com/watch?v=lvcS7TT98mA)<br>[❤️⁠178](https://www.youtube.com/watch?v=lvcS7TT98mA) |
+| Links | [Files](https://github.com/kory75/R-360-3D-Printer) |
 | Groups | [Forum](https://reprap.org/forum/list.php?185) EN |
 | License | [CC BY-SA 3.0](https://github.com/kory75/R-360-3D-Printer/blob/master/README.md) |
 

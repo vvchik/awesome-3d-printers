@@ -8,12 +8,12 @@
 | --- | --- |
 | Section | Historical designs |
 | Project page | [https://reprap.org/wiki/GUS_Simpson](https://reprap.org/wiki/GUS_Simpson) |
-| Author | Simpson family |
+| Author | Nicholas Seward |
 | About | Experimental grounded delta prototype with an unusual arm layout. |
 | Build volume (X×Y×Z) | — |
 | Exterior (W×D×H) | — |
 | Latest version | CAD<br>[2014-01](https://github.com/NicholasSeward/ConceptFORGE/commit/3dcbc6ba5797609bff680bafbcaf4fe8c3eb378b) |
-| Stars Likes Views | [⏯️⁠81.7K](https://www.youtube.com/watch?v=IEGTe1G2Gqs)<br>[❤️⁠402](https://www.youtube.com/watch?v=IEGTe1G2Gqs) |
+| Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/NicholasSeward/ConceptFORGE?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/NicholasSeward/ConceptFORGE)<br>[⏯️⁠81.7K](https://www.youtube.com/watch?v=IEGTe1G2Gqs)<br>[❤️⁠402](https://www.youtube.com/watch?v=IEGTe1G2Gqs) |
 | Links | [Files](https://github.com/NicholasSeward/ConceptFORGE/tree/master/GUS%20Simpson) |
 | Groups | [Forum](https://reprap.org/forum/list.php?178) EN |
 | License | [GPL-3.0](https://github.com/NicholasSeward/ConceptFORGE/blob/master/LICENSE) |

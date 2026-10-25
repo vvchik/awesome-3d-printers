@@ -8,8 +8,8 @@
 | --- | --- |
 | Section | Historical designs |
 | Project page | [https://reprap.org/wiki/Smartrap_mini](https://reprap.org/wiki/Smartrap_mini) |
-| Author | Compact, low-part-count Cartesian RepRap design with a large following. |
-| About |  |
+| Author | Smartfriendz |
+| About | Compact, low-part-count Cartesian RepRap design with a large following. |
 | Build volume (X×Y×Z) | 250×250×200 |
 | Exterior (W×D×H) | — |
 | Latest version | CAD<br>[2015-07](https://github.com/smartfriendz/smartrap/commit/5ff51f4ab0f82a5eb2dacf58f4ec6b549e961622) |

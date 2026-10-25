@@ -8,12 +8,12 @@
 | --- | --- |
 | Section | Historical designs |
 | Project page | [https://reprap.org/wiki/Mendel](https://reprap.org/wiki/Mendel) |
-| Author | RepRap |
+| Author | Ed Sells |
 | About | Influential second-generation RepRap, and the parent of the Prusa Mendel and MendelMax. |
 | Build volume (X×Y×Z) | 200×200×140 |
 | Exterior (W×D×H) | — |
 | Latest version | Files<br>[2011-05](https://sourceforge.net/projects/reprap/files/) |
-| Stars Likes Views | [⏯️⁠55.2K](https://www.youtube.com/watch?v=toZpNpHQI7w)<br>[❤️⁠29](https://www.youtube.com/watch?v=toZpNpHQI7w) |
+| Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/reprap/mendel?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/reprap/mendel)<br>[⏯️⁠55.2K](https://www.youtube.com/watch?v=toZpNpHQI7w)<br>[❤️⁠29](https://www.youtube.com/watch?v=toZpNpHQI7w) |
 | Links | [CAD](https://github.com/reprap/mendel/tree/master/mechanics/solid-models) |
 | Groups | [Forum](https://reprap.org/forum/list.php?151) EN |
 | License | [GPL-2.0](https://reprap.org/wiki/Mendel) |

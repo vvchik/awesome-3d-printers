@@ -8,12 +8,12 @@
 | --- | --- |
 | Section | Historical designs |
 | Project page | [https://reprap.org/wiki/Prusa_Mendel](https://reprap.org/wiki/Prusa_Mendel) |
-| Author | Prusa / RepRap |
+| Author | Josef Prusa |
 | About | An early simplification of the Mendel, and the most built RepRap of its time. It led to the i3. |
 | Build volume (X×Y×Z) | 200×200×100 |
 | Exterior (W×D×H) | — |
 | Latest version | iteration 2<br>[2012-02](https://github.com/josefprusa/PrusaMendel/commit/c2eb45864bb3021cfa3bfd2fee7b08c1e8e2b15a) |
-| Stars Likes Views | [⏯️⁠32.5K](https://www.youtube.com/watch?v=40id30dChnU)<br>[❤️⁠180](https://www.youtube.com/watch?v=40id30dChnU) |
+| Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/josefprusa/PrusaMendel?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/josefprusa/PrusaMendel)<br>[⏯️⁠32.5K](https://www.youtube.com/watch?v=40id30dChnU)<br>[❤️⁠180](https://www.youtube.com/watch?v=40id30dChnU) |
 | Links | [CAD](https://github.com/josefprusa/PrusaMendel) |
 | Groups | [Forum](https://reprap.org/forum/list.php?151) EN |
 | License | [GPL-3.0](https://github.com/josefprusa/PrusaMendel/blob/master/source/x-end.scad) |

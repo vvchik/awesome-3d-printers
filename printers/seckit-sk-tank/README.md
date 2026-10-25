@@ -6,10 +6,10 @@
 
 | Field | Value |
 | --- | --- |
-| Section | Legacy designs |
+| Section | CoreXY · Large (≥300 × 300 mm) |
 | Project page | [https://github.com/SecKit/SK-Tank](https://github.com/SecKit/SK-Tank) |
 | Author | SecKit family |
-| About | All-metal frame kit design in two versions, v1 with 350 mm and v2 with 400 mm XY. No update since 2025-03. |
+| About | All-metal frame kit design in two versions, v1 with 350 mm and v2 with 400 mm XY. |
 | Build volume (X×Y×Z) | v1: 350×350×400<br>v2: 400×400×400 |
 | Exterior (W×D×H) | 560×530×710 |
 | Latest version | STEP<br>[2025-03](https://github.com/SecKit/SK-Tank/commit/ae56719d14c6fef099e959b14f3daf03f4c1f8b8) |

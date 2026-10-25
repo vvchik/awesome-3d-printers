@@ -6,10 +6,10 @@
 
 | Field | Value |
 | --- | --- |
-| Section | Legacy designs |
+| Section | CoreXY · Medium (181–299 mm representative X/Y size) |
 | Project page | [https://github.com/martinbudden/MaybeCube](https://github.com/martinbudden/MaybeCube) |
 | Author | Martin Budden |
-| About | BabyCube's larger, configurable extrusion-frame sibling. No update since 2024-09 and no active group. |
+| About | BabyCube's larger, configurable extrusion-frame sibling. |
 | Build volume (X×Y×Z) | MC300: 185×185×200<br>MC350: 225×225×235<br>MC400: 275×275×285 |
 | Exterior (W×D×H) | MC300: 340×340×420<br>MC350: 390×390×470<br>MC400: 440×440×520 |
 | Latest version | CAD<br>[2024-09](https://github.com/martinbudden/MaybeCube/commit/83aeec32c94f3e004cd1ca78ecbb9fdc711e7357) |
