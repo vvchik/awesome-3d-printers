@@ -14,7 +14,7 @@
 | Exterior (W×D×H) | — |
 | Latest version | CAD<br>[2012-07](https://github.com/jcrocholl/rostock/commit/bd5bcebd93ce10676dd72583e95322dceb57ef08) |
 | Stars Likes Views | [💙⁠3.1K](https://www.thingiverse.com/thing:17175)<br>[⏯️⁠388K](https://www.youtube.com/watch?v=AYs6jASd_Ww)<br>[❤️⁠982](https://www.youtube.com/watch?v=AYs6jASd_Ww) |
-| Links | — |
+| Links | [CAD](https://github.com/jcrocholl/rostock) |
 | Groups | [Forum](https://reprap.org/forum/list.php?178) EN<br>[Facebook](https://www.facebook.com/groups/delta3dp/) EN 2.7K inactive |
 | License | [GPL-2.0](https://web.archive.org/web/20180101150721/https://www.thingiverse.com/thing:17175) |
 

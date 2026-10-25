@@ -14,7 +14,7 @@
 | Exterior (W×D×H) | — |
 | Latest version | CAD<br>[2014-05](https://github.com/jcrocholl/kossel/commit/74e086041993af1f0ef2aae6850905a81c1b6bb2) |
 | Stars Likes Views | [⏯️⁠314K](https://www.youtube.com/watch?v=0Ag3jeObNf8)<br>[❤️⁠462](https://www.youtube.com/watch?v=0Ag3jeObNf8) |
-| Links | — |
+| Links | [CAD](https://github.com/jcrocholl/kossel) |
 | Groups | [Forum](https://reprap.org/forum/list.php?178) EN<br>[Facebook](https://www.facebook.com/groups/delta3dp/) EN 2.7K inactive |
 | License | [GPL-3.0](https://github.com/jcrocholl/kossel/blob/master/LICENSE) |
 
