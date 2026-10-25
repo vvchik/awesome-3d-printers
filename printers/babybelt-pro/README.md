@@ -9,15 +9,15 @@
 | Section | Other motion systems |
 | Project page | [https://github.com/RobMink/BabyBeltPro](https://github.com/RobMink/BabyBeltPro) |
 | Author | Rob Mink |
-| About | Compact belt printer. |
+| About | Compact belt printer. The current Pro v2.6 follows the original BabyBelt. |
 | Build type | Belt printer |
 | Build volume (X×Y×Z) | 100×100×∞ |
 | Exterior (W×D×H) | — |
-| Latest version | v2.6<br>[2026-06](https://github.com/RobMink/BabyBeltPro/blob/HEAD/documentation/CHANGE-LOG.md#2026-06-20) |
+| Latest version | v2.6<br>[2026-08](https://github.com/RobMink/BabyBeltPro/blob/HEAD/documentation/CHANGE-LOG.md#2026-08-13) |
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/RobMink/BabyBeltPro?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/RobMink/BabyBeltPro)<br>[⏯️⁠2.1K](https://www.youtube.com/watch?v=joXvj6Lqx88)<br>[❤️⁠72](https://www.youtube.com/watch?v=joXvj6Lqx88) |
-| Links | [STEP](https://github.com/RobMink/BabyBeltPro/blob/HEAD/CAD/BBProV2POINT6.stp)<br>[Manual](https://github.com/RobMink/BabyBeltPro/blob/HEAD/documentation/bbpv2_build_guide.md) |
+| Links | [STEP](https://github.com/RobMink/BabyBeltPro/blob/HEAD/CAD/BBProV2POINT6.stp) v2.6<br>[Manual](https://github.com/RobMink/BabyBeltPro/blob/HEAD/documentation/bbpv2_build_guide.md) v2.6<br>[STEP](https://github.com/RobMink/Babybelt/blob/HEAD/bb.stp) original BabyBelt |
 | Groups | [Discord](https://discord.gg/NTDZMsCwXh) EN 886 |
-| License | [GPL-3.0](https://github.com/RobMink/BabyBeltPro/blob/2.6/LICENSE) |
+| License | [GPL-3.0 (BabyBelt Pro), CC BY-NC-SA 4.0 (original BabyBelt)](https://github.com/RobMink/BabyBeltPro/blob/2.6/LICENSE) |
 
 ## Pictures (7)
 
@@ -26,3 +26,8 @@
 <tr><td align="center" width="33%"><a href="3-babybelt-pro.jpg"><img src="3-babybelt-pro.jpg" width="260" alt="BabyBelt Pro picture 3"></a><br><sub>Photo: <a href="https://hackaday.com/author/tomnardi/">Tom Nardi</a></sub></td><td align="center" width="33%"><a href="4-babybelt-pro.jpg"><img src="4-babybelt-pro.jpg" width="260" alt="BabyBelt Pro picture 4"></a><br><sub>Photo: <a href="https://www.reddit.com/user/geking">u/geking</a></sub></td><td align="center" width="33%"><a href="5-babybelt-pro.jpg"><img src="5-babybelt-pro.jpg" width="260" alt="BabyBelt Pro picture 5"></a><br><sub>Photo: <a href="https://www.reddit.com/user/Inserttext12">u/Inserttext12</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="6-babybelt-pro.jpg"><img src="6-babybelt-pro.jpg" width="260" alt="BabyBelt Pro picture 6"></a><br><sub>Photo: <a href="https://www.reddit.com/user/geking">u/geking</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- [GitHub, Printcepts](https://github.com/Printcepts/BabyBeltPro): copy under the author's brand with v2 and v2.5 STEP, STL and docs. No v2.6 STEP. GPL-3.0.
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20251011235159/https://github.com/RobMink/BabyBeltPro), 2025-10-11.

@@ -23,3 +23,10 @@
 <table>
 <tr><td align="center" width="33%"><a href="0-little-cube.jpg"><img src="0-little-cube.jpg" width="260" alt="Little Cube picture 0"></a><br><sub>Photo: longlh</sub></td><td align="center" width="33%"><a href="1-little-cube.jpg"><img src="1-little-cube.jpg" width="260" alt="Little Cube picture 1"></a><br><sub>Photo: longlh</sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- [Author site](https://looong-made.com/little-cube-lockdown-corexy-build/): build story and photos, links to Thingiverse for the files. No license stated.
+- [Author site](https://looong-made.com/little-cube-design-challenges/): design write-up, part 2. No license stated.
+- [GitHub](https://github.com/longlh/Marlin/tree/looong-made/litle-cube-updated): Marlin firmware config. GPL-3.0.
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20220515055218/https://cdn.thingiverse.com/zipfiles/b0/8a/c2/2f/11/Little+Cube+-+CoreXY+Printer+-+Small+Factor+Form+-++Fun+To+Assemble.zip), 2022-05-15.

@@ -16,7 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/toolson/Tantillus_R?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/toolson/Tantillus_R) |
 | Links | [Files](https://github.com/toolson/Tantillus_R)<br>[Wiki](https://reprap.org/wiki/Tantillus_R) |
 | Groups | — |
-| License | [GPL-3.0](https://github.com/toolson/Tantillus_R/blob/master/LICENSE) |
+| License | [GPL-3.0 (GitHub), GPL-2.0 (Thingiverse)](https://github.com/toolson/Tantillus_R/blob/master/LICENSE) |
 
 ## Pictures (4)
 
@@ -24,3 +24,10 @@
 <tr><td align="center" width="33%"><a href="0-tantillus-r.jpg"><img src="0-tantillus-r.jpg" width="260" alt="Tantillus R picture 0"></a><br><sub>Photo: <a href="https://github.com/toolson">Lars Scheuten (toolson)</a></sub></td><td align="center" width="33%"><a href="1-tantillus-r.jpg"><img src="1-tantillus-r.jpg" width="260" alt="Tantillus R picture 1"></a><br><sub>Photo: <a href="https://www.youtube.com/@aidilj">aidil jazmi</a></sub></td><td align="center" width="33%"><a href="2-tantillus-r.jpg"><img src="2-tantillus-r.jpg" width="260" alt="Tantillus R picture 2"></a><br><sub>Photo: <a href="https://www.blogger.com/profile/17981768588609934835">Sublime</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-tantillus-r.jpg"><img src="3-tantillus-r.jpg" width="260" alt="Tantillus R picture 3"></a><br><sub>Photo: <a href="https://reprap.org/forum/profile.php?279,41675">toolson</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- [Thingiverse](https://www.thingiverse.com/thing:2930723): heated bed DXF, links to GitHub. GPL-2.0.
+- [Author site](https://scheuten.me/?page_id=1988): English build docs in 18 chapters, photos. No license stated.
+- [Author site](https://scheuten.me/?page_id=1056): German build docs. No license stated.
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20210124075215/https://github.com/toolson/Tantillus_R), 2021-01-24.

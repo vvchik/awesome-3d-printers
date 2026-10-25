@@ -25,3 +25,7 @@
 <tr><td align="center" width="33%"><a href="3-d-bot.jpg"><img src="3-d-bot.jpg" width="260" alt="D-Bot picture 3"></a><br><sub>Photo: <a href="https://www.thingiverse.com/spauda01">spauda01</a></sub></td><td align="center" width="33%"><a href="4-d-bot.jpg"><img src="4-d-bot.jpg" width="260" alt="D-Bot picture 4"></a><br><sub>Photo: <a href="https://www.thingiverse.com/spauda01">spauda01</a></sub></td><td align="center" width="33%"><a href="5-d-bot.jpg"><img src="5-d-bot.jpg" width="260" alt="D-Bot picture 5"></a><br><sub>Photo: <a href="https://www.thingiverse.com/spauda01">spauda01</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="6-d-bot.jpg"><img src="6-d-bot.jpg" width="260" alt="D-Bot picture 6"></a><br><sub>Photo: <a href="https://www.thingiverse.com/spauda01">spauda01</a></sub></td><td align="center" width="33%"><a href="7-d-bot.jpg"><img src="7-d-bot.jpg" width="260" alt="D-Bot picture 7"></a><br><sub>Photo: <a href="https://cults3d.com/en/users/trotfox">trotfox</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260825111150/https://www.thingiverse.com/thing:1001065), 2026-08-25.

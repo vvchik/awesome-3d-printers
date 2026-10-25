@@ -26,3 +26,10 @@
 <tr><td align="center" width="33%"><a href="6-mendel90.jpg"><img src="6-mendel90.jpg" width="260" alt="Mendel90 picture 6"></a><br><sub>Photo: <a href="https://www.booleanbyte.com/">booleanbyte (Benjamin)</a></sub></td><td align="center" width="33%"><a href="7-mendel90.jpg"><img src="7-mendel90.jpg" width="260" alt="Mendel90 picture 7"></a><br><sub>Photo: <a href="https://www.printables.com/@Arakon_269120">Arakon</a></sub></td><td align="center" width="33%"><a href="8-mendel90.jpg"><img src="8-mendel90.jpg" width="260" alt="Mendel90 picture 8"></a><br><sub>Photo: <a href="https://www.blogger.com/profile/10434414082369533349">Tony Lock</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="9-mendel90.jpg"><img src="9-mendel90.jpg" width="260" alt="Mendel90 picture 9"></a><br><sub>Photo: <a href="https://wiki.imal.org/contributor/luc-hanneuse">Luc Hanneuse</a></sub></td><td align="center" width="33%"><a href="10-mendel90.jpg"><img src="10-mendel90.jpg" width="260" alt="Mendel90 picture 10"></a><br><sub>Photo: <a href="https://www.blogger.com/profile/10434414082369533349">Tony Lock</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- [Thingiverse](https://www.thingiverse.com/thing:17826): early version, 30 files, GPL.
+- [RepRap wiki](https://reprap.org/wiki/Mendel90): docs, GPL.
+- [HydraRaptor blog](https://hydraraptor.blogspot.com/2011/12/mendel90.html): design post from 2011-12.
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260308233243/https://github.com/nophead/Mendel90), 2026-03-08.

@@ -14,7 +14,7 @@
 | Exterior (W×D×H) | — |
 | Latest version | R1.2 beta 1<br>[2023-07](https://github.com/Annex-Engineering/Gasherbrum-K3/releases/tag/R1.2B1) |
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/Annex-Engineering/Gasherbrum-K3?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/Annex-Engineering/Gasherbrum-K3)<br>[⏯️⁠28.6K](https://www.youtube.com/watch?v=kHAcm8c9pTk)<br>[❤️⁠359](https://www.youtube.com/watch?v=kHAcm8c9pTk) |
-| Links | [Files](https://github.com/Annex-Engineering/Gasherbrum-K3/tree/HEAD/Release_1_2) |
+| Links | [Files](https://github.com/Annex-Engineering/Gasherbrum-K3/tree/HEAD/Release_1_2) R1.2 beta 1<br>[CAD](https://github.com/Annex-Engineering/Gasherbrum-K3/tree/HEAD/Release_1_1/CAD) R1.1 |
 | Groups | [Discord](https://discord.gg/MzTR3zE) EN 11.4K |
 | License | [ANNEX Engineering License](https://github.com/Annex-Engineering/ANNEX-Engineering-License-Agreement/blob/main/LICENSE.md) |
 
@@ -25,3 +25,7 @@
 <tr><td align="center" width="33%"><a href="3-annex-k3.jpg"><img src="3-annex-k3.jpg" width="260" alt="Annex K3 / Gasherbrum picture 3"></a><br><sub>Photo: <a href="https://www.youtube.com/@oldguymeltsplastic">Steph AKA OGMP</a></sub></td><td align="center" width="33%"><a href="4-annex-k3.jpg"><img src="4-annex-k3.jpg" width="260" alt="Annex K3 / Gasherbrum picture 4"></a><br><sub>Photo: <a href="https://github.com/Annex-Engineering">Annex Engineering</a></sub></td><td align="center" width="33%"><a href="5-annex-k3.jpg"><img src="5-annex-k3.jpg" width="260" alt="Annex K3 / Gasherbrum picture 5"></a><br><sub>Photo: <a href="https://github.com/Annex-Engineering">Annex Engineering</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="6-annex-k3.jpg"><img src="6-annex-k3.jpg" width="260" alt="Annex K3 / Gasherbrum picture 6"></a><br><sub>Photo: <a href="https://www.youtube.com/@nihiro3d">Nihiro</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260506140850/https://github.com/Annex-Engineering/Gasherbrum-K3), 2026-05-06.

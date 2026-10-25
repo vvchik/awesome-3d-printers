@@ -24,3 +24,14 @@
 <tr><td align="center" width="33%"><a href="0-snappy.jpg"><img src="0-snappy.jpg" width="260" alt="Snappy picture 0"></a><br><sub>Photo: <a href="https://github.com/revarbat">Revar Desmera</a></sub></td><td align="center" width="33%"><a href="1-snappy.jpg"><img src="1-snappy.jpg" width="260" alt="Snappy picture 1"></a><br><sub>Photo: <a href="https://github.com/revarbat">Revar Desmera</a></sub></td><td align="center" width="33%"><a href="2-snappy.jpg"><img src="2-snappy.jpg" width="260" alt="Snappy picture 2"></a><br><sub>Photo: <a href="https://github.com/revarbat">Revar Desmera</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-snappy.jpg"><img src="3-snappy.jpg" width="260" alt="Snappy picture 3"></a><br><sub>Photo: <a href="https://www.youtube.com/@RevarDesmera">Revar Desmera</a></sub></td><td align="center" width="33%"><a href="4-snappy.jpg"><img src="4-snappy.jpg" width="260" alt="Snappy picture 4"></a><br><sub>Photo: <a href="https://www.youtube.com/@DrDFlo">Dr. D-Flo</a></sub></td></tr>
 </table>
+
+## Mods and variants
+
+- [FrankenSnappy](https://www.thingiverse.com/thing:4571980) by mcsgroi: scales the snap-together frame to about 12×12×12 in, with new motor holders and a Titan extruder mount. CC BY-NC 4.0.
+
+## Other homes of the files
+
+- [Thingiverse, v3.0](https://www.thingiverse.com/thing:2780361): 41 files. The page points to GitHub for the OpenSCAD source. GPL-2.0.
+- [Thingiverse, earlier version](https://www.thingiverse.com/thing:1828359): 27 files. GPL-2.0.
+- [RepRap wiki](https://reprap.org/wiki/Snappy): overview and build notes.
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260314014744/https://github.com/revarbat/snappy-reprap), 2026-03-14.

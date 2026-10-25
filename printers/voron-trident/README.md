@@ -27,3 +27,9 @@
 <tr><td align="center" width="33%"><a href="9-voron-trident.jpg"><img src="9-voron-trident.jpg" width="260" alt="Voron Trident (V1 line) picture 9"></a><br><sub>Version: V1.8</sub><br><sub>Photo: <a href="https://www.mikethomas.info">Mike Thomas</a></sub></td><td align="center" width="33%"><a href="10-voron-trident.jpg"><img src="10-voron-trident.jpg" width="260" alt="Voron Trident (V1 line) picture 10"></a><br><sub>Version: V1.8</sub><br><sub>Photo: <a href="https://www.reddit.com/user/Armatus-Designs">u/Armatus-Designs</a></sub></td><td align="center" width="33%"><a href="11-voron-trident.jpg"><img src="11-voron-trident.jpg" width="260" alt="Voron Trident (V1 line) picture 11"></a><br><sub>Version: V1.8</sub><br><sub>Photo: <a href="https://vorondesign.com">Voron Design</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="12-voron-trident.jpg"><img src="12-voron-trident.jpg" width="260" alt="Voron Trident (V1 line) picture 12"></a><br><sub>Version: V1.8</sub><br><sub>Photo: <a href="https://uniqueprints.shop/">uniqueprints</a></sub></td><td align="center" width="33%"><a href="13-voron-trident.jpg"><img src="13-voron-trident.jpg" width="260" alt="Voron Trident (V1 line) picture 13"></a><br><sub>Version: V1.8</sub><br><sub>Photo: <a href="https://caribou3d.com/">caribou3d/LDO</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- [voron.zip](https://voron.zip/done/VT.zip): official release archive of the Trident files, linked from vorondesign.com. License not stated.
+- [voron.zip](https://voron.zip/web/viewer.html?file=manuals/Assembly_Manual_Trident.pdf): copy of the assembly manual PDF. License not stated.
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260923154213/https://github.com/VoronDesign/Voron-Trident), 2026-09-23.

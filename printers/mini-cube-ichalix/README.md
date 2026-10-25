@@ -24,3 +24,7 @@
 <tr><td align="center" width="33%"><a href="0-mini-cube-ichalix.jpg"><img src="0-mini-cube-ichalix.jpg" width="260" alt="3d Mini Cube (iChalix) picture 0"></a><br><sub>Photo: <a href="https://www.thingiverse.com/iChalix">iChalix</a></sub></td><td align="center" width="33%"><a href="1-mini-cube-ichalix.jpg"><img src="1-mini-cube-ichalix.jpg" width="260" alt="3d Mini Cube (iChalix) picture 1"></a><br><sub>Photo: <a href="https://www.thingiverse.com/iChalix">iChalix</a></sub></td><td align="center" width="33%"><a href="2-mini-cube-ichalix.jpg"><img src="2-mini-cube-ichalix.jpg" width="260" alt="3d Mini Cube (iChalix) picture 2"></a><br><sub>Photo: <a href="https://www.thingiverse.com/iChalix">iChalix</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-mini-cube-ichalix.jpg"><img src="3-mini-cube-ichalix.jpg" width="260" alt="3d Mini Cube (iChalix) picture 3"></a><br><sub>Photo: <a href="https://www.thingiverse.com/iChalix">iChalix</a></sub></td><td align="center" width="33%"><a href="4-mini-cube-ichalix.jpg"><img src="4-mini-cube-ichalix.jpg" width="260" alt="3d Mini Cube (iChalix) picture 4"></a><br><sub>Photo: <a href="https://www.thingiverse.com/iChalix">iChalix</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20220528071538/https://www.thingiverse.com/thing:3910543), 2022-05-28.

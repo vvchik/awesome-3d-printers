@@ -24,3 +24,8 @@
 <tr><td align="center" width="33%"><a href="0-ender-sw.jpg"><img src="0-ender-sw.jpg" width="260" alt="Ender_SW picture 0"></a><br><sub>Photo: <a href="https://github.com/boubounokefalos">DaRk_dOg</a></sub></td><td align="center" width="33%"><a href="1-ender-sw.jpg"><img src="1-ender-sw.jpg" width="260" alt="Ender_SW picture 1"></a><br><sub>Photo: <a href="https://github.com/boubounokefalos">DaRk_dOg</a></sub></td><td align="center" width="33%"><a href="2-ender-sw.jpg"><img src="2-ender-sw.jpg" width="260" alt="Ender_SW picture 2"></a><br><sub>Photo: <a href="https://www.reddit.com/user/FizzysTech">u/FizzysTech</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-ender-sw.jpg"><img src="3-ender-sw.jpg" width="260" alt="Ender_SW picture 3"></a></td><td align="center" width="33%"><a href="4-ender-sw.jpg"><img src="4-ender-sw.jpg" width="260" alt="Ender_SW picture 4"></a></td></tr>
 </table>
+
+## Other homes of the files
+
+- [GitHub](https://github.com/boubounokefalos/Ender_SW_WIKI): wiki data copy, GPL-3.0.
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260701000855/https://github.com/boubounokefalos/Ender_SW), 2026-07-01.

@@ -24,3 +24,7 @@
 <tr><td align="center" width="33%"><a href="0-seckit-sk-cube.jpg"><img src="0-seckit-sk-cube.jpg" width="260" alt="SecKit SK-Cube picture 0"></a><br><sub>Photo: <a href="https://www.youtube.com/@ModBotArmyy">ModBotArmy</a></sub></td><td align="center" width="33%"><a href="1-seckit-sk-cube.jpg"><img src="1-seckit-sk-cube.jpg" width="260" alt="SecKit SK-Cube picture 1"></a><br><sub>Photo: <a href="https://www.youtube.com/@seckit3dp">Seckit 3DP</a></sub></td><td align="center" width="33%"><a href="2-seckit-sk-cube.jpg"><img src="2-seckit-sk-cube.jpg" width="260" alt="SecKit SK-Cube picture 2"></a><br><sub>Photo: <a href="https://www.youtube.com/@seckit3dp">SecKit</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-seckit-sk-cube.jpg"><img src="3-seckit-sk-cube.jpg" width="260" alt="SecKit SK-Cube picture 3"></a><br><sub>Photo: <a href="https://www.youtube.com/@ModBotArmyy">ModBotArmy</a></sub></td><td align="center" width="33%"><a href="4-seckit-sk-cube.jpg"><img src="4-seckit-sk-cube.jpg" width="260" alt="SecKit SK-Cube picture 4"></a><br><sub>Photo: <a href="https://www.youtube.com/@Rolohaun">Rolohaun</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20221031133538/https://github.com/SecKit/SK-Cube), 2022-10-31.

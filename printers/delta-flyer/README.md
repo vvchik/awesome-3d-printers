@@ -24,3 +24,8 @@
 <tr><td align="center" width="33%"><a href="0-delta-flyer.jpg"><img src="0-delta-flyer.jpg" width="260" alt="Delta Flyer picture 0"></a><br><sub>Photo: <a href="https://github.com/Kanrog">Kanrog</a></sub></td><td align="center" width="33%"><a href="1-delta-flyer.jpg"><img src="1-delta-flyer.jpg" width="260" alt="Delta Flyer picture 1"></a><br><sub>Photo: <a href="https://store.dremc.com.au/">DREMC/LDO</a></sub></td><td align="center" width="33%"><a href="2-delta-flyer.jpg"><img src="2-delta-flyer.jpg" width="260" alt="Delta Flyer picture 2"></a><br><sub>Photo: <a href="https://west3d.com/">West3D/LDO</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-delta-flyer.jpg"><img src="3-delta-flyer.jpg" width="260" alt="Delta Flyer picture 3"></a><br><sub>Photo: <a href="https://store.dremc.com.au/">DREMC/LDO</a></sub></td><td align="center" width="33%"><a href="4-delta-flyer.jpg"><img src="4-delta-flyer.jpg" width="260" alt="Delta Flyer picture 4"></a><br><sub>Photo: <a href="https://github.com/Kanrog">Kanrog</a></sub></td><td align="center" width="33%"><a href="5-delta-flyer.jpg"><img src="5-delta-flyer.jpg" width="260" alt="Delta Flyer picture 5"></a><br><sub>Photo: <a href="https://github.com/Kanrog">Kanrog</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- [GitHub, Kanrog](https://github.com/Kanrog/Delta-Flyer): source of the manual site and a Klipper config. GPL-3.0.
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260509192924/https://www.printables.com/model/1327596-delta-flyer-3d-printer), 2026-05-09.

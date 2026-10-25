@@ -16,7 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/SnakeOilXY/SnakeOil-XY?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/SnakeOilXY/SnakeOil-XY)<br>[🧡⁠119](https://www.printables.com/model/115487-snakeoilxy-3d-printer-design)<br>[⏯️⁠44K](https://www.youtube.com/watch?v=pQPhEykthEg)<br>[❤️⁠420](https://www.youtube.com/watch?v=pQPhEykthEg) |
 | Links | [CAD](https://github.com/SnakeOilXY/SnakeOil-XY/tree/master/CAD)<br>[Manual](https://github.com/SnakeOilXY/SnakeOil-XY/tree/master/Doc) |
 | Groups | [Discord](https://discord.gg/WZVP2HuAag) EN 1.3K |
-| License | [GPL-3.0](https://github.com/SnakeOilXY/SnakeOil-XY/blob/master/LICENSE) |
+| License | [GPL-3.0 (GitHub, Printables), CC BY-NC (MakerWorld)](https://github.com/SnakeOilXY/SnakeOil-XY/blob/master/LICENSE) |
 
 ## Pictures (5)
 
@@ -24,3 +24,9 @@
 <tr><td align="center" width="33%"><a href="0-snakeoil-xy.jpg"><img src="0-snakeoil-xy.jpg" width="260" alt="SnakeOil XY picture 0"></a><br><sub>Photo: <a href="https://github.com/ChipCE">Chip</a></sub></td><td align="center" width="33%"><a href="1-snakeoil-xy.jpg"><img src="1-snakeoil-xy.jpg" width="260" alt="SnakeOil XY picture 1"></a><br><sub>Photo: <a href="https://github.com/ChipCE">Chip</a></sub></td><td align="center" width="33%"><a href="2-snakeoil-xy.jpg"><img src="2-snakeoil-xy.jpg" width="260" alt="SnakeOil XY picture 2"></a><br><sub>Photo: <a href="https://www.printables.com/@Chip">Chip</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-snakeoil-xy.jpg"><img src="3-snakeoil-xy.jpg" width="260" alt="SnakeOil XY picture 3"></a><br><sub>Photo: <a href="https://github.com/ChipCE">Chip</a></sub></td><td align="center" width="33%"><a href="4-snakeoil-xy.jpg"><img src="4-snakeoil-xy.jpg" width="260" alt="SnakeOil XY picture 4"></a></td></tr>
 </table>
+
+## Other homes of the files
+
+- [Printables](https://www.printables.com/model/115487-snakeoilxy-3d-printer-design): Beta-era STL and some part STEP, uploaded 2022-01. GPL-3.0.
+- [MakerWorld](https://makerworld.com/en/models/37349): printed parts STL. CC BY-NC.
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260424153046/https://github.com/SnakeOilXY/SnakeOil-XY), 2026-04-24.

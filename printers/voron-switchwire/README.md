@@ -25,3 +25,8 @@
 <tr><td align="center" width="33%"><a href="3-voron-switchwire.jpg"><img src="3-voron-switchwire.jpg" width="260" alt="Voron Switchwire picture 3"></a><br><sub>Photo: <a href="https://vorondesign.com/">Voron Design</a></sub></td><td align="center" width="33%"><a href="4-voron-switchwire.jpg"><img src="4-voron-switchwire.jpg" width="260" alt="Voron Switchwire picture 4"></a><br><sub>Photo: <a href="https://vorondesign.com/">Voron Design</a></sub></td><td align="center" width="33%"><a href="5-voron-switchwire.jpg"><img src="5-voron-switchwire.jpg" width="260" alt="Voron Switchwire picture 5"></a><br><sub>Photo: <a href="https://hackaday.io/hacker/1013182-dareknorway">DarekNorway</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="6-voron-switchwire.jpg"><img src="6-voron-switchwire.jpg" width="260" alt="Voron Switchwire picture 6"></a><br><sub>Photo: <a href="https://www.teamfdm.com/profile/4289-nuno-figueiredo/">Nuno Figueiredo</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- [voron.zip](https://voron.zip/done/VSW.zip): official release download of the Switchwire files, and the [manual PDF](https://voron.zip/web/viewer.html?file=manuals/Assembly_Manual_SW.pdf). License not stated on the page.
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260517143743/https://github.com/VoronDesign/Voron-Switchwire), 2026-05-17.

@@ -9,12 +9,12 @@
 | Section | Conversions |
 | Project page | [https://www.printables.com/model/922401-ender-3-ng-v12-corexy-conversion](https://www.printables.com/model/922401-ender-3-ng-v12-corexy-conversion) |
 | Author | RH3D |
-| About | Ender-3 CoreXY conversion with a dedicated guide; the listed volume is from a creator beta build. |
+| About | Ender-3 CoreXY conversion with a dedicated guide; the listed volume is from a creator beta build. Versions are the 2023 beta and v1.2. |
 | Build volume (X×Y×Z) | 235×235×245 |
 | Exterior (W×D×H) | — |
-| Latest version | v1.2<br>[2024-08](https://www.printables.com/model/922401-ender-3-ng-v12-corexy-conversion) |
+| Latest version | Log<br>[2025-06](https://www.printables.com/model/922401-ender-3-ng-v12-corexy-conversion) |
 | Stars Likes Views | [🧡⁠2.7K](https://www.printables.com/model/922401-ender-3-ng-v12-corexy-conversion)<br>[⏯️⁠107K](https://www.youtube.com/watch?v=u4b6Ni18ap4)<br>[❤️⁠3.3K](https://www.youtube.com/watch?v=u4b6Ni18ap4) |
-| Links | [Files](https://rh3d.xyz/E3NG_v1_2/standard/files)<br>[Manual](https://rh3d.xyz/E3NG_v1_2/standard/build_guide) |
+| Links | [Files](https://rh3d.xyz/E3NG_v1_2/standard/files) v1.2<br>[Manual](https://rh3d.xyz/E3NG_v1_2/standard/build_guide) v1.2<br>[STL](https://www.printables.com/model/469280-ender-3-ng-corexy-beta) old beta |
 | Groups | [Discord](https://discord.com/invite/Zkvu6uu2AR) EN 4.8K |
 | License | [CC BY-NC-SA 4.0](https://rh3d.xyz/E3NG_v1_2/standard/files) |
 
@@ -26,3 +26,8 @@
 <tr><td align="center" width="33%"><a href="6-ender-3-ng.jpg"><img src="6-ender-3-ng.jpg" width="260" alt="Ender-3 NG picture 6"></a><br><sub>Photo: <a href="https://www.printables.com/@BAPHOMET666_2466717">BAPHOMET 666</a></sub></td><td align="center" width="33%"><a href="7-ender-3-ng.jpg"><img src="7-ender-3-ng.jpg" width="260" alt="Ender-3 NG picture 7"></a><br><sub>Photo: <a href="https://www.printables.com/@wcaiger_708194">wcaiger</a></sub></td><td align="center" width="33%"><a href="8-ender-3-ng.jpg"><img src="8-ender-3-ng.jpg" width="260" alt="Ender-3 NG picture 8"></a><br><sub>Photo: <a href="https://www.printables.com/@wcaiger_708194">wcaiger</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="9-ender-3-ng.jpg"><img src="9-ender-3-ng.jpg" width="260" alt="Ender-3 NG picture 9"></a><br><sub>Photo: <a href="https://www.printables.com/@smarzony_1925451">Piotr Smarzyński</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- [GitHub](https://github.com/RH3D/E3NG): OrcaSlicer profiles, firmware, and the manual. No CAD. CC BY-NC-SA 4.0.
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260727223721/https://www.printables.com/model/922401-ender-3-ng-v12-corexy-conversion), 2026-07-27.

@@ -27,3 +27,10 @@
 <tr><td align="center" width="33%"><a href="9-crazycreatorcube.jpg"><img src="9-crazycreatorcube.jpg" width="260" alt="CrazyCreatorCube picture 9"></a><br><sub>Photo: <a href="https://www.youtube.com/@crazycreator8068">Andreas Fricke (CrazyCreator)</a></sub></td><td align="center" width="33%"><a href="10-crazycreatorcube.jpg"><img src="10-crazycreatorcube.jpg" width="260" alt="CrazyCreatorCube picture 10"></a><br><sub>Photo: <a href="https://www.youtube.com/@crazycreator8068">Andreas Fricke (CrazyCreator)</a></sub></td><td align="center" width="33%"><a href="11-crazycreatorcube.jpg"><img src="11-crazycreatorcube.jpg" width="260" alt="CrazyCreatorCube picture 11"></a><br><sub>Photo: <a href="https://www.youtube.com/@crazycreator8068">CrazyCreator</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="12-crazycreatorcube.jpg"><img src="12-crazycreatorcube.jpg" width="260" alt="CrazyCreatorCube picture 12"></a><br><sub>Photo: <a href="https://www.youtube.com/@crazycreator8068">Andreas Fricke (CrazyCreator)</a></sub></td><td align="center" width="33%"><a href="13-crazycreatorcube.jpg"><img src="13-crazycreatorcube.jpg" width="260" alt="CrazyCreatorCube picture 13"></a><br><sub>Photo: <a href="https://www.youtube.com/@crazycreator8068">Andreas Fricke (CrazyCreator)</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- [Thingiverse](https://www.thingiverse.com/thing:4111728): tool bench and holder parts only, CC BY-NC-SA, uploaded by CrazyCreator13.
+- [Printables](https://www.printables.com/model/100893): the same tool parts, 4 STL, CC BY-NC-SA.
+- [GitHub](https://github.com/CrazyCreatorCube/ToolDatabase): tool database, MIT.
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20250618205044/https://crazycreatorcube.notion.site/CrazyCreatorCube-9c3a3c3e242b42e78920e49dc1d180df), 2025-06-18.

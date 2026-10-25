@@ -26,3 +26,9 @@
 <tr><td align="center" width="33%"><a href="6-foldarap.jpg"><img src="6-foldarap.jpg" width="260" alt="FoldaRap picture 6"></a><br><sub>Photo: <a href="https://www.reddit.com/user/reefab">u/reefab</a></sub></td><td align="center" width="33%"><a href="7-foldarap.jpg"><img src="7-foldarap.jpg" width="260" alt="FoldaRap picture 7"></a><br><sub>Photo: <a href="https://www.thingiverse.com/watsdesign">Emmanuel Gilloz</a></sub></td><td align="center" width="33%"><a href="8-foldarap.jpg"><img src="8-foldarap.jpg" width="260" alt="FoldaRap picture 8"></a><br><sub>Photo: <a href="https://www.flickr.com/photos/watsdesign/">Emmanuel Gilloz</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="9-foldarap.jpg"><img src="9-foldarap.jpg" width="260" alt="FoldaRap picture 9"></a><br><sub>Photo: <a href="https://www.flickr.com/photos/watsdesign/">Emmanuel Gilloz</a></sub></td><td align="center" width="33%"><a href="10-foldarap.jpg"><img src="10-foldarap.jpg" width="260" alt="FoldaRap picture 10"></a><br><sub>Photo: <a href="https://www.thingiverse.com/watsdesign">Emmanuel Gilloz</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- [Thingiverse](https://www.thingiverse.com/thing:15877): build steps and photos, latest STL on GitHub, GPL.
+- [RepRap wiki](https://reprap.org/wiki/FoldaRap): FoldaRap 4.0 docs, GPL.
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260222083918/https://github.com/EmmanuelG/Foldarap), 2026-02-22.

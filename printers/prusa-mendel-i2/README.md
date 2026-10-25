@@ -14,7 +14,7 @@
 | Exterior (W×D×H) | — |
 | Latest version | iteration 2<br>[2012-02](https://github.com/josefprusa/PrusaMendel/commit/c2eb45864bb3021cfa3bfd2fee7b08c1e8e2b15a) |
 | Stars Likes Views | [⏯️⁠32.5K](https://www.youtube.com/watch?v=40id30dChnU)<br>[❤️⁠180](https://www.youtube.com/watch?v=40id30dChnU) |
-| Links | — |
+| Links | [CAD](https://github.com/josefprusa/PrusaMendel) |
 | Groups | [Forum](https://reprap.org/forum/list.php?151) EN |
 | License | [GPL-3.0](https://github.com/josefprusa/PrusaMendel/blob/master/source/x-end.scad) |
 
@@ -26,3 +26,8 @@
 <tr><td align="center" width="33%"><a href="6-prusa-mendel-i2.jpg"><img src="6-prusa-mendel-i2.jpg" width="260" alt="Prusa Mendel i2 picture 6"></a><br><sub>Photo: <a href="https://www.mixshop.com/">Mixshop</a></sub></td><td align="center" width="33%"><a href="7-prusa-mendel-i2.jpg"><img src="7-prusa-mendel-i2.jpg" width="260" alt="Prusa Mendel i2 picture 7"></a><br><sub>Photo: <a href="https://reprap.org/wiki/User:Prusajr">Josef Prusa</a></sub></td><td align="center" width="33%"><a href="8-prusa-mendel-i2.jpg"><img src="8-prusa-mendel-i2.jpg" width="260" alt="Prusa Mendel i2 picture 8"></a><br><sub>Photo: <a href="https://www.deviantart.com/ronineter">ronineter</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="9-prusa-mendel-i2.jpg"><img src="9-prusa-mendel-i2.jpg" width="260" alt="Prusa Mendel i2 picture 9"></a><br><sub>Photo: <a href="http://fabacademy.org/archives/2013/students/juidias.juancarlos/">Juan Carlos Pérez Juidias</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- [RepRap wiki](https://reprap.org/wiki/Prusa_Mendel_%28iteration_2%29): iteration 2 page, GPL.
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20261013025401/https://reprap.org/wiki/Prusa_Mendel), 2026-10-13.

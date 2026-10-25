@@ -24,3 +24,8 @@
 <tr><td align="center" width="33%"><a href="0-maybecube.jpg"><img src="0-maybecube.jpg" width="260" alt="MaybeCube picture 0"></a><br><sub>Photo: <a href="https://github.com/martinbudden">Martin Budden</a></sub></td><td align="center" width="33%"><a href="1-maybecube.jpg"><img src="1-maybecube.jpg" width="260" alt="MaybeCube picture 1"></a><br><sub>Photo: <a href="https://github.com/martinbudden">Martin Budden</a></sub></td><td align="center" width="33%"><a href="2-maybecube.jpg"><img src="2-maybecube.jpg" width="260" alt="MaybeCube picture 2"></a><br><sub>Photo: <a href="https://github.com/martinbudden">Martin Budden</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-maybecube.jpg"><img src="3-maybecube.jpg" width="260" alt="MaybeCube picture 3"></a><br><sub>Photo: <a href="https://github.com/martinbudden">Martin Budden</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- [Thingiverse](https://www.thingiverse.com/thing:4912095): STL. The page links the GitHub MC300 and MC350 guides. CC BY-NC-SA 4.0.
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20250531044757/https://github.com/martinbudden/MaybeCube), 2025-05-31.

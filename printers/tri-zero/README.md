@@ -24,3 +24,8 @@
 <tr><td align="center" width="33%"><a href="0-tri-zero.jpg"><img src="0-tri-zero.jpg" width="260" alt="Tri-Zero picture 0"></a><br><sub>Photo: <a href="https://github.com/zruncho3d">Zruncho 3D</a></sub></td><td align="center" width="33%"><a href="1-tri-zero.jpg"><img src="1-tri-zero.jpg" width="260" alt="Tri-Zero picture 1"></a><br><sub>Photo: <a href="https://github.com/zruncho3d">Zruncho 3D</a></sub></td><td align="center" width="33%"><a href="2-tri-zero.jpg"><img src="2-tri-zero.jpg" width="260" alt="Tri-Zero picture 2"></a><br><sub>Photo: <a href="https://www.reddit.com/user/Cat-in-a-Box_0115">u/Cat-in-a-Box_0115</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-tri-zero.jpg"><img src="3-tri-zero.jpg" width="260" alt="Tri-Zero picture 3"></a><br><sub>Photo: <a href="https://www.printables.com/@HitLuca">HitLuca</a></sub></td><td align="center" width="33%"><a href="4-tri-zero.jpg"><img src="4-tri-zero.jpg" width="260" alt="Tri-Zero picture 4"></a><br><sub>Photo: <a href="https://www.printables.com/@Rushmere3D">Rushmere3D</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- [Google Docs](https://docs.google.com/document/d/1kADhQN-p30GZuGi_6izB4IUN-McIifvLVtg8yTzIAgo/edit): Tri-Zero document linked from the README.
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260810135008/https://github.com/zruncho3d/tri-zero), 2026-08-10.

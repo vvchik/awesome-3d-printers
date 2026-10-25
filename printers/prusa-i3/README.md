@@ -26,3 +26,19 @@
 <tr><td align="center" width="33%"><a href="6-prusa-i3.jpg"><img src="6-prusa-i3.jpg" width="260" alt="Prusa i3 (early to MK4S) picture 6"></a><br><sub>Photo: <a href="https://www.jonshobbies.com/">Jon</a></sub></td><td align="center" width="33%"><a href="7-prusa-i3.jpg"><img src="7-prusa-i3.jpg" width="260" alt="Prusa i3 (early to MK4S) picture 7"></a><br><sub>Photo: <a href="https://www.fabbaloo.com/">Kerry Stevenson</a></sub></td><td align="center" width="33%"><a href="8-prusa-i3.jpg"><img src="8-prusa-i3.jpg" width="260" alt="Prusa i3 (early to MK4S) picture 8"></a><br><sub>Photo: <a href="https://www.flickr.com/photos/prusajr/">Josef Prusa</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="9-prusa-i3.jpg"><img src="9-prusa-i3.jpg" width="260" alt="Prusa i3 (early to MK4S) picture 9"></a><br><sub>Photo: <a href="https://twitter.com/josefprusa">Josef Prusa</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- [Printables](https://www.printables.com/model/57217-i3-mk3s-printable-parts): MK3S+ STL and PDF, GPL-2.0.
+- [Printables](https://www.printables.com/model/88272-i3-mk3s-printable-parts): MK3S STL, GPL-2.0.
+- [Printables](https://www.printables.com/model/88240-i3-mk3-printable-parts): MK3 STL, GPL-2.0.
+- [Printables](https://www.printables.com/model/88231-i3-mk2s-printable-parts): MK2S STL, GPL-2.0.
+- [Printables](https://www.printables.com/model/88236-i3-mk2-printable-parts): MK2 STL, GPL-2.0.
+- [MyMiniFactory](https://www.myminifactory.com/object/3d-print-original-prusa-i3-mk3-57403): MK3 SCAD, STL, and PDF, MyMiniFactory noncommercial terms.
+- [MyMiniFactory](https://www.myminifactory.com/object/3d-print-prusa-i3-printable-parts-22479): i3 and MK2 STL, GPL-3.0 in the description.
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260307095612/https://github.com/prusa3d/Original-Prusa-i3), 2026-03-07.
+
+## Mods and variants
+
+- [P3steel toolson edition MK1](https://www.thingiverse.com/thing:1054909) by toolson: reworked printed parts for the P3Steel steel frame. CC BY-NC.
+- [P3steel toolson edition MK2](https://github.com/toolson/P3sTE_MK2) by toolson: second rework on an unmodified P3Steel v2 frame, with sintered-bronze bushings. CC BY-NC 3.0.

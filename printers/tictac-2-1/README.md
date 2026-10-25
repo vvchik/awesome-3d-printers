@@ -9,12 +9,12 @@
 | Section | Cartesian · Small (≤180 mm on both X/Y axes) |
 | Project page | [https://www.printables.com/model/416884-tictac-21](https://www.printables.com/model/416884-tictac-21) |
 | Author | Squirrelbrain |
-| About | A miniaturized V-Minion-derived Cartesian printer. |
+| About | A miniaturized V-Minion-derived Cartesian printer. Version 2.1 follows the first Tic-Tac (Miniaturised V-Minion) from 2022. |
 | Build volume (X×Y×Z) | 120×120×120 |
 | Exterior (W×D×H) | — |
 | Latest version | 2.1<br>[2024-01](https://www.printables.com/model/416884-tictac-21/files) |
 | Stars Likes Views | [🧡⁠465](https://www.printables.com/model/416884-tictac-21)<br>[💚⁠35](https://makerworld.com/en/models/144161-tic-tac-miniaturised-v-minion) |
-| Links | [Files](https://www.printables.com/model/416884-tictac-21/files) |
+| Links | [Files](https://www.printables.com/model/416884-tictac-21/files) 2.1<br>[Files](https://www.printables.com/model/164038-tic-tac-miniaturised-v-minion/files) old v1 |
 | Groups | [Facebook](https://www.facebook.com/groups/ratrig3dprintercommunity) EN 19.9K<br>[Discord](https://discord.gg/ratrig) EN 13.8K |
 | License | [CC BY-NC-SA](https://www.printables.com/model/416884-tictac-21) |
 
@@ -24,3 +24,9 @@
 <tr><td align="center" width="33%"><a href="0-tictac-2-1.jpg"><img src="0-tictac-2-1.jpg" width="260" alt="TicTac 2.1 picture 0"></a><br><sub>Photo: <a href="https://www.printables.com/@Squirrelbrain">Squirrelbrain</a></sub></td><td align="center" width="33%"><a href="1-tictac-2-1.jpg"><img src="1-tictac-2-1.jpg" width="260" alt="TicTac 2.1 picture 1"></a><br><sub>Photo: <a href="https://www.printables.com/@Squirrelbrain">Squirrelbrain</a></sub></td><td align="center" width="33%"><a href="2-tictac-2-1.jpg"><img src="2-tictac-2-1.jpg" width="260" alt="TicTac 2.1 picture 2"></a><br><sub>Photo: <a href="https://www.printables.com/@Squirrelbrain">Squirrelbrain</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-tictac-2-1.jpg"><img src="3-tictac-2-1.jpg" width="260" alt="TicTac 2.1 picture 3"></a><br><sub>Photo: <a href="https://www.youtube.com/@ModBotArmy">ModBot</a></sub></td><td align="center" width="33%"><a href="4-tictac-2-1.jpg"><img src="4-tictac-2-1.jpg" width="260" alt="TicTac 2.1 picture 4"></a><br><sub>Photo: <a href="https://www.printables.com/@MakeAUsername_285162">MakeAUsername</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- [MakerWorld](https://makerworld.com/en/models/144157): 2.1 model files, frame assembly and BOM PDFs, CC BY-NC-SA 4.0.
+- [MakerWorld](https://makerworld.com/en/models/144161): v1 model files, BOM and assembly drawings, CC BY-NC-SA 4.0.
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20251113134337/https://www.printables.com/model/416884-tictac-21), 2025-11-13.

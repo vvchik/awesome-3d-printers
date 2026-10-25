@@ -25,3 +25,7 @@
 <tr><td align="center" width="33%"><a href="3-v-chonk.jpg"><img src="3-v-chonk.jpg" width="260" alt="Rat Rig V-Chonk picture 3"></a><br><sub>Photo: <a href="https://github.com/Rat-Rig">Rat Rig</a></sub></td><td align="center" width="33%"><a href="4-v-chonk.jpg"><img src="4-v-chonk.jpg" width="260" alt="Rat Rig V-Chonk picture 4"></a><br><sub>Photo: <a href="https://ratrig.com">Rat Rig</a></sub></td><td align="center" width="33%"><a href="5-v-chonk.jpg"><img src="5-v-chonk.jpg" width="260" alt="Rat Rig V-Chonk picture 5"></a><br><sub>Photo: <a href="https://ratrig.com">Rat Rig</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="6-v-chonk.jpg"><img src="6-v-chonk.jpg" width="260" alt="Rat Rig V-Chonk picture 6"></a><br><sub>Photo: <a href="https://github.com/Rat-Rig">Rat Rig</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20250730041141/https://github.com/Rat-Rig/V-Chonk), 2025-07-30.

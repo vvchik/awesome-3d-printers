@@ -9,7 +9,7 @@
 | Section | Cartesian · Medium (>180 mm on either X/Y axis) |
 | Project page | [https://github.com/lhndo/LH-Stinger](https://github.com/lhndo/LH-Stinger) |
 | Author | LHndo |
-| About | Performance-focused moving-bed design. |
+| About | Performance-focused moving-bed design. R1.0 is the last release, and FYSETC sells an official upgraded [Rev2 kit](https://www.fysetc.com/products/lh-stinger-3d-printer-kit). |
 | Build volume (X×Y×Z) | 235×235×200 |
 | Exterior (W×D×H) | — |
 | Latest version | R1.0<br>[2024-08](https://github.com/lhndo/LH-Stinger/releases/tag/LHS-R1.0) |
@@ -24,3 +24,8 @@
 <tr><td align="center" width="33%"><a href="0-lh-stinger.jpg"><img src="0-lh-stinger.jpg" width="260" alt="LH Stinger picture 0"></a><br><sub>Photo: <a href="https://github.com/lhndo">LHndo</a></sub></td><td align="center" width="33%"><a href="1-lh-stinger.jpg"><img src="1-lh-stinger.jpg" width="260" alt="LH Stinger picture 1"></a><br><sub>Photo: <a href="https://github.com/lhndo">LHndo</a></sub></td><td align="center" width="33%"><a href="2-lh-stinger.jpg"><img src="2-lh-stinger.jpg" width="260" alt="LH Stinger picture 2"></a><br><sub>Photo: <a href="https://github.com/lhndo">LHndo</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-lh-stinger.jpg"><img src="3-lh-stinger.jpg" width="260" alt="LH Stinger picture 3"></a><br><sub>Photo: Luke Ingerman</sub></td><td align="center" width="33%"><a href="4-lh-stinger.jpg"><img src="4-lh-stinger.jpg" width="260" alt="LH Stinger picture 4"></a><br><sub>Photo: <a href="https://github.com/lhndo">LHndo</a></sub></td><td align="center" width="33%"><a href="5-lh-stinger.jpg"><img src="5-lh-stinger.jpg" width="260" alt="LH Stinger picture 5"></a><br><sub>Photo: <a href="https://github.com/lhndo">LHndo</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- [Printables](https://www.printables.com/model/703110-lh-stinger): pointer page with one STL, files on GitHub, CC BY-NC-SA.
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260403121535/https://github.com/lhndo/LH-Stinger/), 2026-04-03.

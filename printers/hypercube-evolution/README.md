@@ -26,3 +26,12 @@
 <tr><td align="center" width="33%"><a href="6-hypercube-evolution.jpg"><img src="6-hypercube-evolution.jpg" width="260" alt="HyperCube Evolution picture 6"></a></td><td align="center" width="33%"><a href="7-hypercube-evolution.jpg"><img src="7-hypercube-evolution.jpg" width="260" alt="HyperCube Evolution picture 7"></a><br><sub>Photo: <a href="https://www.printables.com/@AakaarLab">Aakaar Lab</a></sub></td><td align="center" width="33%"><a href="8-hypercube-evolution.jpg"><img src="8-hypercube-evolution.jpg" width="260" alt="HyperCube Evolution picture 8"></a><br><sub>Photo: <a href="https://www.printables.com/@ArtieH_311835">ArtieH</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="9-hypercube-evolution.jpg"><img src="9-hypercube-evolution.jpg" width="260" alt="HyperCube Evolution picture 9"></a><br><sub>Photo: <a href="https://www.youtube.com/@scott3d506">Scott 3D</a></sub></td><td align="center" width="33%"><a href="10-hypercube-evolution.jpg"><img src="10-hypercube-evolution.jpg" width="260" alt="HyperCube Evolution picture 10"></a><br><sub>Photo: <a href="https://www.thingiverse.com/TunnelVision">TunnelVision</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260911010241/https://www.thingiverse.com/thing:2254103), 2026-09-11.
+
+## Mods and variants
+
+- [HyperCube Evolution 2020](https://www.thingiverse.com/thing:4087259) by longlh: moves the frame to 2020 extrusion with reinforced, captive-nut parts and SketchUp source. CC BY-NC-SA.
+- [HyperCube Evolution FreeCAD](https://github.com/jvegaf/HyperCube-Evolution-FreeCAD) by jvegaf: re-models the design in FreeCAD. Apache-2.0.

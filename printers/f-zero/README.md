@@ -24,3 +24,9 @@
 <tr><td align="center" width="33%"><a href="0-f-zero.jpg"><img src="0-f-zero.jpg" width="260" alt="F-Zero picture 0"></a><br><sub>Photo: <a href="https://github.com/zruncho3d">Zruncho 3D</a></sub></td><td align="center" width="33%"><a href="1-f-zero.jpg"><img src="1-f-zero.jpg" width="260" alt="F-Zero picture 1"></a><br><sub>Photo: <a href="https://github.com/zruncho3d">Zruncho 3D</a></sub></td><td align="center" width="33%"><a href="2-f-zero.jpg"><img src="2-f-zero.jpg" width="260" alt="F-Zero picture 2"></a><br><sub>Photo: <a href="https://github.com/zruncho3d">Zruncho 3D</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-f-zero.jpg"><img src="3-f-zero.jpg" width="260" alt="F-Zero picture 3"></a><br><sub>Photo: <a href="https://github.com/zruncho3d">Zruncho 3D</a></sub></td><td align="center" width="33%"><a href="4-f-zero.jpg"><img src="4-f-zero.jpg" width="260" alt="F-Zero picture 4"></a><br><sub>Photo: <a href="https://www.youtube.com/@zruncho3d">Zruncho 3D</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- [GrabCAD](https://grabcad.com/library/f-zero-cad-1): STEP copy from 2021-10-20 for the web viewer. The author points to GitHub for the latest version. License file included.
+- [Google Docs](https://docs.google.com/document/d/1dm8itefYrLIsCcOQht9sdMzrXE8Jk30s56c9IwtRCkM/edit): assembly instructions and build log. License not stated.
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260226121912/https://github.com/zruncho3d/f-zero), 2026-02-26.

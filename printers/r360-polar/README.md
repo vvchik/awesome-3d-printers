@@ -9,12 +9,12 @@
 | Section | Historical designs |
 | Project page | [https://reprap.org/wiki/R_360](https://reprap.org/wiki/R_360) |
 | Author | RepRap |
-| About | Radial polar motion experiment. One of the few documented open polar printers. |
+| About | Radial polar motion experiment. R-360 Open is a parametric second generation that stayed a work in progress in 2015. One of the few documented open polar printers. |
 | Build volume (X×Y×Z) | Ø210×200 |
 | Exterior (W×D×H) | — |
 | Latest version | CAD<br>[2016-12](https://github.com/kory75/R-360-3D-Printer/commit/bb1308cb728c34756b5bd67819abd588ab218c91) |
 | Stars Likes Views | [⏯️⁠33.3K](https://www.youtube.com/watch?v=lvcS7TT98mA)<br>[❤️⁠178](https://www.youtube.com/watch?v=lvcS7TT98mA) |
-| Links | — |
+| Links | [Files](https://github.com/kory75/R-360-3D-Printer) R-360<br>[CAD](https://github.com/kory75/R-360-Open-3D-Printer) R-360 Open |
 | Groups | [Forum](https://reprap.org/forum/list.php?185) EN |
 | License | [CC BY-SA 3.0](https://github.com/kory75/R-360-3D-Printer/blob/master/README.md) |
 
@@ -23,3 +23,7 @@
 <table>
 <tr><td align="center" width="33%"><a href="0-r360-polar.jpg"><img src="0-r360-polar.jpg" width="260" alt="R-360 Polar picture 0"></a><br><sub>Photo: <a href="https://reprap.org/wiki/User:Replicator_Warehouse">Replicator Warehouse</a></sub></td><td align="center" width="33%"><a href="1-r360-polar.jpg"><img src="1-r360-polar.jpg" width="260" alt="R-360 Polar picture 1"></a><br><sub>Photo: <a href="https://reprap.org/wiki/User:Replicator_Warehouse">Replicator Warehouse</a></sub></td><td align="center" width="33%"><a href="2-r360-polar.jpg"><img src="2-r360-polar.jpg" width="260" alt="R-360 Polar picture 2"></a><br><sub>Photo: <a href="https://reprap.org/wiki/User:Replicator_Warehouse">Replicator Warehouse</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260918061752/https://reprap.org/wiki/R_360), 2026-09-18.

@@ -9,7 +9,7 @@
 | Section | Delta |
 | Project page | [https://github.com/rogerlz/Doron-Velta](https://github.com/rogerlz/Doron-Velta) |
 | Author | rogerlz / DoubleT |
-| About | Enclosed delta in the Voron style. It began as an April Fools joke and is not an official Voron. FYSETC sells a kit. |
+| About | Enclosed delta in the Voron style. It began as an April Fools joke and is not an official Voron. FYSETC sells a kit. No update since 2024-07. |
 | Build volume (X×Y×Z) | Ø200×165 |
 | Exterior (W×D×H) | — |
 | Latest version | R2<br>[2024-07](https://github.com/rogerlz/Doron-Velta#changelog) |
@@ -24,3 +24,8 @@
 <tr><td align="center" width="33%"><a href="0-doron-velta.jpg"><img src="0-doron-velta.jpg" width="260" alt="Doron Velta picture 0"></a><br><sub>Photo: <a href="https://www.3dprintersonlinestore.com/">3dprintersonlinestore/FYSETC</a></sub></td><td align="center" width="33%"><a href="1-doron-velta.jpg"><img src="1-doron-velta.jpg" width="260" alt="Doron Velta picture 1"></a><br><sub>Photo: <a href="https://github.com/rogerlz">rogerlz</a></sub></td><td align="center" width="33%"><a href="2-doron-velta.jpg"><img src="2-doron-velta.jpg" width="260" alt="Doron Velta picture 2"></a><br><sub>Photo: <a href="https://github.com/rogerlz">rogerlz</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-doron-velta.jpg"><img src="3-doron-velta.jpg" width="260" alt="Doron Velta picture 3"></a></td><td align="center" width="33%"><a href="4-doron-velta.jpg"><img src="4-doron-velta.jpg" width="260" alt="Doron Velta picture 4"></a></td></tr>
 </table>
+
+## Other homes of the files
+
+- [GitHub](https://github.com/Fabreeko/Doron-Velta): R2 STEP and FreeCAD assembly dated 2024-09-01, reoriented STLs, and an OrcaSlicer project. GPL-3.0. (re-upload by Fabreeko)
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20251002142955/https://github.com/rogerlz/Doron-Velta), 2025-10-02.

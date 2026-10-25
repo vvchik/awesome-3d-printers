@@ -15,12 +15,18 @@
 | Exterior (W×D×H) | — |
 | Latest version | Files<br>[2023-12](https://www.printables.com/model/581766-infini-z-3d-printer) |
 | Stars Likes Views | [💙⁠240](https://www.thingiverse.com/thing:6217366)<br>[🧡⁠844](https://www.printables.com/model/581766)<br>[💛⁠33](https://cults3d.com/en/3d-model/tool/infini-z-3d-printer)<br>[⏯️⁠1.5M](https://www.youtube.com/watch?v=Ek_7tBOCcAI)<br>[❤️⁠46K](https://www.youtube.com/watch?v=Ek_7tBOCcAI) |
-| Links | [Files](https://cults3d.com/en/3d-model/tool/infini-z-3d-printer) |
+| Links | [Files](https://www.printables.com/model/581766-infini-z-3d-printer/files) |
 | Groups | — |
-| License | [CC0 1.0](https://www.printables.com/model/581766-infini-z-3d-printer) |
+| License | [CC0 1.0 (Printables), CC BY 4.0 (Thingiverse)](https://www.printables.com/model/581766-infini-z-3d-printer) |
 
 ## Pictures (3)
 
 <table>
 <tr><td align="center" width="33%"><a href="0-infini-z.jpg"><img src="0-infini-z.jpg" width="260" alt="Infini-Z picture 0"></a><br><sub>Photo: <a href="https://www.printables.com/@SunShine">SunShine</a></sub></td><td align="center" width="33%"><a href="1-infini-z.jpg"><img src="1-infini-z.jpg" width="260" alt="Infini-Z picture 1"></a><br><sub>Photo: <a href="https://www.thingiverse.com/Turbo_SunShine">Turbo_SunShine</a></sub></td><td align="center" width="33%"><a href="2-infini-z.jpg"><img src="2-infini-z.jpg" width="260" alt="Infini-Z picture 2"></a><br><sub>Photo: <a href="https://www.printables.com/@Inspir0n">Inspir0n</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- [Thingiverse](https://www.thingiverse.com/thing:6217366): STL, STEP and Fusion f3z. CC BY 4.0.
+- [Printables, FreeCAD port](https://www.printables.com/model/653131-infini-z-3d-printer-assembly-for-freecad): FreeCAD and IGES port of the assembly (re-upload by BECOME). CC0.
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260220042610/https://projectquine.substack.com/p/the-first-infini-z), 2026-02-20.

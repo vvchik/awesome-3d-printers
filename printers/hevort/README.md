@@ -16,7 +16,7 @@
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/MirageC79/HevORT?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/MirageC79/HevORT)<br>[💙⁠925](https://www.thingiverse.com/thing:3532039)<br>[⏯️⁠728K](https://www.youtube.com/watch?v=ibsBiALMMSE)<br>[❤️⁠10.1K](https://www.youtube.com/watch?v=ibsBiALMMSE) |
 | Links | [Manual](https://github.com/MirageC79/HevORT/tree/HEAD/docs)<br>[BOM](https://github.com/MirageC79/HevORT/tree/HEAD/bom) |
 | Groups | [Facebook](https://www.facebook.com/groups/hevort) EN 6.6K<br>[Discord](https://discord.gg/nCYRQAZPWV) EN 3.8K |
-| License | [CC BY-NC 4.0](https://github.com/MirageC79/HevORT/blob/master/LICENSE.md) |
+| License | [CC BY-NC 4.0 (GitHub LICENSE.md, Thingiverse), GPL-3.0 (GitHub LICENSE)](https://github.com/MirageC79/HevORT/blob/master/LICENSE.md) |
 
 ## Pictures (10)
 
@@ -26,3 +26,15 @@
 <tr><td align="center" width="33%"><a href="6-hevort.jpg"><img src="6-hevort.jpg" width="260" alt="HevORT picture 6"></a><br><sub>Photo: <a href="https://github.com/MirageC79">MirageC79</a></sub></td><td align="center" width="33%"><a href="7-hevort.jpg"><img src="7-hevort.jpg" width="260" alt="HevORT picture 7"></a><br><sub>Photo: <a href="https://www.thingiverse.com/MirageC">MirageC</a></sub></td><td align="center" width="33%"><a href="8-hevort.jpg"><img src="8-hevort.jpg" width="260" alt="HevORT picture 8"></a><br><sub>Photo: <a href="https://www.printables.com/@Mike_wth_128018">Mike_wth</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="9-hevort.jpg"><img src="9-hevort.jpg" width="260" alt="HevORT picture 9"></a><br><sub>Photo: <a href="https://www.youtube.com/@Ilja_85">My engineering noodles</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- [HevORT docs](https://docs.hevort.com/): build guide and component options, built from the GitHub repo.
+- [Thingiverse](https://www.thingiverse.com/thing:3532039): 1 file and photos, points to hevort.com. CC BY-NC 4.0.
+- [GrabCAD](https://grabcad.com/library/hevort-xy-axis-hypercube-3d-printer-corexy-1): HevORT XY axis V1 as a Fusion 360 file, 2019-08. No license shown.
+- [GrabCAD](https://grabcad.com/library/hevort-zr-z-axis-1): HevORT ZR Z axis V1 as a Fusion 360 file with renders, 2020-02. No license shown.
+- Wayback Machine: [latest snapshot](http://web.archive.org/web/20260223062856/https://github.com/MirageC79/HevORT), 2026-02-23.
+
+## Mods and variants
+
+- [HevORT lite](https://github.com/ChipCE/HevORT-lite) by ChipCE: smaller, lower-cost frame with the HevORT XY axis, two Z lead screws, and a Prusa Mini bed. The author replaced it with SnakeOil-XY. GPL-3.0.

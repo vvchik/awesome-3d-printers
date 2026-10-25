@@ -24,3 +24,7 @@
 <tr><td align="center" width="33%"><a href="0-phoenix-delta.jpg"><img src="0-phoenix-delta.jpg" width="260" alt="PhoenixDelta picture 0"></a><br><sub>Photo: <a href="https://www.youtube.com/@GearheadCreations">Gearhead Creations</a></sub></td><td align="center" width="33%"><a href="1-phoenix-delta.jpg"><img src="1-phoenix-delta.jpg" width="260" alt="PhoenixDelta picture 1"></a><br><sub>Photo: <a href="https://www.youtube.com/@GearheadCreations">Gearhead Creations</a></sub></td><td align="center" width="33%"><a href="2-phoenix-delta.jpg"><img src="2-phoenix-delta.jpg" width="260" alt="PhoenixDelta picture 2"></a><br><sub>Photo: <a href="https://www.youtube.com/@GearheadCreations">Gearhead Creations</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-phoenix-delta.jpg"><img src="3-phoenix-delta.jpg" width="260" alt="PhoenixDelta picture 3"></a><br><sub>Photo: <a href="https://www.youtube.com/@GearheadCreations">Gearhead Creations</a></sub></td><td align="center" width="33%"><a href="4-phoenix-delta.jpg"><img src="4-phoenix-delta.jpg" width="260" alt="PhoenixDelta picture 4"></a><br><sub>Photo: <a href="https://www.youtube.com/@mitsumakes">Mitsu Makes</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20261004074248/https://github.com/rolohaun/PhoenixDelta), 2026-10-04.

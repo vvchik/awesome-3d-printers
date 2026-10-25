@@ -23,3 +23,7 @@
 <table>
 <tr><td align="center" width="33%"><a href="0-double-dragon.jpg"><img src="0-double-dragon.jpg" width="260" alt="Double Dragon picture 0"></a><br><sub>Photo: <a href="https://github.com/zruncho3d">Zruncho 3D</a></sub></td><td align="center" width="33%"><a href="1-double-dragon.jpg"><img src="1-double-dragon.jpg" width="260" alt="Double Dragon picture 1"></a><br><sub>Photo: <a href="https://github.com/zruncho3d">Zruncho 3D</a></sub></td><td align="center" width="33%"><a href="2-double-dragon.jpg"><img src="2-double-dragon.jpg" width="260" alt="Double Dragon picture 2"></a><br><sub>Photo: <a href="https://github.com/zruncho3d">Zruncho 3D</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20251225145434/https://github.com/zruncho3d/double-dragon), 2025-12-25.

@@ -24,3 +24,7 @@
 <tr><td align="center" width="33%"><a href="0-foldarapx.jpg"><img src="0-foldarapx.jpg" width="260" alt="FoldaRapX picture 0"></a><br><sub>Photo: <a href="https://reprap.org/wiki/User:Emmanuel">Emmanuel Gilloz</a></sub></td><td align="center" width="33%"><a href="1-foldarapx.jpg"><img src="1-foldarapx.jpg" width="260" alt="FoldaRapX picture 1"></a><br><sub>Photo: <a href="https://reprap.org/wiki/User:Emmanuel">Emmanuel Gilloz</a></sub></td><td align="center" width="33%"><a href="2-foldarapx.jpg"><img src="2-foldarapx.jpg" width="260" alt="FoldaRapX picture 2"></a><br><sub>Photo: <a href="https://reprap.org/wiki/User:Emmanuel">Emmanuel Gilloz</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-foldarapx.jpg"><img src="3-foldarapx.jpg" width="260" alt="FoldaRapX picture 3"></a><br><sub>Photo: <a href="https://reprap.org/wiki/User:Emmanuel">Emmanuel Gilloz</a></sub></td><td align="center" width="33%"><a href="4-foldarapx.jpg"><img src="4-foldarapx.jpg" width="260" alt="FoldaRapX picture 4"></a><br><sub>Photo: <a href="https://reprap.org/wiki/User:Emmanuel">Emmanuel Gilloz</a></sub></td><td align="center" width="33%"><a href="5-foldarapx.jpg"><img src="5-foldarapx.jpg" width="260" alt="FoldaRapX picture 5"></a><br><sub>Photo: <a href="https://reprap.org/wiki/User:Emmanuel">Emmanuel Gilloz</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260310062924/https://reprap.org/wiki/FoldaRapX), 2026-03-10.

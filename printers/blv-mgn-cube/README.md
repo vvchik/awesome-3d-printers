@@ -25,3 +25,9 @@
 <tr><td align="center" width="33%"><a href="3-blv-mgn-cube.jpg"><img src="3-blv-mgn-cube.jpg" width="260" alt="BLV MGN Cube picture 3"></a><br><sub>Photo: <a href="https://www.printables.com/@BenLeviBLV">Ben Levi (BLV)</a></sub></td><td align="center" width="33%"><a href="4-blv-mgn-cube.jpg"><img src="4-blv-mgn-cube.jpg" width="260" alt="BLV MGN Cube picture 4"></a><br><sub>Photo: <a href="https://github.com/FYSETC">FYSETC</a></sub></td><td align="center" width="33%"><a href="5-blv-mgn-cube.jpg"><img src="5-blv-mgn-cube.jpg" width="260" alt="BLV MGN Cube picture 5"></a><br><sub>Photo: <a href="https://github.com/FYSETC">FYSETC</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="6-blv-mgn-cube.jpg"><img src="6-blv-mgn-cube.jpg" width="260" alt="BLV MGN Cube picture 6"></a><br><sub>Photo: <a href="https://github.com/FYSETC">FYSETC</a></sub></td><td align="center" width="33%"><a href="7-blv-mgn-cube.jpg"><img src="7-blv-mgn-cube.jpg" width="260" alt="BLV MGN Cube picture 7"></a><br><sub>Photo: <a href="https://github.com/FYSETC">FYSETC</a></sub></td><td align="center" width="33%"><a href="8-blv-mgn-cube.jpg"><img src="8-blv-mgn-cube.jpg" width="260" alt="BLV MGN Cube picture 8"></a><br><sub>Photo: <a href="https://cults3d.com/en/users/antunisac">antunisac</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- [Printables](https://www.printables.com/model/46738-blv-mgn-cube-3d-printer-by-ben-levi): full STEP assembly, carriage STEP and STL, uploaded 2020-11. CC BY-NC-SA.
+- [GitHub, FYSETC](https://github.com/FYSETC/FYSETC-BLV-MGN-CUBE): STL, docs and firmware for the FYSETC kit version (re-upload by FYSETC). No license file.
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260907170126/https://www.thingiverse.com/thing:3382718), 2026-09-07.

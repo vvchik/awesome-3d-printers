@@ -26,3 +26,7 @@
 <tr><td align="center" width="33%"><a href="6-fusebox3.jpg"><img src="6-fusebox3.jpg" width="260" alt="FuseBox3 picture 6"></a><br><sub>Photo: <a href="https://github.com/alexyu132">Alex Yu</a></sub></td><td align="center" width="33%"><a href="7-fusebox3.jpg"><img src="7-fusebox3.jpg" width="260" alt="FuseBox3 picture 7"></a><br><sub>Photo: <a href="https://github.com/alexyu132">Alex Yu</a></sub></td><td align="center" width="33%"><a href="8-fusebox3.jpg"><img src="8-fusebox3.jpg" width="260" alt="FuseBox3 picture 8"></a><br><sub>Photo: <a href="https://github.com/alexyu132">Alex Yu</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="9-fusebox3.jpg"><img src="9-fusebox3.jpg" width="260" alt="FuseBox3 picture 9"></a><br><sub>Photo: <a href="https://www.youtube.com/@AYMakes">Alex Yu</a></sub></td></tr>
 </table>
+
+## Other homes of the files
+
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20240214215723/https://github.com/alexyu132/fusebox3), 2024-02-14.
