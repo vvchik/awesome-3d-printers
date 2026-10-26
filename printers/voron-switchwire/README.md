@@ -30,3 +30,18 @@
 
 - [voron.zip](https://voron.zip/done/VSW.zip): official release download of the Switchwire files, and the [manual PDF](https://voron.zip/web/viewer.html?file=manuals/Assembly_Manual_SW.pdf). License not stated on the page.
 - Wayback Machine: [latest snapshot](https://web.archive.org/web/20260517143743/https://github.com/VoronDesign/Voron-Switchwire), 2026-05-17.
+
+## Popular mods
+
+- [VoronUsers](https://github.com/VoronDesign/VoronUsers) by Voron community: official collection of community mods, sorted by printer and author. GPL-3.0.
+- [ERCF v2 (Enraged Rabbit Carrot Feeder)](https://github.com/Carrot-collective/ERCF_v2) by Carrot Collective (original ERCF by Ette): multi-material unit that selects one of many filaments and feeds it to a single direct-drive toolhead. GPL-3.0.
+- [Klicky Probe](https://github.com/jlas1/Klicky-Probe) by jlas1: magnetic microswitch Z probe that the toolhead picks up from a dock before probing and returns after. GPL-3.0.
+- [Dragon Burner and Rapid Burner toolheads](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner) by chirpy2605: compact toolheads with twin 4010 part-cooling blowers, built for the V0.2 and mounted on the larger Vorons with adapter plates. GPL-3.0.
+- [Galileo 2](https://github.com/JaredC01/Galileo2) by JaredC01: 9:1 planetary drop-in extruder for the Stealthburner (G2E), plus planetary Z drives (G2Z) for V2-style printers. GPL-3.0.
+- [Filametrix](https://www.printables.com/model/638605-filametrix-mmuercf-filament-cutter-voron) by sorted: lever filament cutter built into the Stealthburner extruder body, used for faster MMU and ERCF swaps. GPL-3.0.
+- [Quickdraw Probe](https://github.com/Annex-Engineering/Quickdraw_Probe) by Annex Engineering: solderless magnetic dockable Z probe with automatic dock and undock macros. ANNEX Engineering License, non-commercial.
+- [Switchwire Mantis 5015 Toolhead](https://www.printables.com/model/669091-voron-switchwire-mantis-5015-toolhead) by PrintStructor: mantis toolhead with a 5015 part-cooling fan adapted to the Switchwire X carriage. CC BY-NC-SA 4.0.
+- [Switchwire Tap Mount](https://www.printables.com/model/343668-voron-switchwire-tap-mount) by Turge: adapter that mounts Voron Tap on the Switchwire X axis. GPL-3.0.
+- [Switchwire Double Shear Motor Mount](https://www.printables.com/model/1013691-voron-switchwire-double-shear-motor-mount) by nhchiu: XZ motor mounts that support the pulley shaft on both sides to stop motor shaft flex. GPL-3.0.
+- [Switchwire Y Tensioner Mod](https://www.printables.com/model/387081-voron-switchwire-y-tensioner-mod) by RobotRogue: screw tensioner for the Y belt idler. CC BY-NC-ND 4.0.
+- [Stealthburner CR Touch Mod for Switchwire](https://www.printables.com/model/260473-voron-stealthburner-cr-touch-mod-for-switchwire-to) by prasadp4009: tool-less mount for a CR Touch probe on the Switchwire Stealthburner carriage. CC BY-NC 4.0 (Printables); MIT (GitHub prasadp4009/SW_SB_CRTouch).

@@ -41,3 +41,16 @@
 - Wayback Machine, latest snapshot of each repository:
   - [VzBoT-Vz330](https://web.archive.org/web/20260216085502/https://github.com/VzBoT3D/VzBoT-Vz330) 2026-02-16
   - [VzBoT-Vz235](https://web.archive.org/web/20251129081006/https://github.com/VzBoT3D/VzBoT-Vz235) 2025-11-29
+
+## Popular mods
+
+- [VzBoT UserMods](https://github.com/VzBoT3D/VzBoT-UserMods) by VzBoT3D community: official collection of community mods: printhead variants, extruder mounts, tophat, screens, endstops and more. License not stated.
+- [VZ-Bot Frame Brace with 2020 profile](https://www.printables.com/model/413674-vz-bot-frame-brace-with-2020-profile) by Aldoale: frame reinforcement from a 10 cm 2020 profile and two printed ABS parts. CC BY-NC-SA 4.0.
+- [CPAP Muffler for Vz-Bot 330](https://www.printables.com/model/561659-cpap-muffler-for-vz-bot-330) by Aldoale: muffler for the CPAP blower, adapted from the Vz235 original. CC BY-NC-SA 4.0.
+- [VzBot fan ducts for Klicky and Quickdraw probes](https://www.printables.com/model/332141-contribution-to-the-various-vzbot-fanduct-systems-) by Nanodesigner: fan duct variants for the VzBot printhead that fit Klicky and Annex Quickdraw probes. CC BY-NC 4.0.
+- [EBB36 VZBOT VZ235 VZ330 MOUNT - NEW BEACON DUCT](https://www.printables.com/model/766767-ebb36-vzbot-vz235-vz330-mount-new-beacon-duct) by Marcin Miszewski: BTT EBB36 toolboard mount and a Beacon probe duct for the printhead. CC BY-NC 4.0.
+- [Magneto Filament Cutter](https://github.com/Treintjes/Magneto_Filament_Cutter) by Treintjes: filament cutter that replaces the VzBot printhead adapter plate and adds 2 mm to hotend length. CC BY-NC 4.0.
+- [Custom VZBot printhead](https://www.printables.com/model/251402-custom-vzbot-printhead) by Ujang Karnadi: printed printhead remixed from EVA with the features of the aluminium VzBot printhead. CC BY 4.0.
+- [VZBot 235 Top Hat 125mm Tall](https://www.printables.com/model/840109-vzbot-235-top-hat-125mm-tall) by RedGT500: 125 mm top hat that gives clearance for the CPAP and harness. CC BY-SA 4.0.
+- [EBB36 CanBus Board Mount for VZBot Printhead CNC V2](https://www.printables.com/model/418831-ebb36-canbus-board-mount-for-vzbot-printhead-cnc-v) by Krzysztof Nowak: BTT EBB36 CAN toolboard mount for the CNC printhead V2. GPL-2.0.
+- [Vz-Bot Printhead Rapido Heatsink Duct 3010 Fan](https://www.printables.com/model/496217-vz-bot-printhead-rapido-heatsink-duct-3010-fan) by Aldoale: heatsink duct with a 3010 fan for a Rapido hotend on the printhead. CC BY-NC-SA 4.0.

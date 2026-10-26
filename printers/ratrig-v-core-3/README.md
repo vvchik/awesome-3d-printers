@@ -40,3 +40,18 @@
 ## Mods and variants
 
 - [V-Core 3.1 IDEX](https://lab.ratrig.com/vc31_idex/) by Rat Rig: prototype IDEX with dual Markforged kinematics, also as a [wide](https://lab.ratrig.com/vc31_idex_wide/) version. CC BY-NC-SA 4.0.
+
+## Popular mods
+
+- [VzBot Frame Brace for 3030 Extrusions](https://www.printables.com/model/377984-vzbot-frame-brace-for-3030-extrusions) by D!nu: corner braces adapted from the VzBot design for 3030 frames, in short, medium and long versions. CC BY-NC 4.0.
+- [RatRig VCore 3 Tool Changer](https://www.printables.com/model/137147-ratrig-vcore-3-tool-changer) by psyvision: tool changer with an E3D-style coupling. GPL-3.0.
+- [V-Core 3.1 - ABS Optimised Parts](https://www.printables.com/model/241373-v-core-31-abs-optimised-parts) by Adam - Vector 3D: re-designed printed parts that are easier to print in ABS. CC BY-NC-SA 4.0.
+- [RatRig V-Core WS7040 CPAP Fan Shelf Mount](https://www.printables.com/model/354374-ratrig-v-core-ws7040-cpap-fan-shelf-mount) by Dan Cernogorsky: shelf assembly that mounts a WS7040 CPAP blower for part cooling. CC BY-NC 4.0.
+- [V-Core 3 motor mounts (aka FMMM)](https://www.printables.com/model/306266-v-core-3-motor-mounts-aka-fmmm) by RaYa: full Metal Motor Mount: metal plates replace the printed XY motor cages. CC BY-NC 4.0.
+- [Open front belt tension mod for Ratrig Vcore 3.1 enclosure version.](https://www.printables.com/model/524976-open-front-belt-tension-mod-for-ratrig-vcore-31-en) by Kenneth McCullough: open-front belt tensioners for the enclosed version. CC BY-NC-SA 4.0.
+- [RatRig v-core 3 extrusionless x-gantry mod](https://www.printables.com/model/230716-ratrig-v-core-3-extrusionless-x-gantry-mod) by elcojacobs: removes the aluminium extrusion from the X gantry and runs on one rail or two bolted rails. CC BY 4.0.
+- [VZBOT Printhead for MGN12C VCORE3 CPAP](https://www.printables.com/model/467821-vzbot-printhead-for-mgn12c-vcore3-cpap) by WiggyWooSaa: vzBot-style hotend assembly on an MGN12C carriage with CPAP cooling. CC BY-NC-SA 4.0.
+- [V-Core 3.1 Decoupled AWD/Quad Motor Mod (Open Front compatible)](https://www.printables.com/model/263645-v-core-31-decoupled-awdquad-motor-mod-open-front-c) by NecroDavid: decoupled four-motor AWD drive for the XY belts. CC BY-NC 4.0.
+- [V-Core 3 Bistable Enclosure Lift](https://www.printables.com/model/199550-v-core-3-bistable-enclosure-lift) by ZEBaker98: bistable lever lift for the enclosure lid with gas struts. CC BY-SA 4.0.
+- [Full Frontal Gantry mod for Rat Rig V-Core](https://www.printables.com/model/1368881-full-frontal-gantry-mod-for-rat-rig-v-core) by MFBS Design: full Frontal X gantry with ultralight print heads such as Dragon Ace and Rapido. CC BY-NC-SA 4.0.
+- [V-Core 3 Vector 3D Edition](https://github.com/AdamV3D/V-Core-3-Vector3DEdition) by AdamV3D (Vector 3D): re-designed printed parts for the V-Core 3/3.1, EVA 2 and Enclosure 2.0 that print better in ABS. License not stated.

@@ -28,3 +28,21 @@
 ## Other homes of the files
 
 - Wayback Machine: [latest snapshot](http://web.archive.org/web/20260308061133/https://github.com/Creality3DPrinting/CR-10), 2026-03-08.
+
+## Popular mods
+
+- [Petsfang / Bullseye duct](https://www.thingiverse.com/thing:2759439) by dpetsel: modular part-cooling duct and hotend base for the 5015 or stock blower, with BLTouch and EZABL mounts and stock, Micro Swiss, E3D V6 and Volcano hotend options. CC BY-NC-ND 4.0.
+- [CR-10 Heavy Duty modular E3D V6 mount](https://www.thingiverse.com/thing:2494642) by chito: modular E3D V6 or Volcano carriage mount with 5015 cooling and probe options. CC BY-NC 4.0.
+- [CR-10 Fan Mod - Airflow Optimization](https://www.thingiverse.com/thing:2814127) by Gabriel3DCaster: redesigned stock-hotend fan shroud that aims the part-cooling air at the nozzle. CC BY-NC-SA 4.0.
+- [CR-10 Mod - X axis Tensioner](https://www.thingiverse.com/thing:2854971) by Cornely_Cool: screw tensioner for the X belt that mounts at the idler end of the gantry. CC BY-NC-SA 4.0.
+- [Quick tool change for Creality CR-10 / Ender series](https://www.thingiverse.com/thing:3369444) by ProperPrinting: quick-swap tool holder on the X carriage, first made to mount a laser engraving head. CC BY-SA 4.0.
+- [CR-10 / Ender 3 Direct Drivinator](https://www.thingiverse.com/thing:3589452) by Madau3D: direct-drive bracket that puts the stock extruder on the X carriage, released with source files. GPL-3.0.
+- [Flexible Filament Extruder Upgrade](https://www.thingiverse.com/thing:2144277) by joshvv: PTFE insert for the stock extruder that closes the gap where TPU jams. CC BY 4.0.
+- [Belt Driven Ender 3](https://github.com/kevinakasam/BeltDrivenEnder3) by KevinAkaSam: replaces the Z lead screw with a Voron-style belt drive, on stock V-wheels or MGN12H rails, with a dual-Z variant. GPL-3.0.
+- [Hero Me Gen7](https://www.printables.com/model/39322-hero-me-gen7-platform-release4) by MediaMan3D: modular printhead platform: part-cooling ducts plus mounts for many hotends, extruders and bed probes. CC BY-NC-SA 4.0.
+- [BLTouch/3DTouch guide for Creality printers](https://www.thingiverse.com/thing:2975949) by dannyw281: BLTouch or 3DTouch probe guide with printed mounts, wiring and firmware notes. CC BY-NC-ND 4.0.
+- [Creality CR-10 Z axis cable drag chain](https://www.thingiverse.com/thing:2757810) by stevenfayers: cable drag chain for the Z-axis and hotend wiring. CC BY 4.0.
+- [Hydra Fan Duct & Tool Change System](https://www.thingiverse.com/thing:4062242) by BoothyBoothy: modular part-cooling duct and quick tool-change carriage system. CC BY 4.0.
+- [CR-10 Ultimate Leveling Knob Attachment](https://www.thingiverse.com/thing:2408748) by Valstrath: large printed knobs for the bed-leveling screws. CC BY 4.0.
+- [Frame Braces for Creality CR-10, Tevo Tornado, and Afinibot A31](https://www.thingiverse.com/thing:2123233) by Mk42Workshop: printed diagonal braces that tie the upright frame to the base. CC BY-NC 4.0.
+- [Extended Extruder Arm for Creality printers](https://www.thingiverse.com/thing:2492903) by Coolcrawler_: longer extruder lever arm for the stock extruder. CC BY-NC-SA 4.0.
