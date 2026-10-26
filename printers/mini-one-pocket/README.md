@@ -14,7 +14,7 @@
 | Exterior (W×D×H) | — |
 | Latest version | Files<br>[2024-12](https://makerworld.com/en/models/903275) |
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/mossbot-MG/mini-one-pocket-3D-printer-firmware?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/mossbot-MG/mini-one-pocket-3D-printer-firmware)<br>[💙⁠2.2K](https://www.thingiverse.com/thing:3749961)<br>[💚⁠7.8K](https://makerworld.com/en/models/903275) |
-| Links | [CAD](https://grabcad.com/library/mini-one-pocket-3d-printer-1)<br>[STL](https://www.thingiverse.com/thing:3749961/files)<br>[Manual](https://makerworld.com/en/models/903275)<br>[Firmware](https://github.com/mossbot-MG/mini-one-pocket-3D-printer-firmware) |
+| Links | [CAD](https://grabcad.com/library/mini-one-pocket-3d-printer-1)<br>[STL](https://www.thingiverse.com/thing:3749961/files)<br>[Manual](https://makerworld.com/en/models/903275)<br>[FW](https://github.com/mossbot-MG/mini-one-pocket-3D-printer-firmware) |
 | Groups | — |
 | License | [CC BY-NC-SA 4.0 (Thingiverse), Standard Digital File License (MakerWorld)](https://www.thingiverse.com/thing:3749961) |
 

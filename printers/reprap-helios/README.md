@@ -14,7 +14,7 @@
 | Exterior (W×D×H) | — |
 | Latest version | CAD<br>[2017-05](https://github.com/NicholasSeward/proto_RepRap_HELIOS/commit/c704cb023661720901c8685f7688f451f7705a44) |
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/NicholasSeward/proto_RepRap_HELIOS?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/NicholasSeward/proto_RepRap_HELIOS)<br>[⏯️⁠47.8K](https://www.youtube.com/watch?v=CJ2F-YjHe2k)<br>[❤️⁠841](https://www.youtube.com/watch?v=CJ2F-YjHe2k) |
-| Links | [CAD](https://github.com/NicholasSeward/proto_RepRap_HELIOS/tree/master)<br>[Firmware](https://github.com/NicholasSeward/proto_RepRap_HELIOS/tree/master/Smootieware)<br>[Config](https://github.com/NicholasSeward/proto_RepRap_HELIOS/blob/master/assets/config.txt)<br>[Video](https://www.youtube.com/watch?v=CJ2F-YjHe2k) |
+| Links | [CAD](https://github.com/NicholasSeward/proto_RepRap_HELIOS/tree/master)<br>[FW](https://github.com/NicholasSeward/proto_RepRap_HELIOS/tree/master/Smootieware)<br>[Config](https://github.com/NicholasSeward/proto_RepRap_HELIOS/blob/master/assets/config.txt)<br>[Video](https://www.youtube.com/watch?v=CJ2F-YjHe2k) |
 | Groups | [Forum](https://reprap.org/forum/list.php?185) EN |
 | License | [not stated](https://github.com/NicholasSeward/proto_RepRap_HELIOS) |
 

@@ -14,7 +14,7 @@
 | Exterior (W×D×H) | — |
 | Latest version | CAD<br>[2015-10](https://github.com/campy/UlticampyV3/commit/ebac48152278c8273b3421cc69940f300ca900f8) |
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/campy/UlticampyV3?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/campy/UlticampyV3)<br>[💙⁠196](https://www.thingiverse.com/thing:640166)<br>[⏯️⁠12.7K](https://www.youtube.com/watch?v=YYdzM99KZmc)<br>[❤️⁠15](https://www.youtube.com/watch?v=YYdzM99KZmc) |
-| Links | [Files](https://github.com/campy/UlticampyV3)<br>[STL](https://github.com/campy/UlticampyV3/tree/master/STL%20Printer%20parts)<br>[Firmware](https://github.com/campy/UlticampyV3/tree/master/Frimware%20Ulticampy%20V3)<br>[V2](https://github.com/campy/Ulticampy-V2)<br>[V1](https://github.com/campy/Ulticampy-V1) |
+| Links | [Files](https://github.com/campy/UlticampyV3)<br>[STL](https://github.com/campy/UlticampyV3/tree/master/STL%20Printer%20parts)<br>[FW](https://github.com/campy/UlticampyV3/tree/master/Frimware%20Ulticampy%20V3)<br>[V2](https://github.com/campy/Ulticampy-V2)<br>[V1](https://github.com/campy/Ulticampy-V1) |
 | Groups | — |
 | License | [CC BY-SA 4.0 (Thingiverse), CC BY-NC-SA (RepRap wiki)](https://www.thingiverse.com/thing:640166) |
 

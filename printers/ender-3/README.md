@@ -14,7 +14,7 @@
 | Exterior (W×D×H) | 440×410×465 |
 | Latest version | CAD<br>[2018-06](https://github.com/Creality3DPrinting/Ender-3/commit/c94ec770d9ebf4795b31d178da24e0c77cc77167) |
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/Creality3DPrinting/Ender-3?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/Creality3DPrinting/Ender-3)<br>[⏯️⁠319K](https://www.youtube.com/watch?v=yxkwERZXfaQ)<br>[❤️⁠3.5K](https://www.youtube.com/watch?v=yxkwERZXfaQ) |
-| Links | [CAD](https://github.com/Creality3DPrinting/Ender-3/tree/master/Ender-3%20Mechanical)<br>[Firmware](https://github.com/Creality3DPrinting/Ender-3/tree/master/Ender-3%20Firmware%20%28Marlin%29) |
+| Links | [CAD](https://github.com/Creality3DPrinting/Ender-3/tree/master/Ender-3%20Mechanical)<br>[FW](https://github.com/Creality3DPrinting/Ender-3/tree/master/Ender-3%20Firmware%20%28Marlin%29) |
 | Groups | [Facebook](https://www.facebook.com/groups/ender3ender3procreality) EN 113K<br>[Discord](https://discord.com/invite/creality) EN 25K<br>[Reddit](https://www.reddit.com/r/ender3/) EN 257K<br>[Telegram](https://t.me/Ender3Spain) ES 5.4K<br>[Reddit](https://www.reddit.com/r/Creality/) EN 76.4K<br>[Telegram](https://t.me/crealitybr) PT 737 |
 | License | [GPL-3.0](https://github.com/Creality3DPrinting/Ender-3/blob/master/LICENSE) |
 

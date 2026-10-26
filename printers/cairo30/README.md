@@ -14,7 +14,7 @@
 | Exterior (W×D×H) | — |
 | Latest version | Files<br>[2023-01](https://makesomestuff.org/cairo30-3d-printer/) |
 | Stars Likes Views | [💙⁠2](https://www.thingiverse.com/thing:5832418)<br>[⏯️⁠1.3K](https://www.youtube.com/watch?v=MpDkiP7E44c)<br>[❤️⁠18](https://www.youtube.com/watch?v=MpDkiP7E44c) |
-| Links | [STEP](https://grabcad.com/library/cairo30-3d-printer-1)<br>[STL](https://makesomestuff.org/wp-content/uploads/2022/12/Cairo30_STLs.zip)<br>[Files](https://makesomestuff.org/wp-content/uploads/2022/12/Cairo30_DXFs.zip)<br>[BOM](https://docs.google.com/spreadsheets/d/11ssOeSZUKrPMiOd8EV-hkTQURSHo0WZH6QxySQ_BI0A/edit)<br>[Manual](https://makesomestuff.org/cairo30-3d-printer-building-the-structure/)<br>[Firmware](https://makesomestuff.org/wp-content/uploads/2022/12/Marlin-bugfix-2.0.x_Cairo30.zip) |
+| Links | [STEP](https://grabcad.com/library/cairo30-3d-printer-1)<br>[STL](https://makesomestuff.org/wp-content/uploads/2022/12/Cairo30_STLs.zip)<br>[Files](https://makesomestuff.org/wp-content/uploads/2022/12/Cairo30_DXFs.zip)<br>[BOM](https://docs.google.com/spreadsheets/d/11ssOeSZUKrPMiOd8EV-hkTQURSHo0WZH6QxySQ_BI0A/edit)<br>[Manual](https://makesomestuff.org/cairo30-3d-printer-building-the-structure/)<br>[FW](https://makesomestuff.org/wp-content/uploads/2022/12/Marlin-bugfix-2.0.x_Cairo30.zip) |
 | Groups | [Facebook](https://www.facebook.com/groups/2085101554986922/) EN |
 | License | [CERN-OHL-P-2.0 hardware, GPL-3.0 software, CC BY-SA 4.0 docs (project page), CC BY-SA 4.0 (Thingiverse), GPL (RepRap wiki)](https://makesomestuff.org/cairo30-3d-printer/) |
 

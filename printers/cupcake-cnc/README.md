@@ -14,7 +14,7 @@
 | Exterior (W×D×H) | 350×240×450 |
 | Latest version | Batch 5<br>[2009-11](https://code.google.com/archive/p/makerbot/downloads) |
 | Stars Likes Views | [💙⁠633](https://www.thingiverse.com/thing:457)<br>[⏯️⁠1.9K](https://www.youtube.com/watch?v=4jPKEJ5hQuI)<br>[❤️⁠14](https://www.youtube.com/watch?v=4jPKEJ5hQuI) |
-| Links | [Files](https://www.thingiverse.com/thing:457/files) batch 1–2<br>[Files](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/makerbot/cupcake-cnc-batch-5.zip) batch 5<br>[BOM](https://web.archive.org/web/20120827102911/http://wiki.makerbot.com/cupcake-cnc-0:cupcake-parts-list)<br>[Manual](https://web.archive.org/web/20121026124135/http://wiki.makerbot.com/cupcake-cnc-10:build-instructions)<br>[Firmware](https://github.com/makerbot/G3Firmware) |
+| Links | [Files](https://www.thingiverse.com/thing:457/files) batch 1–2<br>[Files](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/makerbot/cupcake-cnc-batch-5.zip) batch 5<br>[BOM](https://web.archive.org/web/20120827102911/http://wiki.makerbot.com/cupcake-cnc-0:cupcake-parts-list)<br>[Manual](https://web.archive.org/web/20121026124135/http://wiki.makerbot.com/cupcake-cnc-10:build-instructions)<br>[FW](https://github.com/makerbot/G3Firmware) |
 | Groups | [Google Groups](https://groups.google.com/g/makerbot) EN inactive<br>[Reddit](https://www.reddit.com/r/makerbot/) EN 5.2K |
 | License | [GPL-2.0 (Thingiverse), GPL-3.0 (Google Code project), GFDL (wiki docs)](https://www.thingiverse.com/thing:457) |
 

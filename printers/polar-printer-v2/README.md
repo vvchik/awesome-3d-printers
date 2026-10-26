@@ -14,7 +14,7 @@
 | Exterior (W×D×H) | — |
 | Latest version | Files<br>[2019-12](https://www.thingiverse.com/thing:4032809/files) |
 | Stars Likes Views | [💙⁠8](https://www.thingiverse.com/thing:4032809)<br>[⏯️⁠2K](https://www.youtube.com/watch?v=9lM06mLXj50)<br>[❤️⁠39](https://www.youtube.com/watch?v=9lM06mLXj50) |
-| Links | [Files](https://www.thingiverse.com/thing:4032809/files) v2<br>[Firmware](https://github.com/RobMink/UpdatedPolarFirmware---Marlin)<br>[CAD](https://github.com/RobMink/Polar) v1<br>[Video](https://www.youtube.com/watch?v=5Q1t9RF6neE) |
+| Links | [Files](https://www.thingiverse.com/thing:4032809/files) v2<br>[FW](https://github.com/RobMink/UpdatedPolarFirmware---Marlin)<br>[CAD](https://github.com/RobMink/Polar) v1<br>[Video](https://www.youtube.com/watch?v=5Q1t9RF6neE) |
 | Groups | [Discord](https://discord.gg/NTDZMsCwXh) EN 888 |
 | License | [CC BY-NC-SA 4.0 (v2, Thingiverse); GPL-3.0 (v1, GitHub)](https://www.thingiverse.com/thing:4032809) |
 

@@ -14,7 +14,7 @@
 | Exterior (W×D×H) | 700×720×900 |
 | Latest version | XL+<br>[2026-08](https://www.printables.com/model/1814173-xl-printable-parts) |
 | Stars Likes Views | [🧡⁠1.2K](https://www.printables.com/model/449554-xl-printable-parts)<br>[⏯️⁠804K](https://www.youtube.com/watch?v=6OAAnuEdXWE)<br>[❤️⁠3K](https://www.youtube.com/watch?v=6OAAnuEdXWE) |
-| Links | [STEP](https://www.printables.com/model/449554-xl-printable-parts/files) XL<br>[STL](https://www.printables.com/model/1814173-xl-printable-parts/files) XL+<br>[Manual](https://help.prusa3d.com/product/xl)<br>[Firmware](https://github.com/prusa3d/Prusa-Firmware-Buddy) |
+| Links | [STEP](https://www.printables.com/model/449554-xl-printable-parts/files) XL<br>[STL](https://www.printables.com/model/1814173-xl-printable-parts/files) XL+<br>[Manual](https://help.prusa3d.com/product/xl)<br>[FW](https://github.com/prusa3d/Prusa-Firmware-Buddy) |
 | Groups | [Forum](https://forum.prusa3d.com/forum/original-prusa-xl/) EN 78.7K<br>[Reddit](https://www.reddit.com/r/prusa3d/) EN 112K<br>[Forum](https://forum.prusa3d.com/es/) ES 78.7K<br>[Forum](https://forum.prusa3d.com/cs/) CS 78.7K<br>[Facebook](https://www.facebook.com/groups/Prusai3users/) EN 47.5K<br>[Discord](https://discord.gg/prusa3d) EN 13.6K |
 | License | [GPL-2.0 (XL, Printables), Open Community License v1.1 (XL+, Printables)](https://www.printables.com/model/1814173-xl-printable-parts) |
 

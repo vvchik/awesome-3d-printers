@@ -14,7 +14,7 @@
 | Exterior (W×D×H) | 510×585×540 |
 | Latest version | Rev1<br>[2012-10](https://www.thingiverse.com/thing:32557) |
 | Stars Likes Views | [💙⁠76](https://www.thingiverse.com/thing:32557)<br>[⏯️⁠3.3K](https://www.youtube.com/watch?v=3Qng64k36mw)<br>[❤️⁠1](https://www.youtube.com/watch?v=3Qng64k36mw) |
-| Links | [STL](https://www.thingiverse.com/thing:32557/files)<br>[BOM](https://reprap.org/wiki/Echorap)<br>[Firmware](https://github.com/roboticseq/RSEchoRapSprinterForPrintrBoardRevD)<br>[Video](https://www.youtube.com/watch?v=tCaJwnWEe9o) |
+| Links | [STL](https://www.thingiverse.com/thing:32557/files)<br>[BOM](https://reprap.org/wiki/Echorap)<br>[FW](https://github.com/roboticseq/RSEchoRapSprinterForPrintrBoardRevD)<br>[Video](https://www.youtube.com/watch?v=tCaJwnWEe9o) |
 | Groups | — |
 | License | [CC BY-NC-ND 3.0 (Thingiverse), CC BY-NC-SA (RepRap wiki), GPL (ÉchoFab repo)](https://www.thingiverse.com/thing:32557) |
 

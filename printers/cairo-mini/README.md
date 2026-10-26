@@ -14,7 +14,7 @@
 | Exterior (W×D×H) | — |
 | Latest version | Files<br>[2022-08](https://makesomestuff.org/cairo-3d-printer/) |
 | Stars Likes Views | [💙⁠32](https://www.thingiverse.com/thing:5317471)<br>[⏯️⁠2K](https://www.youtube.com/watch?v=0Tp4MT6AKvg)<br>[❤️⁠18](https://www.youtube.com/watch?v=0Tp4MT6AKvg) |
-| Links | [STEP](https://grabcad.com/library/cairo-mini-3d-printer-1)<br>[STL](https://makesomestuff.org/wp-content/uploads/2022/02/Cairo-Mini-3d-printer-STLs.zip)<br>[Files](https://makesomestuff.org/wp-content/uploads/2022/02/Cairo-Mini-3d-printer-DXFs.zip)<br>[BOM](https://docs.google.com/spreadsheets/d/187KG_uXhkyZ2cOBT2ysIGeC7GsLDITJhXSNtQAEOgio/edit)<br>[Manual](https://makesomestuff.org/building-the-structure/)<br>[Firmware](https://makesomestuff.org/wp-content/uploads/2022/12/Marlin-bugfix-2.0.x_updated.zip) |
+| Links | [STEP](https://grabcad.com/library/cairo-mini-3d-printer-1)<br>[STL](https://makesomestuff.org/wp-content/uploads/2022/02/Cairo-Mini-3d-printer-STLs.zip)<br>[Files](https://makesomestuff.org/wp-content/uploads/2022/02/Cairo-Mini-3d-printer-DXFs.zip)<br>[BOM](https://docs.google.com/spreadsheets/d/187KG_uXhkyZ2cOBT2ysIGeC7GsLDITJhXSNtQAEOgio/edit)<br>[Manual](https://makesomestuff.org/building-the-structure/)<br>[FW](https://makesomestuff.org/wp-content/uploads/2022/12/Marlin-bugfix-2.0.x_updated.zip) |
 | Groups | [Facebook](https://www.facebook.com/groups/2085101554986922/) EN |
 | License | [CERN-OHL-P-2.0 hardware, GPL-3.0 software, CC BY-SA 4.0 docs (project page), CC BY-SA 4.0 (Thingiverse), GPL (RepRap wiki)](https://makesomestuff.org/cairo-3d-printer/) |
 

@@ -14,7 +14,7 @@
 | Exterior (W×D×H) | — |
 | Latest version | Log<br>[2025-06](https://www.printables.com/model/922401-ender-3-ng-v12-corexy-conversion) |
 | Stars Likes Views | [🧡⁠2.7K](https://www.printables.com/model/922401-ender-3-ng-v12-corexy-conversion)<br>[⏯️⁠107K](https://www.youtube.com/watch?v=u4b6Ni18ap4)<br>[❤️⁠3.3K](https://www.youtube.com/watch?v=u4b6Ni18ap4) |
-| Links | [Files](https://rh3d.xyz/E3NG_v1_2/standard/files) v1.2<br>[Manual](https://rh3d.xyz/E3NG_v1_2/standard/build_guide) v1.2<br>[STL](https://www.printables.com/model/469280-ender-3-ng-corexy-beta) old beta |
+| Links | [Files](https://rh3d.xyz/E3NG_v1_2/standard/files) v1.2<br>[Manual](https://rh3d.xyz/E3NG_v1_2/standard/build_guide) v1.2<br>[STL](https://www.printables.com/model/469280-ender-3-ng-corexy-beta) 2023 beta |
 | Groups | [Discord](https://discord.com/invite/Zkvu6uu2AR) EN 4.8K |
 | License | [CC BY-NC-SA 4.0](https://rh3d.xyz/E3NG_v1_2/standard/files) |
 
