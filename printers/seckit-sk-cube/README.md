@@ -18,11 +18,11 @@
 | Groups | [Facebook](https://www.facebook.com/groups/SecKitCoreXY3DP/) EN 2.6K |
 | License | [CC BY-NC-SA 4.0](https://github.com/SecKit/SK-Cube/blob/main/STEP%20files/README.md) |
 
-## Pictures (5)
+## Pictures (6)
 
 <table>
 <tr><td align="center" width="33%"><a href="0-seckit-sk-cube.jpg"><img src="0-seckit-sk-cube.jpg" width="260" alt="SecKit SK-Cube picture 0"></a><br><sub>Photo: <a href="https://www.youtube.com/@ModBotArmyy">ModBotArmy</a></sub></td><td align="center" width="33%"><a href="1-seckit-sk-cube.jpg"><img src="1-seckit-sk-cube.jpg" width="260" alt="SecKit SK-Cube picture 1"></a><br><sub>Photo: <a href="https://www.youtube.com/@seckit3dp">Seckit 3DP</a></sub></td><td align="center" width="33%"><a href="2-seckit-sk-cube.jpg"><img src="2-seckit-sk-cube.jpg" width="260" alt="SecKit SK-Cube picture 2"></a><br><sub>Photo: <a href="https://www.youtube.com/@seckit3dp">SecKit</a></sub></td></tr>
-<tr><td align="center" width="33%"><a href="3-seckit-sk-cube.jpg"><img src="3-seckit-sk-cube.jpg" width="260" alt="SecKit SK-Cube picture 3"></a><br><sub>Photo: <a href="https://www.youtube.com/@ModBotArmyy">ModBotArmy</a></sub></td><td align="center" width="33%"><a href="4-seckit-sk-cube.jpg"><img src="4-seckit-sk-cube.jpg" width="260" alt="SecKit SK-Cube picture 4"></a><br><sub>Photo: <a href="https://www.youtube.com/@Rolohaun">Rolohaun</a></sub></td></tr>
+<tr><td align="center" width="33%"><a href="3-seckit-sk-cube.jpg"><img src="3-seckit-sk-cube.jpg" width="260" alt="SecKit SK-Cube picture 3"></a><br><sub>Photo: <a href="https://www.youtube.com/@ModBotArmyy">ModBotArmy</a></sub></td><td align="center" width="33%"><a href="4-seckit-sk-cube.jpg"><img src="4-seckit-sk-cube.jpg" width="260" alt="SecKit SK-Cube picture 4"></a><br><sub>Photo: <a href="https://www.youtube.com/@Rolohaun">Rolohaun</a></sub></td><td align="center" width="33%"><a href="5-seckit-sk-cube.jpg"><img src="5-seckit-sk-cube.jpg" width="260" alt="SecKit SK-Cube picture 5"></a><br><sub>Photo: <a href="https://www.printables.com/@M1150">M1150</a></sub></td></tr>
 </table>
 
 ## Other homes of the files

@@ -18,8 +18,8 @@
 | Groups | — |
 | License | [CERN OHL v1.2 (GitHub)](https://github.com/BCN3D/BCN3DSigma-Mechanics/tree/master/LICENSE) |
 
-## Pictures (2)
+## Pictures (3)
 
 <table>
-<tr><td align="center" width="33%"><a href="0-bcn3d-sigma.jpg"><img src="0-bcn3d-sigma.jpg" width="260" alt="BCN3D Sigma / Sigma R19 / Sigmax picture 0"></a><br><sub>Version: Sigma R19</sub><br><sub>Photo: <a href="https://github.com/BCN3D">BCN3D</a></sub></td><td align="center" width="33%"><a href="1-bcn3d-sigma.jpg"><img src="1-bcn3d-sigma.jpg" width="260" alt="BCN3D Sigma / Sigma R19 / Sigmax picture 1"></a><br><sub>Version: Sigmax R19</sub><br><sub>Photo: <a href="https://github.com/BCN3D">BCN3D</a></sub></td></tr>
+<tr><td align="center" width="33%"><a href="0-bcn3d-sigma.jpg"><img src="0-bcn3d-sigma.jpg" width="260" alt="BCN3D Sigma / Sigma R19 / Sigmax picture 0"></a><br><sub>Version: Sigma R19</sub><br><sub>Photo: <a href="https://github.com/BCN3D">BCN3D</a></sub></td><td align="center" width="33%"><a href="1-bcn3d-sigma.jpg"><img src="1-bcn3d-sigma.jpg" width="260" alt="BCN3D Sigma / Sigma R19 / Sigmax picture 1"></a><br><sub>Version: Sigmax R19</sub><br><sub>Photo: <a href="https://github.com/BCN3D">BCN3D</a></sub></td><td align="center" width="33%"><a href="2-bcn3d-sigma.jpg"><img src="2-bcn3d-sigma.jpg" width="260" alt="BCN3D Sigma / Sigma R19 / Sigmax picture 2"></a><br><sub>Photo: <a href="https://www.printables.com/@Jonni_351951">Jonni</a></sub></td></tr>
 </table>
