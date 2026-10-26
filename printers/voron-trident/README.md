@@ -37,3 +37,19 @@
 ## Mods and variants
 
 - [Voron Trident 5-axis](https://github.com/Buzzloopster/Voron-Trident-5-axis) by Buzzloopster: an A tilt and endless C rotation bed under the stock CoreXY, run by RepRapFirmware robot kinematics, base Voron Trident 250. GPL-3.0.
+
+## Popular mods
+
+- [BentoBox v2.0](https://www.printables.com/model/272525-bentobox-v20-carbon-filter-for-bambu-lab-x1c-enclo) by thrutheframe: carbon air scrubber that recirculates chamber air. CC BY-NC-SA 4.0.
+- [VoronUsers](https://github.com/VoronDesign/VoronUsers) by Voron community: official collection of community mods, sorted by printer and author. GPL-3.0.
+- [ERCF v2 (Enraged Rabbit Carrot Feeder)](https://github.com/Carrot-collective/ERCF_v2) by Carrot Collective (original ERCF by Ette): multi-material unit that selects one of many filaments and feeds it to a single direct-drive toolhead. GPL-3.0.
+- [Klicky Probe](https://github.com/jlas1/Klicky-Probe) by jlas1: magnetic microswitch Z probe that the toolhead picks up from a dock before probing and returns after. GPL-3.0.
+- [Dragon Burner and Rapid Burner toolheads](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner) by chirpy2605: compact toolheads with twin 4010 part-cooling blowers, built for the V0.2 and mounted on the larger Vorons with adapter plates. GPL-3.0.
+- [StealthChanger](https://github.com/DraftShift/StealthChanger) by DraftShift Design: tool changer with a bushing-and-pin shuttle that docks several Stealthburner, Dragon Burner, Xol, A4T and other toolheads. GPL-3.0.
+- [Xol Toolhead](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead) by Armchair Heavy Industries: modular toolhead and X carriage, the successor of Mantis Xol 2, with swappable hotend, extruder and toolboard mounts. CC BY-NC-SA 4.0.
+- [Clicky-Clack Fridge Door](https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door) by tanaes: single framed front door on lift-off hinges with a latch that pulls it shut against foam tape to seal the chamber. GPL-3.0.
+- [Galileo 2](https://github.com/JaredC01/Galileo2) by JaredC01: 9:1 planetary drop-in extruder for the Stealthburner (G2E), plus planetary Z drives (G2Z) for V2-style printers. GPL-3.0.
+- [Voron Tap](https://github.com/VoronDesign/Voron-Tap) by Voron Design: nozzle Z probe: the whole toolhead slides on a rail carriage and trips an optical switch when the nozzle touches the bed. GPL-3.0.
+- [A4T Toolhead](https://github.com/Armchair-Heavy-Industries/A4T) by Armchair Heavy Industries: toolhead built around a 4010 blower for front-rail Vorons, on the Xol, stock CW2 or Tap carriage. CC BY-NC-SA 4.0.
+- [Filametrix](https://www.printables.com/model/638605-filametrix-mmuercf-filament-cutter-voron) by sorted: lever filament cutter built into the Stealthburner extruder body, used for faster MMU and ERCF swaps. GPL-3.0.
+- [Monolith Gantry](https://github.com/Monolith3D/Monolith_Gantry) by Monolith3D: configurable XY gantry with a shorter belt path and optional AWD that keeps the CoreXY layout. CC BY-NC-SA 4.0.

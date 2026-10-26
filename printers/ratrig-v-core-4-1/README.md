@@ -31,3 +31,17 @@
 - [GitHub, panels](https://github.com/Rat-Rig/RatRig-Panels/tree/main/V-Core-4.0): V-Core 4.0 enclosure panels, DXF and STEP. The 4.1 wiki links the same 4.0 panel set. CC BY-NC-SA 4.0.
 - [Printables](https://www.printables.com/model/1142398): V-Core 4.0 printed parts STL and panel DXF. CC BY-NC-SA.
 - Wayback Machine: [latest snapshot](https://web.archive.org/web/20260226092756/https://ratrig.com/products/rat-rig-v-core-4-1), 2026-02-26.
+
+## Popular mods
+
+- [VzBot Frame Brace for 3030 Extrusions](https://www.printables.com/model/377984-vzbot-frame-brace-for-3030-extrusions) by D!nu: corner braces adapted from the VzBot design for 3030 frames, in short, medium and long versions. CC BY-NC 4.0.
+- [CNC Milled Toolhead for the RatRig VCore 4/4.1](https://www.printables.com/model/1384111-cnc-milled-toolhead-for-the-ratrig-vcore-441) by Cristian I: printed parts for a CNC-milled toolhead with mounts for several extruders and toolboards. CC BY-NC-SA 4.0.
+- [Full Frontal Gantry mod for Rat Rig V-Core](https://www.printables.com/model/1368881-full-frontal-gantry-mod-for-rat-rig-v-core) by MFBS Design: full Frontal X gantry with ultralight print heads such as Dragon Ace and Rapido. CC BY-NC-SA 4.0.
+- [Auxiliary Cooling for the RatRig VCore 4](https://www.printables.com/model/1070795-auxiliary-cooling-for-the-ratrig-vcore-4) by Cristian I: auxiliary part-cooling fan duct, remixed from the Voron Trident auxiliary fan. GPL-3.0.
+- [RatRoaster - Enclosure Heater for VCore 4 (unofficial)](https://www.printables.com/model/1148672-ratroaster-enclosure-heater-for-vcore-4-unofficial) by BackwoodsTinkerer: printed housing for a 1000 W enclosure heater core with a fan. CC BY-NC 4.0.
+- [Headlamps nozzle lighting for RatRig V-Core 4 Toolhead](https://www.printables.com/model/956804-headlamps-nozzle-lighting-for-ratrig-v-core-4-tool) by tg73: part-fan duct extensions with RGB LEDs that light the nozzle. CC BY-NC-SA 4.0.
+- [RR V-Core 4 Bed Fan Chamber Heater by PD3D](https://www.printables.com/model/978844-rr-v-core-4-bed-fan-chamber-heater-by-pd3d) by PD3Dmfg: ducts on the front arms that blow two 5015 fans over the bed heater to heat the chamber. CC BY-SA 4.0.
+- [CPAP Mod for the RatRig Toolhead VC4](https://www.printables.com/model/1063136-cpap-mod-for-the-ratrig-toolhead-vc4) by Cristian I: toolhead backplate and mount for CPAP part cooling in place of the 4028 fan. CC BY-SA 4.0.
+- [RatRig V-Core 4 Nozzle Wiper](https://www.printables.com/model/997567-ratrig-v-core-4-nozzle-wiper) by Scootworks: nozzle wiper using Bambu Lab A1 mini silicone wipers instead of the felt pad. CC BY-NC-SA 4.0.
+- [RatRig V-Core 4 rigid toolhead belt clamp](https://www.printables.com/model/993378-ratrig-v-core-4-rigid-toolhead-belt-clamp) by Scootworks: stiffer front belt clamp for the toolhead. CC BY-NC-SA 4.0.
+- [Door hinges RatRig VCore 4](https://www.printables.com/model/1019674-door-hinges-ratrig-vcore-4) by Rigattoni: hinges that split the front enclosure panel into two doors. CC BY-NC-SA 4.0.
