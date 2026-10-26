@@ -14,7 +14,7 @@
 | Exterior (W×D×H) | 467×320×381 |
 | Latest version | Files<br>[2012-05](https://www.thingiverse.com/thing:18813/files) |
 | Stars Likes Views | [💙⁠1K](https://www.thingiverse.com/thing:18813)<br>[⏯️⁠563K](https://www.youtube.com/watch?v=DY6VSu-oOws)<br>[❤️⁠521](https://www.youtube.com/watch?v=DY6VSu-oOws) |
-| Links | [Files](https://www.thingiverse.com/thing:18813/files)<br>[Files](https://www.thingiverse.com/thing:16058) MightyBoard<br>[Firmware](https://github.com/makerbot/MightyBoardFirmware) |
+| Links | [Files](https://www.thingiverse.com/thing:18813/files)<br>[Files](https://www.thingiverse.com/thing:16058) MightyBoard<br>[FW](https://github.com/makerbot/MightyBoardFirmware) |
 | Groups | [Google Groups](https://groups.google.com/g/makerbot) EN inactive<br>[Reddit](https://www.reddit.com/r/makerbot/) EN 5.2K |
 | License | [CC BY-SA (Thingiverse; MightyBoardFirmware has no license file)](https://www.thingiverse.com/thing:18813) |
 

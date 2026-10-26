@@ -14,7 +14,7 @@
 | Exterior (W×D×H) | 300×300×400 |
 | Latest version | Rev I<br>[2011-05](https://www.thingiverse.com/thing:4973/files) |
 | Stars Likes Views | [💙⁠1.1K](https://www.thingiverse.com/thing:4973)<br>[⏯️⁠878](https://www.youtube.com/watch?v=lQ7oprADaY4)<br>[❤️⁠2](https://www.youtube.com/watch?v=lQ7oprADaY4) |
-| Links | [Files](https://www.thingiverse.com/thing:4973/files)<br>[BOM](https://web.archive.org/web/20111215111456/http://www.thingiverse.com/thing:4973/partlist)<br>[Manual](https://web.archive.org/web/20121126083014/http://wiki.makerbot.com/thingomatic-doc:thingomatic-assembly-instructions)<br>[Firmware](https://github.com/makerbot/G3Firmware) |
+| Links | [Files](https://www.thingiverse.com/thing:4973/files)<br>[BOM](https://web.archive.org/web/20111215111456/http://www.thingiverse.com/thing:4973/partlist)<br>[Manual](https://web.archive.org/web/20121126083014/http://wiki.makerbot.com/thingomatic-doc:thingomatic-assembly-instructions)<br>[FW](https://github.com/makerbot/G3Firmware) |
 | Groups | [Google Groups](https://groups.google.com/g/makerbot) EN inactive<br>[Reddit](https://www.reddit.com/r/makerbot/) EN 5.2K |
 | License | [GPL-2.0 (Thingiverse), GPL-3.0 (Google Code project), GFDL (wiki docs)](https://www.thingiverse.com/thing:4973) |
 
