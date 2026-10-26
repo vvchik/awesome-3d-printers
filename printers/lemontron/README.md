@@ -15,7 +15,7 @@
 | Exterior (W×D×H) | — |
 | Latest version | Rev E<br>[2026-02](https://www.printables.com/model/1440115-lemontron-rev-e) |
 | Stars Likes Views | [🧡⁠167](https://www.printables.com/model/1155525)<br>[⏯️⁠120K](https://www.youtube.com/watch?v=n6l3GvkE4QU)<br>[❤️⁠4.9K](https://www.youtube.com/watch?v=n6l3GvkE4QU) |
-| Links | [Files](https://lemontron.com/lemontron-rev-e/printed-parts/) Rev E<br>[CAD](https://www.printables.com/model/1440115-lemontron-rev-e/files) Rev E<br>[BOM](https://lemontron.com/lemontron-rev-e/bom/) Rev E<br>[Video](https://www.youtube.com/watch?v=FU5CCRJrfcg) Rev E<br>[Manual](https://lemontron.com/lemontron-rev-a/build-guide/) Rev A<br>[STEP](https://www.printables.com/model/1155525-lemontron-rev-d/files) Rev D<br>[Video](https://www.youtube.com/watch?v=n6l3GvkE4QU) first release |
+| Links | [Files](https://lemontron.com/lemontron-rev-e/printed-parts/) Rev E<br>[CAD](https://www.printables.com/model/1440115-lemontron-rev-e/files) Rev E<br>[BOM](https://lemontron.com/lemontron-rev-e/bom/) Rev E<br>[Video](https://www.youtube.com/watch?v=FU5CCRJrfcg) Rev E<br>[Manual](https://lemontron.com/lemontron-rev-a/build-guide/) Rev A<br>[STEP](https://www.printables.com/model/1155525-lemontron-rev-d/files) Rev D<br>[Video](https://www.youtube.com/watch?v=n6l3GvkE4QU) first |
 | Groups | [Discord](https://discord.com/invite/gSjfn4rnrm) EN 1.2K |
 | License | [CC BY-SA (Printables), CC BY-NC 4.0 (PCBWay, tool end board)](https://www.printables.com/model/1440115-lemontron-endgame-portable-3d-printer) |
 

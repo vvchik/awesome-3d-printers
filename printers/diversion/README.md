@@ -14,7 +14,7 @@
 | Exterior (W×D×H) | — |
 | Latest version | CAD<br>[2025-08](https://github.com/boubounokefalos/Diversion/commit/45f3210aa15b14fc4514bae330d0f68525c29705) |
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/boubounokefalos/Diversion?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/boubounokefalos/Diversion) |
-| Links | [Original](https://github.com/VoronDesign/Voron-Switchwire)<br>[CAD](https://github.com/boubounokefalos/Diversion/tree/main/CAD)<br>[STL](https://github.com/boubounokefalos/Diversion/tree/main/STLS)<br>[BOM](https://github.com/boubounokefalos/Diversion/blob/main/docs/BoM.md) |
+| Links | [Orig.](https://github.com/VoronDesign/Voron-Switchwire)<br>[CAD](https://github.com/boubounokefalos/Diversion/tree/main/CAD)<br>[STL](https://github.com/boubounokefalos/Diversion/tree/main/STLS)<br>[BOM](https://github.com/boubounokefalos/Diversion/blob/main/docs/BoM.md) |
 | Groups | [Discord](https://discord.gg/voron) EN 40.8K |
 | License | [GPL-3.0](https://github.com/boubounokefalos/Diversion/blob/main/LICENSE) |
 

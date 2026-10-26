@@ -14,7 +14,7 @@
 | Exterior (W×D×H) | — |
 | Latest version | CAD<br>[2026-10](https://github.com/PrintersForAnts/Micron/commit/79a1b20da304932187229d75edcf49c5dd41a246) |
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/PrintersForAnts/Micron?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/PrintersForAnts/Micron) |
-| Links | [CAD](https://github.com/PrintersForAnts/Micron/tree/HEAD/CAD) R1<br>[Manual](https://github.com/PrintersForAnts/Micron/blob/HEAD/Documentation/Micron_R1_Manual_WIP.pdf) R1<br>[CAD](https://github.com/PrintersForAnts/Micron2020/tree/HEAD/CAD) Micron2020 |
+| Links | [CAD](https://github.com/PrintersForAnts/Micron/tree/HEAD/CAD) R1<br>[Manual](https://github.com/PrintersForAnts/Micron/blob/HEAD/Documentation/Micron_R1_Manual_WIP.pdf) R1<br>[CAD](https://github.com/PrintersForAnts/Micron2020/tree/HEAD/CAD) 2020 |
 | Groups | [Discord](https://discord.gg/doomcube) EN 6.9K |
 | License | [GPL-3.0](https://github.com/PrintersForAnts/Micron/blob/main/LICENSE) |
 
