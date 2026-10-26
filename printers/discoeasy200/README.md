@@ -18,9 +18,9 @@
 | Groups | — |
 | License | [CC BY-NC-SA 4.0 (GitHub), CC BY 4.0 (Thingiverse)](https://github.com/dagoma3d/STL-DiscoEasy200-Official/blob/Release/LICENSE) |
 
-## Pictures (4)
+## Pictures (5)
 
 <table>
 <tr><td align="center" width="33%"><a href="0-discoeasy200.jpg"><img src="0-discoeasy200.jpg" width="260" alt="Dagoma DiscoEasy200 picture 0"></a><br><sub>Photo: <a href="https://github.com/dagoma3d">Dagoma</a></sub></td><td align="center" width="33%"><a href="1-discoeasy200.jpg"><img src="1-discoeasy200.jpg" width="260" alt="Dagoma DiscoEasy200 picture 1"></a><br><sub>Version: with the trapezoidal-rod (Trapezoidales) Z add-on</sub><br><sub>Photo: <a href="https://github.com/dagoma3d">Dagoma</a></sub></td><td align="center" width="33%"><a href="2-discoeasy200.jpg"><img src="2-discoeasy200.jpg" width="260" alt="Dagoma DiscoEasy200 picture 2"></a><br><sub>Version: kit version</sub><br><sub>Photo: <a href="https://www.thingiverse.com/dagoma3D/designs">Dagoma</a></sub></td></tr>
-<tr><td align="center" width="33%"><a href="3-discoeasy200.jpg"><img src="3-discoeasy200.jpg" width="260" alt="Dagoma DiscoEasy200 picture 3"></a><br><sub>Photo: <a href="https://www.thingiverse.com/dagoma3D/designs">Dagoma</a></sub></td></tr>
+<tr><td align="center" width="33%"><a href="3-discoeasy200.jpg"><img src="3-discoeasy200.jpg" width="260" alt="Dagoma DiscoEasy200 picture 3"></a><br><sub>Photo: <a href="https://www.thingiverse.com/dagoma3D/designs">Dagoma</a></sub></td><td align="center" width="33%"><a href="4-discoeasy200.jpg"><img src="4-discoeasy200.jpg" width="260" alt="Dagoma DiscoEasy200 picture 4"></a><br><sub>Photo: <a href="https://www.domo-blog.fr/">Aurélien Brunet</a></sub></td></tr>
 </table>

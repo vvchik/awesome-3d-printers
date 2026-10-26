@@ -18,12 +18,12 @@
 | Groups | [Facebook](https://www.facebook.com/groups/vzbot/) EN 10.1K<br>[Discord](https://discord.gg/KWZWvCMxCq) EN 9.3K<br>[Reddit](https://www.reddit.com/r/vzbot/) EN 463 |
 | License | [CC BY-NC 4.0](https://github.com/VzBoT3D/VzBoT-Vz150/blob/main/Readme.md) |
 
-## Pictures (7)
+## Pictures (8)
 
 <table>
 <tr><td align="center" width="33%"><a href="0-vzbot-vz150.jpg"><img src="0-vzbot-vz150.jpg" width="260" alt="VzBot Vz150 picture 0"></a><br><sub>Photo: <a href="https://github.com/pbsuper">pbsuper</a></sub></td><td align="center" width="33%"><a href="1-vzbot-vz150.jpg"><img src="1-vzbot-vz150.jpg" width="260" alt="VzBot Vz150 picture 1"></a><br><sub>Photo: <a href="https://github.com/pbsuper">pbsuper</a></sub></td><td align="center" width="33%"><a href="2-vzbot-vz150.jpg"><img src="2-vzbot-vz150.jpg" width="260" alt="VzBot Vz150 picture 2"></a><br><sub>Photo: <a href="https://github.com/pbsuper">pbsuper</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-vzbot-vz150.jpg"><img src="3-vzbot-vz150.jpg" width="260" alt="VzBot Vz150 picture 3"></a><br><sub>Photo: <a href="https://github.com/pbsuper">pbsuper</a></sub></td><td align="center" width="33%"><a href="4-vzbot-vz150.jpg"><img src="4-vzbot-vz150.jpg" width="260" alt="VzBot Vz150 picture 4"></a></td><td align="center" width="33%"><a href="5-vzbot-vz150.jpg"><img src="5-vzbot-vz150.jpg" width="260" alt="VzBot Vz150 picture 5"></a></td></tr>
-<tr><td align="center" width="33%"><a href="6-vzbot-vz150.jpg"><img src="6-vzbot-vz150.jpg" width="260" alt="VzBot Vz150 picture 6"></a></td></tr>
+<tr><td align="center" width="33%"><a href="6-vzbot-vz150.jpg"><img src="6-vzbot-vz150.jpg" width="260" alt="VzBot Vz150 picture 6"></a></td><td align="center" width="33%"><a href="7-vzbot-vz150.jpg"><img src="7-vzbot-vz150.jpg" width="260" alt="VzBot Vz150 picture 7"></a><br><sub>Version: Vz150</sub><br><sub>Photo: <a href="https://github.com/pbsuper">pbsuper</a></sub></td></tr>
 </table>
 
 ## Other homes of the files

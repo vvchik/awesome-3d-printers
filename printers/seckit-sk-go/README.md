@@ -18,11 +18,13 @@
 | Groups | [Facebook](https://www.facebook.com/groups/SecKitCoreXY3DP/) EN 2.6K |
 | License | [CC BY-NC-SA 4.0 (GitHub), CC BY 4.0 (Thingiverse)](https://github.com/SecKit/SK-Go_SK-Mini/blob/master/Go3%20(AE2-310eu%20v3)/STEP%20files/README.md) |
 
-## Pictures (6)
+## Pictures (10)
 
 <table>
 <tr><td align="center" width="33%"><a href="0-seckit-sk-go.jpg"><img src="0-seckit-sk-go.jpg" width="260" alt="SecKit SK-Go picture 0"></a><br><sub>Photo: <a href="https://github.com/SecKit">SecKit</a></sub></td><td align="center" width="33%"><a href="1-seckit-sk-go.jpg"><img src="1-seckit-sk-go.jpg" width="260" alt="SecKit SK-Go picture 1"></a><br><sub>Photo: <a href="https://github.com/SecKit">SecKit</a></sub></td><td align="center" width="33%"><a href="2-seckit-sk-go.jpg"><img src="2-seckit-sk-go.jpg" width="260" alt="SecKit SK-Go picture 2"></a></td></tr>
 <tr><td align="center" width="33%"><a href="3-seckit-sk-go.jpg"><img src="3-seckit-sk-go.jpg" width="260" alt="SecKit SK-Go picture 3"></a><br><sub>Photo: Benoît Barbé</sub></td><td align="center" width="33%"><a href="4-seckit-sk-go.jpg"><img src="4-seckit-sk-go.jpg" width="260" alt="SecKit SK-Go picture 4"></a></td><td align="center" width="33%"><a href="5-seckit-sk-go.jpg"><img src="5-seckit-sk-go.jpg" width="260" alt="SecKit SK-Go picture 5"></a><br><sub>Photo: <a href="https://makerworld.com/en/@bounetphoto">bounetphoto</a></sub></td></tr>
+<tr><td align="center" width="33%"><a href="6-seckit-sk-go.jpg"><img src="6-seckit-sk-go.jpg" width="260" alt="SecKit SK-Go picture 6"></a><br><sub>Version: SK-Go2</sub><br><sub>Photo: <a href="https://www.printables.com/@caesar_1111_261164">caesar_1111</a></sub></td><td align="center" width="33%"><a href="7-seckit-sk-go.jpg"><img src="7-seckit-sk-go.jpg" width="260" alt="SecKit SK-Go picture 7"></a><br><sub>Version: SK-Go2</sub><br><sub>Photo: <a href="https://www.printables.com/@caesar_1111_261164">caesar_1111</a></sub></td><td align="center" width="33%"><a href="8-seckit-sk-go.jpg"><img src="8-seckit-sk-go.jpg" width="260" alt="SecKit SK-Go picture 8"></a><br><sub>Version: SK-Go2</sub><br><sub>Photo: <a href="https://www.printables.com/@caesar_1111_261164">caesar_1111</a></sub></td></tr>
+<tr><td align="center" width="33%"><a href="9-seckit-sk-go.jpg"><img src="9-seckit-sk-go.jpg" width="260" alt="SecKit SK-Go picture 9"></a><br><sub>Version: SK-Go2</sub><br><sub>Photo: <a href="https://www.printables.com/@caesar_1111_261164">caesar_1111</a></sub></td></tr>
 </table>
 
 ## Other homes of the files

@@ -18,10 +18,10 @@
 | Groups | [Facebook](https://www.facebook.com/groups/viking3d/) EN |
 | License | [CC BY-NC-SA 4.0](https://github.com/RoyBerntsenDesign/V-Baby-CoreXY/blob/master/LICENSE) |
 
-## Pictures (7)
+## Pictures (9)
 
 <table>
 <tr><td align="center" width="33%"><a href="0-v-baby-corexy.jpg"><img src="0-v-baby-corexy.jpg" width="260" alt="V-Baby CoreXY picture 0"></a><br><sub>Photo: <a href="https://hackaday.io/hacker/408375-roy-berntsen">Roy Berntsen</a></sub></td><td align="center" width="33%"><a href="1-v-baby-corexy.jpg"><img src="1-v-baby-corexy.jpg" width="260" alt="V-Baby CoreXY picture 1"></a><br><sub>Version: V1.2</sub><br><sub>Photo: <a href="https://www.thingiverse.com/3D_PRO">Roy Berntsen</a></sub></td><td align="center" width="33%"><a href="2-v-baby-corexy.jpg"><img src="2-v-baby-corexy.jpg" width="260" alt="V-Baby CoreXY picture 2"></a><br><sub>Photo: <a href="https://www.thingiverse.com/3D_PRO">Roy Berntsen</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-v-baby-corexy.jpg"><img src="3-v-baby-corexy.jpg" width="260" alt="V-Baby CoreXY picture 3"></a><br><sub>Photo: <a href="https://www.thingiverse.com/3D_PRO">Roy Berntsen</a></sub></td><td align="center" width="33%"><a href="4-v-baby-corexy.jpg"><img src="4-v-baby-corexy.jpg" width="260" alt="V-Baby CoreXY picture 4"></a><br><sub>Photo: <a href="https://www.myminifactory.com/users/Pro3D">Roy Berntsen</a></sub></td><td align="center" width="33%"><a href="5-v-baby-corexy.jpg"><img src="5-v-baby-corexy.jpg" width="260" alt="V-Baby CoreXY picture 5"></a><br><sub>Photo: <a href="https://www.thingiverse.com/BepisFan04">BepisFan04</a></sub></td></tr>
-<tr><td align="center" width="33%"><a href="6-v-baby-corexy.jpg"><img src="6-v-baby-corexy.jpg" width="260" alt="V-Baby CoreXY picture 6"></a><br><sub>Photo: <a href="https://www.thingiverse.com/BepisFan04">BepisFan04</a></sub></td></tr>
+<tr><td align="center" width="33%"><a href="6-v-baby-corexy.jpg"><img src="6-v-baby-corexy.jpg" width="260" alt="V-Baby CoreXY picture 6"></a><br><sub>Photo: <a href="https://www.thingiverse.com/BepisFan04">BepisFan04</a></sub></td><td align="center" width="33%"><a href="7-v-baby-corexy.jpg"><img src="7-v-baby-corexy.jpg" width="260" alt="V-Baby CoreXY picture 7"></a><br><sub>Photo: <a href="https://www.thingiverse.com/Siam3D">Siam3D</a></sub></td><td align="center" width="33%"><a href="8-v-baby-corexy.jpg"><img src="8-v-baby-corexy.jpg" width="260" alt="V-Baby CoreXY picture 8"></a><br><sub>Photo: <a href="https://www.thingiverse.com/Siam3D">Siam3D</a></sub></td></tr>
 </table>

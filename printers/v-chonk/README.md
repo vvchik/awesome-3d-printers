@@ -18,12 +18,13 @@
 | Groups | [Facebook](https://www.facebook.com/groups/ratrig3dprintercommunity) EN 19.9K<br>[Discord](https://discord.gg/ratrig) EN 13.8K<br>[Reddit](https://www.reddit.com/r/RatRig/) EN 3K |
 | License | [CC BY-SA 4.0](https://github.com/Rat-Rig/V-Chonk/blob/main/LICENSE) |
 
-## Pictures (7)
+## Pictures (10)
 
 <table>
 <tr><td align="center" width="33%"><a href="0-v-chonk.jpg"><img src="0-v-chonk.jpg" width="260" alt="Rat Rig V-Chonk picture 0"></a><br><sub>Photo: <a href="https://github.com/Rat-Rig">Rat Rig</a></sub></td><td align="center" width="33%"><a href="1-v-chonk.jpg"><img src="1-v-chonk.jpg" width="260" alt="Rat Rig V-Chonk picture 1"></a><br><sub>Photo: <a href="https://github.com/Rat-Rig">Rat Rig</a></sub></td><td align="center" width="33%"><a href="2-v-chonk.jpg"><img src="2-v-chonk.jpg" width="260" alt="Rat Rig V-Chonk picture 2"></a><br><sub>Photo: <a href="https://ratrig.com">Rat Rig</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-v-chonk.jpg"><img src="3-v-chonk.jpg" width="260" alt="Rat Rig V-Chonk picture 3"></a><br><sub>Photo: <a href="https://github.com/Rat-Rig">Rat Rig</a></sub></td><td align="center" width="33%"><a href="4-v-chonk.jpg"><img src="4-v-chonk.jpg" width="260" alt="Rat Rig V-Chonk picture 4"></a><br><sub>Photo: <a href="https://ratrig.com">Rat Rig</a></sub></td><td align="center" width="33%"><a href="5-v-chonk.jpg"><img src="5-v-chonk.jpg" width="260" alt="Rat Rig V-Chonk picture 5"></a><br><sub>Photo: <a href="https://ratrig.com">Rat Rig</a></sub></td></tr>
-<tr><td align="center" width="33%"><a href="6-v-chonk.jpg"><img src="6-v-chonk.jpg" width="260" alt="Rat Rig V-Chonk picture 6"></a><br><sub>Photo: <a href="https://github.com/Rat-Rig">Rat Rig</a></sub></td></tr>
+<tr><td align="center" width="33%"><a href="6-v-chonk.jpg"><img src="6-v-chonk.jpg" width="260" alt="Rat Rig V-Chonk picture 6"></a><br><sub>Photo: <a href="https://github.com/Rat-Rig">Rat Rig</a></sub></td><td align="center" width="33%"><a href="7-v-chonk.jpg"><img src="7-v-chonk.jpg" width="260" alt="Rat Rig V-Chonk picture 7"></a><br><sub>Version: V-Chonk-Mod (modded build)</sub><br><sub>Photo: <a href="https://github.com/GuillermoCabanes">Guillermo Cabanes</a></sub></td><td align="center" width="33%"><a href="8-v-chonk.jpg"><img src="8-v-chonk.jpg" width="260" alt="Rat Rig V-Chonk picture 8"></a><br><sub>Version: V-Chonk-Mod (modded build)</sub><br><sub>Photo: <a href="https://github.com/GuillermoCabanes">Guillermo Cabanes</a></sub></td></tr>
+<tr><td align="center" width="33%"><a href="9-v-chonk.jpg"><img src="9-v-chonk.jpg" width="260" alt="Rat Rig V-Chonk picture 9"></a><br><sub>Version: V-Chonk frame, mid-build</sub><br><sub>Photo: <a href="https://github.com/GuillermoCabanes">Guillermo Cabanes</a></sub></td></tr>
 </table>
 
 ## Other homes of the files

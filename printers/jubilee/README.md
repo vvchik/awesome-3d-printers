@@ -18,11 +18,12 @@
 | Groups | [Discord](https://discord.gg/XkphRqb) EN 2K<br>[Reddit](https://www.reddit.com/r/Jubilee3D/) EN 88 |
 | License | [CC BY 4.0](https://github.com/machineagency/jubilee/blob/main/license.txt) |
 
-## Pictures (6)
+## Pictures (9)
 
 <table>
 <tr><td align="center" width="33%"><a href="0-jubilee.jpg"><img src="0-jubilee.jpg" width="260" alt="Jubilee picture 0"></a><br><sub>Photo: <a href="https://github.com/poofjunior">Joshua Vasquez (poofjunior)</a></sub></td><td align="center" width="33%"><a href="1-jubilee.jpg"><img src="1-jubilee.jpg" width="260" alt="Jubilee picture 1"></a><br><sub>Photo: <a href="https://github.com/poofjunior">Joshua Vasquez (poofjunior)</a></sub></td><td align="center" width="33%"><a href="2-jubilee.jpg"><img src="2-jubilee.jpg" width="260" alt="Jubilee picture 2"></a><br><sub>Photo: <a href="https://www.reddit.com/user/jackantubis">u/jackantubis</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-jubilee.jpg"><img src="3-jubilee.jpg" width="260" alt="Jubilee picture 3"></a><br><sub>Photo: <a href="https://www.youtube.com/@darkspeedy26">darkspeedy26</a></sub></td><td align="center" width="33%"><a href="4-jubilee.jpg"><img src="4-jubilee.jpg" width="260" alt="Jubilee picture 4"></a><br><sub>Photo: <a href="https://www.reddit.com/user/jackantubis">u/jackantubis</a></sub></td><td align="center" width="33%"><a href="5-jubilee.jpg"><img src="5-jubilee.jpg" width="260" alt="Jubilee picture 5"></a><br><sub>Photo: <a href="https://3ddistributed.com/author/shane77304/">Shane Hooper</a></sub></td></tr>
+<tr><td align="center" width="33%"><a href="6-jubilee.jpg"><img src="6-jubilee.jpg" width="260" alt="Jubilee picture 6"></a><br><sub>Photo: <a href="https://www.printables.com/@DamienCORSET_3189638">DamienCORSET</a></sub></td><td align="center" width="33%"><a href="7-jubilee.jpg"><img src="7-jubilee.jpg" width="260" alt="Jubilee picture 7"></a><br><sub>Photo: <a href="https://www.printables.com/@burntcrispy_191719">burntcrispy</a></sub></td><td align="center" width="33%"><a href="8-jubilee.jpg"><img src="8-jubilee.jpg" width="260" alt="Jubilee picture 8"></a><br><sub>Photo: <a href="https://www.printables.com/@burntcrispy_191719">burntcrispy</a></sub></td></tr>
 </table>
 
 ## Other homes of the files

@@ -18,11 +18,12 @@
 | Groups | [Discord](https://discord.gg/EzssCfnEDS) EN 2.7K |
 | License | [CC BY-NC-SA 4.0](https://github.com/lhndo/LH-Stinger/blob/main/LICENSE.md) |
 
-## Pictures (6)
+## Pictures (9)
 
 <table>
 <tr><td align="center" width="33%"><a href="0-lh-stinger.jpg"><img src="0-lh-stinger.jpg" width="260" alt="LH Stinger picture 0"></a><br><sub>Photo: <a href="https://github.com/lhndo">LHndo</a></sub></td><td align="center" width="33%"><a href="1-lh-stinger.jpg"><img src="1-lh-stinger.jpg" width="260" alt="LH Stinger picture 1"></a><br><sub>Photo: <a href="https://github.com/lhndo">LHndo</a></sub></td><td align="center" width="33%"><a href="2-lh-stinger.jpg"><img src="2-lh-stinger.jpg" width="260" alt="LH Stinger picture 2"></a><br><sub>Photo: <a href="https://github.com/lhndo">LHndo</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="3-lh-stinger.jpg"><img src="3-lh-stinger.jpg" width="260" alt="LH Stinger picture 3"></a><br><sub>Photo: Luke Ingerman</sub></td><td align="center" width="33%"><a href="4-lh-stinger.jpg"><img src="4-lh-stinger.jpg" width="260" alt="LH Stinger picture 4"></a><br><sub>Photo: <a href="https://github.com/lhndo">LHndo</a></sub></td><td align="center" width="33%"><a href="5-lh-stinger.jpg"><img src="5-lh-stinger.jpg" width="260" alt="LH Stinger picture 5"></a><br><sub>Photo: <a href="https://github.com/lhndo">LHndo</a></sub></td></tr>
+<tr><td align="center" width="33%"><a href="6-lh-stinger.jpg"><img src="6-lh-stinger.jpg" width="260" alt="LH Stinger picture 6"></a><br><sub>Version: with Pico MMU and filament buffer</sub><br><sub>Photo: <a href="https://www.printables.com/@RPi22_2986062">RPi</a></sub></td><td align="center" width="33%"><a href="7-lh-stinger.jpg"><img src="7-lh-stinger.jpg" width="260" alt="LH Stinger picture 7"></a><br><sub>Photo: <a href="https://www.printables.com/@PlasticGolem">Plastic Golem</a></sub></td><td align="center" width="33%"><a href="8-lh-stinger.jpg"><img src="8-lh-stinger.jpg" width="260" alt="LH Stinger picture 8"></a><br><sub>Photo: <a href="https://www.printables.com/@Killa_Prints">Killa_Prints</a></sub></td></tr>
 </table>
 
 ## Other homes of the files
