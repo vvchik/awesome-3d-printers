@@ -14,7 +14,7 @@
 | Exterior (W×D×H) | — |
 | Latest version | 1.5<br>[2022-10](https://lab.ratrig.com/vcast_1_5/) |
 | Stars Likes Views | [⏯️⁠33.4K](https://www.youtube.com/watch?v=3iKGS-H3x1g)<br>[❤️⁠377](https://www.youtube.com/watch?v=3iKGS-H3x1g) |
-| Links | [CAD](https://a360.co/3S9SQY0)<br>[CAD](https://a360.co/3ySI41x) Wide Boy<br>[BOM](https://lab.ratrig.com/vcast_1_5/#bill-of-materials)<br>[CAD](https://a360.co/3TbjzVw) old 1.0<br>[CAD](https://a360.co/3Tpx1Vi) old 1.0 Wide Boy<br>[BOM](https://lab.ratrig.com/vcast_1_0/#bill-of-materials) old 1.0<br>[Video](https://www.youtube.com/watch?v=3iKGS-H3x1g) old 1.0 |
+| Links | [CAD](https://a360.co/3S9SQY0)<br>[CAD](https://a360.co/3ySI41x) Wide Boy<br>[BOM](https://lab.ratrig.com/vcast_1_5/#bill-of-materials)<br>[CAD](https://a360.co/3TbjzVw) old 1.0<br>[CAD](https://a360.co/3Tpx1Vi) old 1.0<br>[BOM](https://lab.ratrig.com/vcast_1_0/#bill-of-materials) old 1.0<br>[Video](https://www.youtube.com/watch?v=3iKGS-H3x1g) old 1.0 |
 | Groups | [Facebook](https://www.facebook.com/groups/ratrig3dprintercommunity) EN 19.9K<br>[Discord](https://discord.gg/ratrig) EN 13.8K<br>[Reddit](https://www.reddit.com/r/RatRig/) EN 3K |
 | License | [CC BY-NC-SA 4.0](https://lab.ratrig.com/vcast_1_5/#license) |
 

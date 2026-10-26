@@ -15,7 +15,7 @@
 | Exterior (W×D×H) | open: 200×200×270<br>folded: 200×200×80 |
 | Latest version | V3.2.2<br>[2026-09](https://github.com/Positron3D/Positron/commit/75ac17a07e02694e1fc80a3a256ede64cca90e6d) |
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/Positron3D/Positron?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/Positron3D/Positron)<br>[🧡⁠70](https://www.printables.com/model/932474)<br>[⏯️⁠785K](https://www.youtube.com/watch?v=X_QLxTVtyng)<br>[❤️⁠32.2K](https://www.youtube.com/watch?v=X_QLxTVtyng) |
-| Links | [Files](https://github.com/Positron3D/Positron/tree/main/Printed%20Parts%20%26%20CAD%20Models)<br>[Original](https://github.com/KRALYN/PositronV3) |
+| Links | [Files](https://github.com/Positron3D/Positron/tree/main/Printed%20Parts%20%26%20CAD%20Models)<br>[Orig.](https://github.com/KRALYN/PositronV3) |
 | Groups | [Discord](https://discord.gg/positron) EN 2.9K |
 | License | [CC BY-SA 4.0 (Positron3D GitHub, Printables), CC BY 4.0 (KRALYN/PositronV3)](https://github.com/Positron3D/Positron#licenses) |
 

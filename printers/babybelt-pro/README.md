@@ -14,7 +14,7 @@
 | Exterior (W×D×H) | — |
 | Latest version | v2.6<br>[2026-08](https://github.com/RobMink/BabyBeltPro/blob/HEAD/documentation/CHANGE-LOG.md#2026-08-13) |
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/RobMink/BabyBeltPro?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/RobMink/BabyBeltPro)<br>[⏯️⁠2.1K](https://www.youtube.com/watch?v=joXvj6Lqx88)<br>[❤️⁠72](https://www.youtube.com/watch?v=joXvj6Lqx88) |
-| Links | [STEP](https://github.com/RobMink/BabyBeltPro/blob/HEAD/CAD/BBProV2POINT6.stp) v2.6<br>[Manual](https://github.com/RobMink/BabyBeltPro/blob/HEAD/documentation/bbpv2_build_guide.md) v2.6<br>[STEP](https://github.com/RobMink/Babybelt/blob/HEAD/bb.stp) original BabyBelt |
+| Links | [STEP](https://github.com/RobMink/BabyBeltPro/blob/HEAD/CAD/BBProV2POINT6.stp) v2.6<br>[Manual](https://github.com/RobMink/BabyBeltPro/blob/HEAD/documentation/bbpv2_build_guide.md) v2.6<br>[STEP](https://github.com/RobMink/Babybelt/blob/HEAD/bb.stp) v1 |
 | Groups | [Discord](https://discord.gg/NTDZMsCwXh) EN 886 |
 | License | [GPL-3.0 (BabyBelt Pro), CC BY-NC-SA 4.0 (original BabyBelt)](https://github.com/RobMink/BabyBeltPro/blob/2.6/LICENSE) |
 

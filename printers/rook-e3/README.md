@@ -14,7 +14,7 @@
 | Exterior (W×D×H) | — |
 | Latest version | STEP<br>[2023-05](https://github.com/Kanrog/Rook-E3/commit/704e7449ef641c0bc947157f32905275587d2188) |
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/Kanrog/Rook-E3?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/Kanrog/Rook-E3)<br>[🧡⁠76](https://www.printables.com/model/487388-rook-e3) |
-| Links | [STEP](https://www.printables.com/model/487388-rook-e3/files)<br>[Original](https://www.printables.com/model/447255-rook-2020-mk1) |
+| Links | [STEP](https://www.printables.com/model/487388-rook-e3/files)<br>[Orig.](https://www.printables.com/model/447255-rook-2020-mk1) |
 | Groups | [Discord](https://discord.gg/rolohaun-3d-946191040682008666) EN 7.8K |
 | License | [CC0-1.0 (GitHub LICENSE); CC BY-NC (Printables license field)](https://github.com/Kanrog/Rook-E3/blob/main/LICENSE) |
 

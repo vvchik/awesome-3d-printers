@@ -14,7 +14,7 @@
 | Exterior (W×D×H) | — |
 | Latest version | One.1<br>[2025-05](https://github.com/ZeroGDesign/MercuryOne/releases/tag/Release) |
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/ZeroGDesign/MercuryOne?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/ZeroGDesign/MercuryOne)<br>[⏯️⁠15.2K](https://www.youtube.com/watch?v=nUwLjH3-oIc)<br>[❤️⁠164](https://www.youtube.com/watch?v=nUwLjH3-oIc) |
-| Links | [CAD](https://github.com/ZeroGDesign/MercuryOne/tree/HEAD/CAD) One.1<br>[Manual](https://docs.zerog.one/manual/build/mercury_eva) One.1<br>[STEP](https://github.com/ZeroGDesign/Mercury-OUTDATED/blob/main/CAD/Zero%20G%20-%20Mercury%20One.step) old Mercury One |
+| Links | [CAD](https://github.com/ZeroGDesign/MercuryOne/tree/HEAD/CAD) One.1<br>[Manual](https://docs.zerog.one/manual/build/mercury_eva) One.1<br>[STEP](https://github.com/ZeroGDesign/Mercury-OUTDATED/blob/main/CAD/Zero%20G%20-%20Mercury%20One.step) old |
 | Groups | [Discord](https://discord.gg/zerog) EN 9.7K |
 | License | [CC BY-NC-SA 4.0 (MercuryOne), GPL-3.0 (Mercury-OUTDATED)](https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/LICENSE) |
 

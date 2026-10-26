@@ -14,7 +14,7 @@
 | Exterior (W×D×H) | — |
 | Latest version | Huxley Duo<br>[2015-05](https://github.com/reprappro/huxley-duo/commit/48620590fb0521d3a84cc472c45d9e97e1f0a055) |
 | Stars Likes Views | [💙⁠391](https://www.thingiverse.com/thing:16625)<br>[⏯️⁠950](https://www.youtube.com/watch?v=qj9labKZU9g)<br>[❤️⁠3](https://www.youtube.com/watch?v=qj9labKZU9g) |
-| Links | [Files](https://github.com/reprappro/huxley-duo) Huxley Duo<br>[Files](https://github.com/reprappro/Huxley) RepRapPro<br>[Manual](https://reprapltd.com/reprappro/documentation/huxley/) RepRapPro<br>[Files](https://svn.code.sf.net/p/reprap/code/trunk/huxley/) RepRap original |
+| Links | [Files](https://github.com/reprappro/huxley-duo) Huxley Duo<br>[Files](https://github.com/reprappro/Huxley) RepRapPro<br>[Manual](https://reprapltd.com/reprappro/documentation/huxley/) RepRapPro<br>[Files](https://svn.code.sf.net/p/reprap/code/trunk/huxley/) RepRap |
 | Groups | [Forum](https://reprap.org/forum/list.php?214) EN |
 | License | [GPL-3.0 (Huxley Duo, GitHub README), GPL (RepRapPro Huxley, GitHub README), GPL-2.0 (Thingiverse)](https://github.com/reprappro/Huxley/blob/master/README) |
 
