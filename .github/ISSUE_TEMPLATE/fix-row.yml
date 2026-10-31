@@ -1,0 +1,45 @@
+name: Fix a row
+description: A size, date, link, or credit in the catalog is wrong or out of date.
+title: "Fix: <printer name>"
+body:
+  - type: input
+    id: row
+    attributes:
+      label: Printer
+      description: Name or link to the row.
+      placeholder: https://github.com/vvchik/awesome-3d-printers#rook-mk1
+    validations:
+      required: true
+  - type: dropdown
+    id: field
+    attributes:
+      label: Field
+      options:
+        - Build volume
+        - Exterior size
+        - Latest version or date
+        - Links (CAD, BOM, manual, ...)
+        - Groups
+        - Picture or picture credit
+        - Description text
+        - Section or sorting
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: correct
+    attributes:
+      label: Correct value
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: Link that shows the correct value. For a picture, say whether you are the author.
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
