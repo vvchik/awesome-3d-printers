@@ -1,6 +1,8 @@
 # Awesome 3D Printers <!-- omit from toc -->
 
-A curated catalog of open-design and community-documented FDM printers to build, modify, or study. Each design has **one catalog row**. The [gallery](GALLERY.md) shows every printer as a picture. [Column notes](#column-notes) explain the columns and marks. The printer name links to its project repository when available, otherwise to the creator's project page or a useful community reference. [Maker and family labels](#browse-by-maker-or-family) help you find related designs without repeating rows. Within each kinematics section or size group, rows are sorted by GitHub stars. Designs without a repository are sorted by their highest like count.
+A curated catalog of open-design and community-documented FDM printers to build, modify, or study. Every design has one row with build volume, exterior size, latest revision, links to CAD, BOM and manual, and builder groups, so machines of the same class sit side by side. Open-source commercial machines are included when their design files and firmware are public. Browse the [gallery](GALLERY.md), start with [a few picks](#start-here) or go straight to the [tables](#printers-by-motion-system).
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Last update](https://img.shields.io/github/last-commit/vvchik/awesome-3d-printers?label=last%20update)](https://github.com/vvchik/awesome-3d-printers/commits/main) [![License CC0](https://img.shields.io/badge/license-CC0%201.0-lightgrey)](LICENSE) [![Contribute](https://img.shields.io/badge/add%20a%20printer-issue%20form-2da44e)](https://github.com/vvchik/awesome-3d-printers/issues/new?template=add-printer.yml)
 
 ## Contents <!-- omit from toc -->
 
@@ -63,7 +65,9 @@ is mostly printed, uses a four-motor gantry, and has published build files and d
 
 ## Printers by motion system
 
-The primary sections group related XY motion layouts.
+The primary sections group related XY motion layouts.  
+Rows are sorted by GitHub stars within each section. Designs without a repository are sorted by their highest like count.  
+[Column notes](#column-notes) explain the columns and marks, and [maker and family labels](#browse-by-maker-or-family) group related designs.
 
 ### CoreXY
 
@@ -339,6 +343,8 @@ Designs that shaped later printers and no longer get updates. They are useful fo
 
 ## Column notes
 
+**Printer:** The name links to the project repository when there is one, otherwise to the creator's project page or a useful community reference. Within each section or size group, rows are sorted by GitHub stars, highest first. Designs without a repository are sorted by their highest like count.
+
 **Photo:** The main picture of the printer. Click it to open the printer page with all pictures. The [gallery](GALLERY.md) shows the main pictures in one grid.
 
 **Sizes:** All sizes are in millimetres. Build volume is the printable X×Y×Z. Exterior is the body or frame W×D×H, without the spool, cables, or bed travel. If a source gives a range, the cell shows the largest value. `?` means the axis is not confirmed, `—` means no reliable figure, and `configurable` means no fixed volume. `Ø` is the print diameter of a delta. `∞` is the open print length of a belt printer.
@@ -489,13 +495,7 @@ The same printer appears only once above. These links jump to its row; use your 
 
 ## How to contribute
 
-Pull requests are welcome. To suggest a printer, add its project page and one sentence on why it is interesting. Add direct links to the build guide, BOM, CAD, and the creator's video if they exist. Do not add homepages, dead links, duplicates, or claims such as "best" or "cheapest".
-
-To add a full row, follow "Column notes":
-
-1. Put the row in the table for its motion system and size. If the design has no update since 2024-10 and no active group, use Legacy. If it shaped later printers and no longer gets updates, use Historical.
-2. Count only the creator's own pages and videos. For a GitHub repository, add the star badge from an existing row.
-3. Sort rows by GitHub stars, highest first. If a row has no repository, use its highest like count. Rows with no counts go last.
+Use the [Add a printer](https://github.com/vvchik/awesome-3d-printers/issues/new?template=add-printer.yml) form to suggest a design, or the [Fix a row](https://github.com/vvchik/awesome-3d-printers/issues/new?template=fix-row.yml) form to correct a number. Pull requests are welcome; [CONTRIBUTING.md](CONTRIBUTING.md) has the row format and the picture rules.
 
 ## License
 

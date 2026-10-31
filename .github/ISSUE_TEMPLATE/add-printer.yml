@@ -1,0 +1,97 @@
+name: Add a printer
+description: Suggest a printer for the catalog. The fields match one catalog row.
+title: "Add: <printer name>"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Fill what you know. Empty fields are fine; a project page and one sentence are enough to start.
+        Rules: open design with published files, one row per design, no "best" or "cheapest" claims.
+  - type: input
+    id: name
+    attributes:
+      label: Printer name
+      placeholder: Rook MK1
+    validations:
+      required: true
+  - type: input
+    id: project-page
+    attributes:
+      label: Project page
+      description: Repository, Printables page, or the creator's own site. Not a homepage or a shop.
+      placeholder: https://github.com/rolohaun/Rook
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: Author or family
+      placeholder: Rolohaun / Rook family
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it is interesting
+      description: One or two sentences. What makes it different from the designs already listed?
+    validations:
+      required: true
+  - type: dropdown
+    id: kinematics
+    attributes:
+      label: Motion system
+      options:
+        - CoreXY
+        - Cross-gantry
+        - Cartesian (moving bed)
+        - Delta
+        - Belt
+        - 5-axis
+        - Other
+        - Conversion of an existing printer
+        - Concept or prototype
+    validations:
+      required: true
+  - type: input
+    id: build-volume
+    attributes:
+      label: Build volume X×Y×Z (mm)
+      placeholder: 120×120×100
+  - type: input
+    id: exterior
+    attributes:
+      label: Exterior W×D×H (mm)
+      description: Frame or body only, without spool, cables, or bed travel.
+      placeholder: 220×250×280
+  - type: input
+    id: latest
+    attributes:
+      label: Latest public revision and its source
+      description: Version or date, plus the link that proves it (release, changelog, CAD commit, file upload).
+      placeholder: MK1.1, 2024-12, https://www.printables.com/model/387431
+  - type: textarea
+    id: links
+    attributes:
+      label: Direct links
+      description: One per line. CAD or STEP, STL, BOM, manual, wiki, config, firmware, creator's video.
+      placeholder: |
+        STEP: https://github.com/rolohaun/Rook/blob/HEAD/CAD/Rook_MK1.step
+        Manual: https://drive.google.com/file/d/...
+  - type: textarea
+    id: groups
+    attributes:
+      label: Builder groups
+      description: Discord, Reddit, Telegram, Facebook, forum. Official groups first. Add the language and member count if visible.
+      placeholder: "Discord https://discord.gg/... EN 7.8K"
+  - type: input
+    id: license
+    attributes:
+      label: License of the design
+      placeholder: CC BY-NC 4.0
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: The design files are published and the license allows building it.
+          required: true
+        - label: I searched the catalog and this design is not already listed under another name.
+          required: true
