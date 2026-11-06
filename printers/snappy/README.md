@@ -14,7 +14,7 @@
 | Exterior (W×D×H) | — |
 | Latest version | v3.0.3<br>[2018-02](https://github.com/revarbat/snappy-reprap/releases/tag/snappy_3.0.3) |
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/revarbat/snappy-reprap?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/revarbat/snappy-reprap)<br>[💙⁠1.1K](https://www.thingiverse.com/thing:1828359)<br>[⏯️⁠54.6K](https://www.youtube.com/watch?v=3KJbrb0P8jQ)<br>[❤️⁠172](https://www.youtube.com/watch?v=3KJbrb0P8jQ) |
-| Links | [Manual](https://github.com/revarbat/snappy-reprap/tree/HEAD/docs) |
+| Links | [CAD](https://github.com/revarbat/snappy-reprap/blob/HEAD/full_assembly.scad) OpenSCAD<br>[STL](https://github.com/revarbat/snappy-reprap/tree/HEAD/STLs)<br>[Manual](https://github.com/revarbat/snappy-reprap/tree/HEAD/docs) |
 | Groups | [Forum](https://reprap.org/forum/list.php?151) EN |
 | License | [GPL-2.0](https://github.com/revarbat/snappy-reprap/blob/master/LICENSE) |
 

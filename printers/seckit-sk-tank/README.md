@@ -14,7 +14,7 @@
 | Exterior (W×D×H) | 560×530×710 |
 | Latest version | STEP<br>[2025-03](https://github.com/SecKit/SK-Tank/commit/ae56719d14c6fef099e959b14f3daf03f4c1f8b8) |
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/SecKit/SK-Tank?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/SecKit/SK-Tank)<br>[⏯️⁠5.1K](https://www.youtube.com/watch?v=aX0A48tPdEk)<br>[❤️⁠62](https://www.youtube.com/watch?v=aX0A48tPdEk) |
-| Links | [Manual](https://sites.google.com/view/seckit-wiki/sk-tank-v2-400x400x400/assembly-manuals/sk-tank-v2-assembly-manual) v2<br>[Manual](https://sites.google.com/view/seckit-wiki/sk-tank-350x350x400) v1 |
+| Links | [STEP](https://github.com/SecKit/SK-Tank/tree/HEAD/v2/STEP%20files) v2<br>[STEP](https://github.com/SecKit/SK-Tank/tree/HEAD/v1/STEP%20files) v1<br>[Manual](https://sites.google.com/view/seckit-wiki/sk-tank-v2-400x400x400/assembly-manuals/sk-tank-v2-assembly-manual) v2<br>[Manual](https://sites.google.com/view/seckit-wiki/sk-tank-350x350x400) v1 |
 | Groups | [Facebook](https://www.facebook.com/groups/SecKitCoreXY3DP/) EN 2.6K |
 | License | [CC BY-NC-SA 4.0](https://github.com/SecKit/SK-Tank/blob/master/v2/STEP%20files/README.md) |
 

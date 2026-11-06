@@ -14,7 +14,7 @@
 | Exterior (W×D×H) | — |
 | Latest version | ZR V2.6<br>[2024-09](https://github.com/MirageC79/HevORT/commit/c5fda5aa6289384b712de6a05a97f9e8f1eeac27) |
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/MirageC79/HevORT?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/MirageC79/HevORT)<br>[💙⁠925](https://www.thingiverse.com/thing:3532039)<br>[⏯️⁠728K](https://www.youtube.com/watch?v=ibsBiALMMSE)<br>[❤️⁠10.1K](https://www.youtube.com/watch?v=ibsBiALMMSE) |
-| Links | [Manual](https://github.com/MirageC79/HevORT/tree/HEAD/docs)<br>[BOM](https://github.com/MirageC79/HevORT/tree/HEAD/bom) |
+| Links | [Files](https://github.com/MirageC79/HevORT/tree/HEAD/files/Components)<br>[Manual](https://github.com/MirageC79/HevORT/tree/HEAD/docs)<br>[BOM](https://github.com/MirageC79/HevORT/tree/HEAD/bom) |
 | Groups | [Facebook](https://www.facebook.com/groups/hevort) EN 6.6K<br>[Discord](https://discord.gg/nCYRQAZPWV) EN 3.8K |
 | License | [CC BY-NC 4.0 (GitHub LICENSE.md, Thingiverse), GPL-3.0 (GitHub LICENSE)](https://github.com/MirageC79/HevORT/blob/master/LICENSE.md) |
 
