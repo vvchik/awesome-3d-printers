@@ -6,10 +6,10 @@
 
 | Field | Value |
 | --- | --- |
-| Section | Belt |
+| Section | Legacy designs |
 | Project page | [https://github.com/NAK3DDesigns/White-Knight](https://github.com/NAK3DDesigns/White-Knight) |
 | Author | NAK3D Designs |
-| About | DIY continuous-print belt printer with a published full assembly. No update since 2020 and no active group. |
+| About | DIY continuous-print belt printer with a published full assembly. No update since 2020-11. |
 | Build volume (X×Y×Z) | 400×430×∞ |
 | Exterior (W×D×H) | — |
 | Latest version | Files<br>[2020-11](https://github.com/NAK3DDesigns/White-Knight/commit/f016a38751e611e64b5afe8dfefdf459d25f30b2) |

@@ -6,10 +6,10 @@
 
 | Field | Value |
 | --- | --- |
-| Section | Historical designs |
+| Section | Legacy designs |
 | Project page | [https://www.thingiverse.com/thing:1752766](https://www.thingiverse.com/thing:1752766) |
 | Author | Tech2C |
-| About | Influential extrusion-frame DIY CoreXY. Base and idea for many later cube builds. |
+| About | Influential extrusion-frame DIY CoreXY. Base and idea for many later cube builds. No update since 2020-01. |
 | Build volume (X×Y×Z) | 200×200×155 |
 | Exterior (W×D×H) | 380×343×350 |
 | Latest version | Log<br>[2020-01](https://www.thingiverse.com/thing:1752766) |

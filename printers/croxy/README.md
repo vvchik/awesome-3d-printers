@@ -9,7 +9,7 @@
 | Section | Cross-gantry |
 | Project page | [https://github.com/CroXY3D/CroXY](https://github.com/CroXY3D/CroXY) |
 | Author | Wes Cherry |
-| About | Cross-gantry printer built from laser-cut aluminum plates on 3060 extrusion, with four XY motors and a triple-belt Z. Only the cooling duct is printed. Version 3 is close to beta. The enclosure is still in work. [Defiant](../../README.md#defiant) is a CroXY build. |
+| About | Cross-gantry printer built from laser-cut aluminum plates on 3060 extrusion, with four XY motors and a triple-belt Z. Only the cooling duct is printed. Version 3 is close to beta. The enclosure is still in work. |
 | Build volume (X×Y×Z) | 300×300×300 |
 | Exterior (W×D×H) | — |
 | Latest version | v2.0.0<br>[2023-12](https://github.com/CroXY3D/CroXY/releases/tag/v2.0.0) |

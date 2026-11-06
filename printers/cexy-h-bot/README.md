@@ -6,10 +6,10 @@
 
 | Field | Value |
 | --- | --- |
-| Section | Historical designs |
+| Section | Legacy designs |
 | Project page | [https://www.thingiverse.com/thing:3383389](https://www.thingiverse.com/thing:3383389) |
 | Author | xDOOTx |
-| About | H-bot on 2020 extrusion with 8 mm rods and standard parts. It replaced the [first CeXY](https://www.thingiverse.com/thing:3080955) and adds a BOM, a photo build guide, and Fusion files. No update since 2019. |
+| About | H-bot on 2020 extrusion with 8 mm rods and standard parts. It replaced the [first CeXY](https://www.thingiverse.com/thing:3080955) and adds a BOM, a photo build guide, and Fusion files. No update since 2019-12. |
 | Build volume (X×Y×Z) | 200×200×? |
 | Exterior (W×D×H) | — |
 | Latest version | Files<br>[2019-12](https://www.thingiverse.com/thing:3383389/files) |

@@ -7,7 +7,7 @@
 | Field | Value |
 | --- | --- |
 | Section | Legacy designs |
-| Project page | [https://github.com/shanehooper/WorkHorse3DPrinter](https://github.com/shanehooper/WorkHorse3DPrinter) |
+| Project page | [https://hackaday.io/project/177793](https://hackaday.io/project/177793) |
 | Author | Shane Hooper / 3D Distributed |
 | About | Large fixed-bed gantry Cartesian that drives X, Y, and Z with lead screws instead of belts. Versions are the Pilot Printer (2017), WorkHorse V1 and V2, and the 600 mm WorkHorse XL. No update since 2022-05. |
 | Build volume (X×Y×Z) | 650×350×350<br>XL: 600×600×600 |

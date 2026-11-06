@@ -6,10 +6,11 @@
 
 | Field | Value |
 | --- | --- |
-| Section | Legacy designs |
-| Project page | [https://github.com/Apsu/delteron](https://github.com/Apsu/delteron) |
+| Section | Concepts and prototypes |
+| Project page | [https://www.thingiverse.com/thing:1948394](https://www.thingiverse.com/thing:1948394) |
 | Author | Apsu |
 | About | Colinear Tripteron in a linear-delta frame. Three towers drive arms that hang the effector from above, with linear kinematics that need custom firmware code. No update since 2017-01. |
+| Build type | Colinear tripteron |
 | Build volume (X×Y×Z) | — |
 | Exterior (W×D×H) | — |
 | Latest version | CAD<br>[2017-01](https://github.com/Apsu/delteron/commit/d3e515120f3ed0c558a1e7e840fbe96bb36307c9) |

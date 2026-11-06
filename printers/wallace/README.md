@@ -7,14 +7,14 @@
 | Field | Value |
 | --- | --- |
 | Section | Historical designs |
-| Project page | [https://github.com/whosawhatsis/RepRap-Wallace](https://github.com/whosawhatsis/RepRap-Wallace) |
+| Project page | [https://www.thingiverse.com/thing:14208](https://www.thingiverse.com/thing:14208) |
 | Author | Whosawhatsis |
 | About | Parametric, minimalist early Cartesian design. Later simple RepRaps copied its minimal frame. |
 | Build volume (X×Y×Z) | 200×200×140 |
 | Exterior (W×D×H) | — |
 | Latest version | CAD<br>[2012-02](https://github.com/whosawhatsis/RepRap-Wallace/commit/22788bdad7114b5d66fb84c0653973bc2ed760f2) |
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/whosawhatsis/RepRap-Wallace?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/whosawhatsis/RepRap-Wallace)<br>[💙⁠436](https://www.thingiverse.com/thing:14208)<br>[⏯️⁠32.5K](https://www.youtube.com/watch?v=0QrEmGlZT0w)<br>[❤️⁠22](https://www.youtube.com/watch?v=0QrEmGlZT0w) |
-| Links | [Manual](https://reprap.org/wiki/Wallace) |
+| Links | [Files](https://github.com/whosawhatsis/RepRap-Wallace)<br>[Manual](https://reprap.org/wiki/Wallace) |
 | Groups | — |
 | License | [GPL-2.0 (Thingiverse)](https://www.thingiverse.com/thing:14208) |
 

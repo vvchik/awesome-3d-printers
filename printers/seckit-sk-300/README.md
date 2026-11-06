@@ -7,7 +7,7 @@
 | Field | Value |
 | --- | --- |
 | Section | Legacy designs |
-| Project page | [https://github.com/SecKit/SK-300_SK-600](https://github.com/SecKit/SK-300_SK-600) |
+| Project page | [https://www.thingiverse.com/thing:3611127](https://www.thingiverse.com/thing:3611127) |
 | Author | SecKit family |
 | About | All-metal CoreXY frame kit on 3030 extrusion with MGN12 rails, servo XY motors, and a water-cooled extruder. SK-300 and SK-600 differ in Z height. No update since 2019-11. |
 | Build volume (X×Y×Z) | SK-300: ?×?×300<br>SK-600: ?×?×600 |

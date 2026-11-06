@@ -14,7 +14,7 @@
 | Exterior (W×D×H) | — |
 | Latest version | First release<br>[2016-11](https://www.thingiverse.com/thing:1903757) |
 | Stars Likes Views | [💙⁠353](https://www.thingiverse.com/thing:1903757)<br>[🧡⁠29](https://www.printables.com/model/157727)<br>[⏯️⁠58.4K](https://www.youtube.com/watch?v=aRaI0pesDN0)<br>[❤️⁠708](https://www.youtube.com/watch?v=aRaI0pesDN0) |
-| Links | — |
+| Links | [STEP](https://www.printables.com/model/157727/files)<br>[STL](https://github.com/Apsu/tripteron) |
 | Groups | [Forum](https://reprap.org/forum/read.php?166,719575) EN inactive |
 | License | [CC BY-NC (Thingiverse), CC BY-NC-SA (Printables, RepRap wiki), GPL-3.0 (GitHub)](https://www.thingiverse.com/thing:1903757) |
 

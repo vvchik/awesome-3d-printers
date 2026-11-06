@@ -6,10 +6,10 @@
 
 | Field | Value |
 | --- | --- |
-| Section | CoreXY · Small (≤180 mm representative X/Y size) |
+| Section | Legacy designs |
 | Project page | [https://github.com/martinbudden/BabyCube](https://github.com/martinbudden/BabyCube) |
 | Author | Martin Budden |
-| About | Printed-frame mini CoreXY with linear rails and a roughly 90 × 80 × 60 mm build volume. The repo also has guides for the larger BC220 and the carbon-fiber BC220CF, which is a work in progress. |
+| About | Printed-frame mini CoreXY with linear rails and a roughly 90 × 80 × 60 mm build volume. The repo also has guides for the larger BC220 and the carbon-fiber BC220CF, which is a work in progress. No update since 2024-11. |
 | Build volume (X×Y×Z) | 90×80×60 |
 | Exterior (W×D×H) | 248×272×211 |
 | Latest version | CAD<br>[2024-11](https://github.com/martinbudden/BabyCube/commit/423e054dc83208dce2bd1ad6f3b843f601238b6d) |

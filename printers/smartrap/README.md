@@ -14,7 +14,7 @@
 | Exterior (W×D×H) | — |
 | Latest version | CAD<br>[2015-07](https://github.com/smartfriendz/smartrap/commit/5ff51f4ab0f82a5eb2dacf58f4ec6b549e961622) |
 | Stars Likes Views | [💙⁠2.4K](https://www.thingiverse.com/thing:177256) |
-| Links | — |
+| Links | [CAD](https://github.com/smartfriendz/smartrap/tree/master/blender) Blender<br>[STL](https://github.com/smartfriendz/smartrap/tree/master/stl) |
 | Groups | [Forum](https://reprap.org/forum/list.php?344) EN<br>[Facebook](https://www.facebook.com/groups/Smartrap/) EN 64 |
 | License | [GPL-2.0](https://github.com/smartfriendz/smartrap/blob/master/LICENSE) |
 
