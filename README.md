@@ -2,7 +2,7 @@
 
 A curated catalog of open-design and community-documented FDM printers to build, modify, or study. Every design has one row with build volume, exterior size, latest revision, links to CAD, BOM and manual, and builder groups, so machines of the same class sit side by side. Open-source commercial machines are included when their design files and firmware are public. Browse the [gallery](GALLERY.md), start with [a few picks](#start-here) or go straight to the [tables](#printers-by-motion-system).
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Last update](https://img.shields.io/github/last-commit/vvchik/awesome-3d-printers?label=last%20update)](https://github.com/vvchik/awesome-3d-printers/commits/main) [![License CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)](LICENSE) [![Contribute](https://img.shields.io/badge/add%20a%20printer-issue%20form-2da44e)](https://github.com/vvchik/awesome-3d-printers/issues/new?template=add-printer.yml)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Last update](https://img.shields.io/github/last-commit/vvchik/awesome-3d-printers?label=last%20update)](https://github.com/vvchik/awesome-3d-printers/commits/main) [![License CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)](LICENSE) [![Contribute](https://img.shields.io/badge/add%20a%20printer-issue%20form-2da44e)](https://github.com/vvchik/awesome-3d-printers/issues/new?template=add-printer.yml) [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua/)
 
 ## Contents <!-- omit from toc -->
 
