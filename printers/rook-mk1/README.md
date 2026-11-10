@@ -28,3 +28,7 @@
 ## Other homes of the files
 
 - Wayback Machine: [latest snapshot](https://web.archive.org/web/20260306045644/https://www.printables.com/model/387431-rook-mk1-3d-printer), 2026-03-06.
+
+## Mods and variants
+
+- [Rookie Centuri](https://github.com/Adminer0/Rookie-Centuri) by Adminer0: a 110×110×110 mm learning CoreXY, with STLs and Klipper and Cura configs. MIT.

@@ -42,9 +42,17 @@
 
 ## Mods and variants
 
-- [P3steel toolson edition MK1](https://www.thingiverse.com/thing:1054909) by toolson: reworked printed parts for the P3Steel steel frame. CC BY-NC.
-- [P3steel toolson edition MK2](https://github.com/toolson/P3sTE_MK2) by toolson: second rework on an unmodified P3Steel v2 frame, with sintered-bronze bushings. CC BY-NC 3.0.
+- [P3Steel](https://reprap.org/wiki/P3Steel) by Irobri: a 3 mm laser-cut steel frame replaces the threaded-rod frame. CC BY-NC 3.0. Versions: [P3SteelMM](https://reprap.org/wiki/P3SteelMM) by Moebyus Machines, a lighter frame, CC BY-NC 3.0. [MGN V19](https://github.com/campy/P3Steel-MGN-V19) by campy, linear rails on all axes, and its [XL](https://github.com/campy/P3Steel-MGN-V19-XL) with 400 mm Z, CC BY-NC 3.0 ES. [toolson edition MK1](https://www.thingiverse.com/thing:1054909) by toolson, reworked printed parts, CC BY-NC. [toolson edition MK2](https://github.com/toolson/P3sTE_MK2), sintered-bronze bushings, CC BY-NC 3.0.
 - [RotBot](https://www.printables.com/model/288723-4-axis-modification-for-mk3s-with-rotational-print) by Mich (ZHAW): a toolhead with a 45° nozzle that rotates without limit for conical slicing, base Original Prusa i3 MK3S. GPL-3.0.
+- [Prusawire](https://github.com/Positron3D/Prusawire) by Positron Team / Kralyn: converts a Prusa MK3 or MK4 to a Switchwire-style CoreXZ bed slinger with a 250×210×185 mm build volume. GPL-3.0.
+- [Asimov](https://github.com/asimovreprap/Asimov) by AW / asimovreprap (fablabo, Nantes): moves the Prusa i3 layout to an aluminium-profile frame, with SketchUp and partial OpenSCAD models. GPL.
+- [Hephestos 2](https://github.com/bq/hephestos-2) by bq: the successor of the Prusa i3 Hephestos, with bq's own electronics and a gear-driven double-drive extruder. CC BY-SA 4.0.
+- [DesignTricks 3D printer](https://www.dropbox.com/scl/fo/4iyzir50685z4xrmqlkls/h?rlkey=75fth22aqktiybhky4yozphqw&dl=0) by DesignTricks: an i3-style printer redrawn in SolidWorks, shared as STL part packs and a laser-cut DXF, on RAMPS 1.4. License not stated.
+- [Litone](https://github.com/Mourakami/Litone) by Mourakami: a Graber i3 derivative in a closed MDF box, with SketchUp drawings and French build pages. GPL.
+- [PowerCode](https://github.com/Mecan0/Code) by Manuel Palacios (Mecano): flat laser-cut plates replace the front and back threaded rods, with M10 rods and a 3-point leveling bed. CC BY-SA.
+- [Prusa i3 Rework](https://github.com/eMotion-Tech/Prusai3_EINSTEIN_Reworked) by eMotion Tech / Reprap-France: reworked parts of the EiNSTeiN variant, with a Magma hotend extruder, a Y belt tensioner and endstop mounts, plus a French build manual. GPL.
+- [Prusa Snowden](https://reprap.org/wiki/Prusa_Snowden/fr) by Pierre-Alexis Ciavaldini and Patrick Suchet (LabFab Rennes, EESAB): a parametric mix of the Prusa i3, Graber and Rework. Its SolidWorks files are not published. CC BY-NC-SA.
+- [WoodMAX i3](https://github.com/asensar/WoodMAX) by aSensar: a laser-cut wooden frame, DXF only, also sold as a kit in India. GPL-3.0.
 
 ## Popular mods
 

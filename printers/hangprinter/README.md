@@ -32,3 +32,7 @@
 - [GitLab](https://gitlab.com/tobben/hangprinter): full mirror of the repository with the same branches, OpenSCAD sources, STL, docs, and firmware. GPL-2.0.
 - [hangprinter.org](https://hangprinter.org/): v3 and v4 docs, FAQ, and the project status. GPL-2.0 for the repository (FAQ).
 - Wayback Machine: [latest snapshot](https://web.archive.org/web/20260218215213/https://github.com/tobbelobb/hangprinter), 2026-02-18.
+
+## Mods and variants
+
+- [RefRig](https://refrig.hangprinter.org/) by Torbjørn Ludvigsen: a desktop-scale cable-driven reference rig inside an LDO Voron 2.4 300 mm frame. The site shows only a concept render. License not stated.

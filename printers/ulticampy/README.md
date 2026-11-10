@@ -25,3 +25,8 @@
 <tr><td align="center" width="33%"><a href="3-ulticampy.jpg"><img src="3-ulticampy.jpg" width="260" alt="Ulticampy picture 3"></a><br><sub>Version: V2/V3 black acrylic box</sub><br><sub>Photo: <a href="https://www.thingiverse.com/Campy/designs">Campy</a></sub></td><td align="center" width="33%"><a href="4-ulticampy.jpg"><img src="4-ulticampy.jpg" width="260" alt="Ulticampy picture 4"></a><br><sub>Version: V2</sub><br><sub>Photo: <a href="https://github.com/campy">Campy</a></sub></td><td align="center" width="33%"><a href="5-ulticampy.jpg"><img src="5-ulticampy.jpg" width="260" alt="Ulticampy picture 5"></a><br><sub>Version: V1 (MDF box)</sub><br><sub>Photo: <a href="https://github.com/campy">Campy</a></sub></td></tr>
 <tr><td align="center" width="33%"><a href="6-ulticampy.jpg"><img src="6-ulticampy.jpg" width="260" alt="Ulticampy picture 6"></a><br><sub>Version: V1</sub><br><sub>Photo: <a href="https://github.com/campy">Campy</a></sub></td></tr>
 </table>
+
+## Mods and variants
+
+- [Ulticampy V1](https://github.com/campy/Ulticampy-V1) by 3DCampy / 3DEspana: the first version, with an MDF frame. The repo has STEP and SketchUp panels and DWG and DXF drawings. CC BY-SA 4.0.
+- [Ulticampy V2](https://github.com/campy/Ulticampy-V2) by 3DCampy / 3DEspana: the second version, with black panels. Only DWG panel drawings are published. CC BY-SA 4.0.

@@ -28,3 +28,7 @@
 ## Other homes of the files
 
 - Wayback Machine: [latest snapshot](https://web.archive.org/web/20251112210933/https://github.com/gsl12/Tiny-M), 2025-11-12.
+
+## Mods and variants
+
+- [Tiny-M V0.138](https://github.com/ix-prism/Tiny-M-V0.138) by ix-prism: Voron 0.2 styling, a MiniFrontBurner toolhead, a side-mounted MGN9H X rail, a Sherpa Mini extruder and a V0Display. GPL-3.0.

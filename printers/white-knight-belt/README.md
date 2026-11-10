@@ -29,3 +29,7 @@
 
 - [Thingiverse](https://www.thingiverse.com/thing:3324280): one STL and photos. The page points to GitHub for the full files. CC BY-NC 4.0.
 - Wayback Machine: [latest snapshot](https://web.archive.org/web/20250824220929/https://github.com/NAK3DDesigns/White-Knight/), 2025-08-24.
+
+## Mods and variants
+
+- [White Knight Squire](https://github.com/NAK3DDesigns/White-Knight/tree/master/Squire%20Files) by NAK3D Designs: a smaller White Knight with a 240 mm wide steel belt in place of 400 mm, and 400 mm rails in place of 1000 mm. Fusion 360, STEP and STL files and a BOM are in the same repo. GPL-3.0.

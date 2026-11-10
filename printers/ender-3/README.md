@@ -32,6 +32,10 @@
 
 - Wayback Machine: [latest snapshot](http://web.archive.org/web/20260914093850/https://github.com/Creality3DPrinting/Ender-3), 2026-09-14.
 
+## Mods and variants
+
+- [BLV Ender 3 Pro Upgrade](https://www.thingiverse.com/thing:4008699) by BLV: aluminum parts, MGN12 linear rails, dual Z, and a BMG dual-drive extruder for the Ender 3 Pro, with a STEP file per part. CC BY-NC-SA.
+
 ## Popular mods
 
 - [Ender 3 Cable Chain](https://www.thingiverse.com/thing:2920060) by Jwhiskey3D: printed cable chains for the hotend and heated-bed wiring, with frame mounts. CC BY 4.0.

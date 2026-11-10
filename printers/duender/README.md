@@ -29,3 +29,7 @@
 ## Other homes of the files
 
 - Wayback Machine: [latest snapshot](https://web.archive.org/web/20260524142428/https://github.com/Irbis3D/Duender), 2026-05-24.
+
+## Mods and variants
+
+- [DuCR10](https://www.youtube.com/watch?v=Fzk1Lwna7Q4) by Irbis3D: a 300×300×400 Duender built from two CR-10 donors instead of two Ender-3s, with a Klipper config and no parts of its own. License not stated.

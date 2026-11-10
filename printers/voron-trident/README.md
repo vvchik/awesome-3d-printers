@@ -39,6 +39,10 @@
 ## Mods and variants
 
 - [Voron Trident 5-axis](https://github.com/Buzzloopster/Voron-Trident-5-axis) by Buzzloopster: an A tilt and endless C rotation bed under the stock CoreXY, run by RepRapFirmware robot kinematics, base Voron Trident 250. GPL-3.0.
+- [Trident DoomCube](https://github.com/FrankenVoron/Doomcube-Trident) by FrankenVoron: the DoomCube frame idea applied to the Trident, in 250 and 300 sizes. Only STEP assemblies and panel DXFs are published so far. AGPL-3.0.
+- [Voron V1 IDEX](https://github.com/FrankenVoron/IDEX) by FrankenVoron: two toolheads on Markforged-style kinematics, where the CoreXY belts drive the toolheads and two added Y motors move the X beam. It also has three Z motors and a full 4040 frame. GPL-3.0.
+- [Trident-EZBake](https://github.com/FrankenVoron/Trident-EZBake) by FrankenVoron: a Trident with 4040 rear and 2040 front verticals, room for double insulation, and an oven-style front door. The door latch and trim are unfinished. GPL-3.0.
+- [Voron 1.6 mod](https://github.com/FrankenVoron/Voron-1.6-mod) by FrankenVoron: swaps the V1.6 XY rods for MGN9H rails as on the V2.1 gantry, in a fully enclosable 300×300×340 frame. It became the official Voron V1.8. Voron Design terms (personal non-commercial use).
 
 ## Popular mods
 

@@ -27,3 +27,7 @@
 ## Other homes of the files
 
 - Wayback Machine: [latest snapshot](https://web.archive.org/web/20251225145434/https://github.com/zruncho3d/double-dragon), 2025-12-25.
+
+## Mods and variants
+
+- [BoxZero](https://github.com/zruncho3d/BoxZero) by zruncho3d: a full-box frame of the same footprint that replaces the tophat, on the stock 200 mm extrusions, for the V0, Tri-Zero, or Double Dragon. GPL-3.0.

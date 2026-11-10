@@ -31,3 +31,7 @@
 - [GitHub, manual source](https://github.com/PrintersForAnts/MicronManual): Markdown source of the R1 manual. GPL-3.0.
 - [Printed part configurator](https://micron.wizards-enclave.net/): picks the STL set by option. Linked from the Micron README. License not shown.
 - Wayback Machine: [latest snapshot](https://web.archive.org/web/20260516101528/https://github.com/PrintersForAnts/Micron), 2026-05-16.
+
+## Mods and variants
+
+- [Vampire Bat gantry](https://github.com/zruncho3d/vampire_bat) by zruncho3d: an extrusionless XY gantry with pinned joints and pin-in-tube belt clips that drops into a stock V0. The X carriage and clips alone fit the Micron, Salad Fork, and Dueling Zero. GPL-3.0.

@@ -32,6 +32,12 @@
 - [voron.zip](https://voron.zip/done/V2.zip): official release download of the 2.4 files, and the [manual PDF](https://voron.zip/web/viewer.html?file=manuals/Assembly_Manual_2.4r2.pdf). License not stated on the page.
 - Wayback Machine: [latest snapshot](https://web.archive.org/web/20261001005403/https://github.com/VoronDesign/Voron-2), 2026-10-01.
 
+## Mods and variants
+
+- [DoomCube](https://github.com/FrankenVoron/DoomCube-2) by FrankenVoron: swaps the Voron 2.4 verticals for 4040 extrusions to leave room for insulation. It moves the Z drives and low-voltage electronics to the top and the mains parts to the bottom. Work in progress. GPL-3.0.
+- [CrookedCrow](https://github.com/RobMink/CrookedCrow) by Rob Mink: uses the four Z motors to tilt the gantry for angled, belt-style printing, with a Klipper module that sets the angle. MIT.
+- [the moron](https://github.com/Annex-Engineering/the_moron) by Annex Engineering: a Portal-themed Voron 2.2 300 build, shared as one zipped CAD model with no instructions. ANNEX Engineering EULA (non-commercial).
+
 ## Popular mods
 
 - [VoronUsers](https://github.com/VoronDesign/VoronUsers) by Voron community: official collection of community mods, sorted by printer and author. GPL-3.0.

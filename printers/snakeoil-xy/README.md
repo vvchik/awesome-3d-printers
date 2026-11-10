@@ -30,3 +30,8 @@
 - [Printables](https://www.printables.com/model/115487-snakeoilxy-3d-printer-design): Beta-era STL and some part STEP, uploaded 2022-01. GPL-3.0.
 - [MakerWorld](https://makerworld.com/en/models/37349): printed parts STL. CC BY-NC.
 - Wayback Machine: [latest snapshot](https://web.archive.org/web/20260424153046/https://github.com/SnakeOilXY/SnakeOil-XY), 2026-04-24.
+
+## Mods and variants
+
+- [SnakeOilXY-3S](https://www.printables.com/model/348118-snakeoilxy-3s) by SnakeOilXY: a low-cost mod kit for the Kingroon KP3S bed slinger, not a CoreXY. It adds X and Y belt tensioners, straight belt paths and an Oldham Z coupler. GPL-3.0.
+- [SnakeOilXY-LFR](https://github.com/SnakeOilXY/SnakeOilXY-LFR) by SnakeOilXY: a large-format redesign inspired by the Voron 2.x, with four-motor CoreXY and FR4 structural plates beside printed parts. The repo has CAD only, with no build docs or images. GPL-3.0.

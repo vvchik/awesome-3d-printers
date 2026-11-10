@@ -30,3 +30,7 @@
 
 - [Development blog](http://reprapmorgan.blogspot.com/): build notes and photos of the classic Morgan, up to 2013. License not stated.
 - Wayback Machine: [latest snapshot](https://web.archive.org/web/20260609234704/https://reprap.org/wiki/RepRap_Morgan), 2026-06-09.
+
+## Mods and variants
+
+- [Morgan Pro 3 and Morgan Mega](https://www.morgan3dp.com/) by Quentin Harley / Morgan 3D Printers: later commercial SCARA models from the Morgan workshop. The site says the plans stay open source, but no hardware files are public. License not stated.

@@ -28,3 +28,7 @@
 ## Other homes of the files
 
 - Wayback Machine: [latest snapshot](https://web.archive.org/web/20260221060015/https://github.com/PrintersForAnts/Salad_Fork), 2026-02-21.
+
+## Mods and variants
+
+- [Vampire Bat gantry](https://github.com/zruncho3d/vampire_bat) by zruncho3d: an extrusionless XY gantry with pinned joints and pin-in-tube belt clips that drops into a stock V0. The X carriage and clips alone fit the Micron, Salad Fork, and Dueling Zero. GPL-3.0.

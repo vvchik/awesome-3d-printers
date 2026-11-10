@@ -29,6 +29,7 @@
 ## Mods and variants
 
 - [Rook 2020 Scalable MK2](https://www.printables.com/model/818501) by Kanrog: scales the frame to any bed size and adds a triple belted geared Z. CC BY-NC.
+- [Rook E3](https://github.com/Kanrog/Rook-E3) by Kanrog: a Rook 2020 that reuses the parts of an Ender 3 V2. Only the STEP model is public, and the author calls it obsolete. CC0-1.0 on GitHub, CC BY-NC on Printables.
 
 ## Other homes of the files
 

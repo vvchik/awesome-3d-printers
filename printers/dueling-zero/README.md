@@ -31,3 +31,8 @@
 - [Google Drive, v3](https://drive.google.com/file/d/1U-At9Qk3_djhFbRaB3mEeM05XXbvnGhe/view): native Fusion f3z of the v3 gantry, 2023-09-14. License not stated.
 - [Google Drive, v1](https://drive.google.com/file/d/1XVWL-ye3ak-054TESjwwNMo5rwroPHxu/view): native Fusion f3z of the archived v1, 2022-08-17. License not stated.
 - Wayback Machine: [latest snapshot](https://web.archive.org/web/20260223073354/https://github.com/zruncho3d/DuelingZero), 2026-02-23.
+
+## Mods and variants
+
+- [Dueling X](https://github.com/zruncho3d/DuelingX) by zruncho3d: a parametric Fusion 360 gantry that scales the Dueling Zero v3 dual gantry to V0, Trident, or Trident Maximus parts. License not stated.
+- [Vampire Bat gantry](https://github.com/zruncho3d/vampire_bat) by zruncho3d: an extrusionless XY gantry with pinned joints and pin-in-tube belt clips that drops into a stock V0. The X carriage and clips alone fit the Micron, Salad Fork, and Dueling Zero. GPL-3.0.

@@ -29,3 +29,7 @@
 
 - [GitHub, Kanrog](https://github.com/Kanrog/Delta-Flyer): source of the manual site and a Klipper config. GPL-3.0.
 - Wayback Machine: [latest snapshot](https://web.archive.org/web/20260509192924/https://www.printables.com/model/1327596-delta-flyer-3d-printer), 2026-05-09.
+
+## Mods and variants
+
+- [Delta Flyer Legacy](https://www.printables.com/model/982898-delta-flyer-legacy-delta-3d-printer) by Rolohaun: the earlier version that the current Delta Flyer replaced. Files include STEP, DXF panels, STLs, a Klipper config and a public Onshape document. CC BY-NC.

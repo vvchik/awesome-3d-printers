@@ -35,9 +35,11 @@
 
 ## Mods and variants
 
-- [Tri-Zero](https://github.com/zruncho3d/tri-zero) by zruncho3d: triple belted Z and automatic bed leveling, 120 mm or Plus50 170 mm; also supports a fresh build. GPL-3.0.
+- [Tri-Zero](https://github.com/zruncho3d/tri-zero) by zruncho3d: triple belted Z and automatic bed leveling, in a 120 mm or Plus50 170 mm size. It also supports a fresh build. GPL-3.0.
 - [Pandora's Box](https://github.com/MasturMynd/Pandoras_Box) by MasturMynd: larger X and Y travel, triple belted Z, and automatic bed tramming. GPL-3.0.
 - [Hex-Zero (HX0)](https://github.com/Alexander-T-Moss/Hex-Zero) by Alexander-T-Moss: Tri-Zero Z motion redesign with a revised Pandora gantry and a stiffer flying bed. GPL-3.0.
+- [BoxZero](https://github.com/zruncho3d/BoxZero) by zruncho3d: a full-box frame of the same footprint that replaces the tophat, on the stock 200 mm extrusions, for the V0, Tri-Zero, or Double Dragon. GPL-3.0.
+- [Vampire Bat gantry](https://github.com/zruncho3d/vampire_bat) by zruncho3d: an extrusionless XY gantry with pinned joints and pin-in-tube belt clips that drops into a stock V0. The X carriage and clips alone fit the Micron, Salad Fork, and Dueling Zero. GPL-3.0.
 
 ## Popular mods
 

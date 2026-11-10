@@ -32,3 +32,8 @@
 
 - [Printables](https://www.printables.com/model/932474): 102 files, STL, 3MF, and STEP, CC BY-SA, uploaded by team member NomadsGalaxy.
 - Wayback Machine: [latest snapshot](https://web.archive.org/web/20260506141310/https://github.com/Positron3D/Positron), 2026-05-06.
+
+## Mods and variants
+
+- [Positron 1.2](https://grabcad.com/library/positron-1-2-an-upside-down-compact-and-super-fast-3d-printer-obsolete-please-wait-for-2-0-1) by Positron Team / Kralyn: the 2021 generation of the upside-down design, which the author marks obsolete. STEP and STL files are on GrabCAD. GrabCAD terms.
+- [Proton](https://positron3d.com/proton.html) by Positron Team / Kralyn: a scaled-up Positron with the same inverted layout and a 300×260×260 mm build volume. No files are published. License not stated.

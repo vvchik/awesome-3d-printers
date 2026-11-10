@@ -31,3 +31,7 @@
 
 - [RepRap wiki](https://reprap.org/wiki/Prusa_Mendel_%28iteration_2%29): iteration 2 page, GPL.
 - Wayback Machine: [latest snapshot](https://web.archive.org/web/20261013025401/https://reprap.org/wiki/Prusa_Mendel), 2026-10-13.
+
+## Mods and variants
+
+- [Air 2](https://www.reprap.org/wiki/Air_2) by Manuel Palacios (Mecano): a simplified Prusa that reuses Prusa i2 printed parts on a DXF-cut flat frame, with linear bearings on Y. GPL.

@@ -34,3 +34,7 @@
 - [GitHub](https://github.com/smartfriendz/smartrapcore-XL): SmartrapCore XL300 STL, firmware, and profiles, 2016-11. GPL-3.0.
 - [Thingiverse](https://www.thingiverse.com/thing:1361163): SmartrapCore XL300 files. GPL-2.0.
 - Wayback Machine: [latest snapshot](http://web.archive.org/web/20240630064544/https://github.com/smartfriendz/smartcore), 2024-06-30.
+
+## Mods and variants
+
+- [Kubocore 2](https://github.com/eta4ever/kubocore2) by eta4ever: a 2020-profile cube on MGN12 rails that keeps only the SmartCore's two-level CoreXY belts and 608zz idlers, with Kompas-3D sources. GPL-3.0.

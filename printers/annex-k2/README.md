@@ -28,3 +28,7 @@
 ## Other homes of the files
 
 - Wayback Machine: [latest snapshot](https://web.archive.org/web/20260422143652/https://github.com/Annex-Engineering/Chhogori-K2), 2026-04-22.
+
+## Mods and variants
+
+- [Chhogori K2 Basecamp Edition](https://github.com/Annex-Engineering/Chhogori-K2-Basecamp-Edition) by Annex Engineering: an open-air K2 without the enclosure, on a 2020 and 2040 frame for build volumes from 250 to 500 mm. Updates stopped in 2021-11. ANNEX Engineering EULA (non-commercial).

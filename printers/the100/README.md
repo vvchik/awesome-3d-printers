@@ -31,3 +31,7 @@
 - [Printables](https://www.printables.com/model/430339-the-100): v1.0 STEP and STL, CC BY-NC-SA.
 - [Hackaday.io](https://hackaday.io/project/190348-the-100-the-fastest-3d-printer): docs and build logs from 2023, no license shown.
 - Wayback Machine: [latest snapshot](https://web.archive.org/web/20260929055237/https://github.com/MSzturc/the100), 2026-09-29.
+
+## Mods and variants
+
+- [THE 100 recycling version](https://cults3d.com/en/3d-model/tool/imprimante-3d-the-100-version-recyclage) by nossolov: reuses the 220×220 bed, 8 mm rods, and RAMPS electronics of an old i3 clone, for about 190×170 mm of print area. A [second remix](https://cults3d.com/en/3d-model/tool/imprimante-3d-the-100-version-recyclage-evolution-3-points-z) adds a 3-point Z. CC BY-NC-ND.

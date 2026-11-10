@@ -30,3 +30,8 @@
 
 - [GitHub](https://github.com/ZeroGDesign/Mercury-OUTDATED): first Mercury One STEP, drawings, and renders, GPL-3.0.
 - Wayback Machine: [latest snapshot](https://web.archive.org/web/20250831104236/https://github.com/ZeroGDesign/MercuryOne/), 2025-08-31.
+
+## Mods and variants
+
+- [ZeroG Nebula](https://github.com/ZeroGDesign/Nebula) by ZeroG: an enclosed frame for the Mercury One.1, in 255 and 370 sizes, with DXF panels, STLs and STEP assemblies. It also fits the ZeroG Hydra. CC BY-NC-SA 4.0.
+- [ZeroG Hydra](https://github.com/ZeroGDesign/Hydra) by ZeroG: a Z system that carries the bed on three arms (left, right, and rear) for Mercury One builds on the Ender-5 Pro or Ender-5 Plus. CC BY-NC-SA 4.0.

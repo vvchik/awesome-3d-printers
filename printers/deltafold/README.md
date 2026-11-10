@@ -13,7 +13,7 @@
 | Build type | Foldable delta |
 | Build volume (X×Y×Z) | Ø220×290 |
 | Exterior (W×D×H) | Open: Ø373×730<br>Folded: Ø180×? |
-| Latest version | CAD<br>[2021-02](https://github.com/htaxil/DeltaFold/commit/5a7770af4d941d4d8d270d91b23b2e92dcdb25e3) |
+| Latest version | STL<br>[2021-02](https://github.com/htaxil/DeltaFold/commit/5a7770af4d941d4d8d270d91b23b2e92dcdb25e3) |
 | Stars Likes Views | [![GitHub stars](https://img.shields.io/github/stars/htaxil/DeltaFold?style=flat-square&label=&color=d0d7de&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y1YjMwMSIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8+PC9zdmc+)](https://github.com/htaxil/DeltaFold) |
 | Links | [STL](https://github.com/htaxil/DeltaFold/tree/main/docs/components)<br>[Wiki](https://reprap.org/wiki/DeltaFold) |
 | Groups | — |

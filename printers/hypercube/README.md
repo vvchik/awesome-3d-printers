@@ -14,7 +14,7 @@
 | Exterior (W×D×H) | 380×343×350 |
 | Latest version | Log<br>[2020-01](https://www.thingiverse.com/thing:1752766) |
 | Stars Likes Views | [💙⁠15K](https://www.thingiverse.com/thing:1752766)<br>[⏯️⁠280K](https://www.youtube.com/watch?v=xFt7vzweUiw)<br>[❤️⁠2.2K](https://www.youtube.com/watch?v=xFt7vzweUiw) |
-| Links | [Files](https://www.thingiverse.com/thing:1752766/files) |
+| Links | [Files](https://www.thingiverse.com/thing:1752766/files)<br>[Video](https://www.youtube.com/watch?v=I138M6MBgc0) |
 | Groups | [Facebook](https://www.facebook.com/groups/1871049783171141/) EN 6.9K inactive<br>[Facebook](https://www.facebook.com/groups/139876176592778/) PT 2K inactive<br>[Facebook](https://www.facebook.com/groups/hypercubesupport/) EN 1.8K inactive |
 | License | [CC BY-NC 3.0](https://web.archive.org/web/2019/https://www.thingiverse.com/thing:1752766) |
 
@@ -31,3 +31,7 @@
 - [Thingiverse](https://www.thingiverse.com/thing:2013921): retired versions of the parts, 21 files. CC BY 4.0.
 - [RepRap wiki](https://reprap.org/wiki/HyperCube): docs, links to Thingiverse. CC BY-NC 3.0.
 - Wayback Machine: [latest snapshot](https://web.archive.org/web/20260921203812/https://www.thingiverse.com/thing:1752766), 2026-09-21.
+
+## Mods and variants
+
+- [Hipercubo Argenta](https://github.com/Borrajo/hypercubo-ar) by Borrajo: an Argentine HyperCube remix with three extruder options and a Z-axis update, STL only. GPL-2.0.

@@ -14,7 +14,7 @@
 | Exterior (W×D×H) | — |
 | Latest version | Update<br>[2024-12](https://www.printables.com/model/857334-min-micro-delta-3d-printer) |
 | Stars Likes Views | [🧡⁠382](https://www.printables.com/model/857334-min-micro-delta-3d-printer)<br>[⏯️⁠16.9K](https://www.youtube.com/watch?v=kZSuBLWJxl0)<br>[❤️⁠670](https://www.youtube.com/watch?v=kZSuBLWJxl0) |
-| Links | [Files](https://www.printables.com/model/857334-min-micro-delta-3d-printer/files)<br>[CAD](https://cad.onshape.com/documents/aef65583a6ec21b94ef11b01/w/21ca19127a40dd7ca53fcc0f/e/1bc79b2e64becbdda5242db6) |
+| Links | [Files](https://www.printables.com/model/857334-min-micro-delta-3d-printer/files)<br>[CAD](https://cad.onshape.com/documents/aef65583a6ec21b94ef11b01/w/21ca19127a40dd7ca53fcc0f/e/1bc79b2e64becbdda5242db6)<br>[BOM](https://docs.google.com/spreadsheets/d/1cQO0xGQbrzGV7yEzybo7HCz8wA8_fVb978zrRNKWP5k/edit) |
 | Groups | [Discord](https://discord.gg/rolohaun-3d-946191040682008666) EN 7.8K |
 | License | [CC BY-NC](https://www.printables.com/model/857334-min-micro-delta-3d-printer) |
 

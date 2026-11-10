@@ -27,3 +27,7 @@
 ## Other homes of the files
 
 - Wayback Machine: [latest snapshot](https://web.archive.org/web/20260917181531/https://github.com/grabercars/Cerberus), 2026-09-17.
+
+## Mods and variants
+
+- [Cerberus Gigante](https://kevincaron.com/2014/09/06/the-gigante-era-begins/amp) by Steve Graber: an 8 ft tall delta that prints up to 5 ft tall and 34 in across, with a CNC-cut aluminium frame. No public files. License not stated.
