@@ -28,3 +28,7 @@
 ## Other homes of the files
 
 - Wayback Machine: [latest snapshot](https://web.archive.org/web/20260513135021/https://www.printables.com/model/857334-min-micro-delta-3d-printer), 2026-05-13.
+
+## Mods and variants
+
+- [MIN_SB01_80](https://www.printables.com/model/875189-min_sb01_80) and [MIN_SB01_120](https://www.printables.com/model/881660-min_sb01_120) by Squirrelbrain: a Revo Micro hotend with two 3010 fans, new carriages, idlers and motor mounts, and 6 mm or 10 mm belts. The 80 version has an 80×75 build volume on a 100 mm heated bed. The 120 version has 120×80 on a 120 mm heated bed. Both have a STEP and Fusion 360 assembly and a BOM. CC BY-NC-SA 4.0.

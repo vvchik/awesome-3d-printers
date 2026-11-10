@@ -33,3 +33,7 @@
 - [SourceForge files](https://sourceforge.net/projects/reprap/files/): dated Mendel release zips from 2009-11 to 2011-05. GPL-2.0.
 - [GitHub](https://github.com/reprap/mendel-II): deprecated Mendel II OpenSCAD files and STL. No license stated.
 - Wayback Machine: [latest snapshot](http://web.archive.org/web/20261012224832/https://reprap.org/wiki/Mendel), 2026-10-12.
+
+## Mods and variants
+
+- [RepRap Mendel Revisited](https://cults3d.com/en/3d-model/tool/reprap-mendel-revisited) by thorgal: a 10th anniversary version with M12 threaded rods, an E3D V6 Bowden hotend with a Bondtech geared extruder, a TR6 or TR8 Z leadscrew, optical endstops and a Z probe. The PSU and electronics sit in the frame. GPL.

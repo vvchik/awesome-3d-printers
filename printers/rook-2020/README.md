@@ -26,11 +26,11 @@
 <tr><td align="center" width="33%"><a href="6-rook-2020.jpg"><img src="6-rook-2020.jpg" width="260" alt="Rook 2020 picture 6"></a><br><sub>Photo: <a href="https://www.printables.com/@Rolohaun">Rolohaun Design</a></sub></td><td align="center" width="33%"><a href="7-rook-2020.jpg"><img src="7-rook-2020.jpg" width="260" alt="Rook 2020 picture 7"></a></td><td align="center" width="33%"><a href="8-rook-2020.jpg"><img src="8-rook-2020.jpg" width="260" alt="Rook 2020 picture 8"></a><br><sub>Photo: <a href="https://www.printables.com/@SaidOs_336025">Said</a></sub></td></tr>
 </table>
 
+## Other homes of the files
+
+- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260513220118/https://www.printables.com/model/798733-rook-2020-mk2), 2026-05-13.
+
 ## Mods and variants
 
 - [Rook 2020 Scalable MK2](https://www.printables.com/model/818501) by Kanrog: scales the frame to any bed size and adds a triple belted geared Z. CC BY-NC.
 - [Rook E3](https://github.com/Kanrog/Rook-E3) by Kanrog: a Rook 2020 that reuses the parts of an Ender 3 V2. Only the STEP model is public, and the author calls it obsolete. CC0-1.0 on GitHub, CC BY-NC on Printables.
-
-## Other homes of the files
-
-- Wayback Machine: [latest snapshot](https://web.archive.org/web/20260513220118/https://www.printables.com/model/798733-rook-2020-mk2), 2026-05-13.
