@@ -9,7 +9,7 @@
 | Section | Historical designs |
 | Project page | [https://github.com/Ultimaker/Ultimaker2](https://github.com/Ultimaker/Ultimaker2) |
 | Author | Ultimaker |
-| About | Open-hardware line that made the moving-head cross gantry and the Bowden feed popular. It grew from the wooden Original and Original+ through the UM2, UM2 Extended, compact UM2 Go, UM2+ and UM2 Extended+ to the dual-extrusion UM3 and UM3 Extended with swappable print cores. |
+| About | Open-hardware line that made the moving-head cross gantry and the Bowden feed popular. It grew from the wooden Original and Original+ through the UM2 family: UM2, UM2 Extended, compact UM2 Go, UM2+ and UM2 Extended+. The line ends with the dual-extrusion UM3 and UM3 Extended, which have swappable print cores. |
 | Build volume (X×Y×Z) | UM3: 215×215×200<br>UM3 Extended: 215×215×300<br>UM2, UM2+: 223×223×205<br>UM2 Extended, Extended+: 223×223×305<br>UM2 Go: 120×120×115<br>Original+: 210×210×205<br>Original: 205×205×200 |
 | Exterior (W×D×H) | UM3: 342×380×389<br>UM3 Extended: 342×380×489<br>UM2, UM2+: 342×357×388<br>UM2 Extended, Extended+: 342×357×488<br>UM2 Go: 258×250×288<br>Original+: 357×342×388 |
 | Latest version | UM2+<br>[2018-07](https://github.com/Ultimaker/Ultimaker2Plus/commit/830bcb6203b9c5c9794401b153fd75a019132bd2) |

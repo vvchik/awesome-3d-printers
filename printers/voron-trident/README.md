@@ -9,7 +9,7 @@
 | Section | CoreXY · Medium (181–299 mm representative X/Y size) |
 | Project page | [https://github.com/VoronDesign/Voron-Trident](https://github.com/VoronDesign/Voron-Trident) |
 | Author | Voron family |
-| About | Fixed gantry and independently driven Z bed; current R2 release revises XY and Z motion. It replaced the Voron 1.8, the last of the V1 line, which already had the fixed gantry and the stacked belts. The Voron 1.0 is in the [Voron Legacy](../../README.md#voron-legacy) row. |
+| About | Fixed gantry and independently driven Z bed. The current R2 release revises XY and Z motion. It replaced the Voron 1.8, the last of the V1 line, which already had the fixed gantry and the stacked belts. The Voron 1.0 is in the [Voron Legacy](../../README.md#voron-legacy) row. |
 | Build volume (X×Y×Z) | 250: 250×250×250<br>300: 300×300×250<br>350: 350×350×250 |
 | Exterior (W×D×H) | 250: 410×410×500<br>300: 460×460×500<br>350: 510×510×500 |
 | Latest version | R2<br>[2026-06](https://github.com/VoronDesign/Voron-Trident/releases/tag/VTr2) |

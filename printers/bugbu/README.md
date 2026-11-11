@@ -9,7 +9,7 @@
 | Section | CoreXY · Medium (181–299 mm representative X/Y size) |
 | Project page | [https://github.com/Rolls17/BugBu](https://github.com/Rolls17/BugBu) |
 | Author | Royce Rentz |
-| About | Low-cost CoreXY in the style of the Bambu Lab P1P, with linear rods on X and Y and one Z motor driving belted lead screws. It comes in 210, 260 and 310 sizes. |
+| About | Low-cost CoreXY in the style of the Bambu Lab P1P. It has linear rods on X and Y, and one Z motor drives belted lead screws. It comes in 210, 260 and 310 sizes. |
 | Build volume (X×Y×Z) | 210: 215×200×210<br>260: 260×250×300<br>310: 310×300×310 |
 | Exterior (W×D×H) | 210: 300×300×? |
 | Latest version | STEP<br>[2024-03](https://github.com/Rolls17/BugBu/commit/44cc65658ebc31723f5b3ca60e9b84ceb41b248f) |

@@ -9,7 +9,7 @@
 | Section | Cross-gantry |
 | Project page | [https://github.com/Annex-Engineering/Gasherbrum-K3](https://github.com/Annex-Engineering/Gasherbrum-K3) |
 | Author | Annex Engineering |
-| About | Small enclosed cross-gantry machine with separate X and Y drives; its latest published release is R1.2 beta 1. |
+| About | Small enclosed cross-gantry machine with separate X and Y drives. Its latest published release is R1.2 beta 1. |
 | Build volume (X×Y×Z) | 180×180×180 |
 | Exterior (W×D×H) | — |
 | Latest version | R1.2 beta 1<br>[2023-07](https://github.com/Annex-Engineering/Gasherbrum-K3/releases/tag/R1.2B1) |

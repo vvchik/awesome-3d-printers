@@ -9,7 +9,7 @@
 | Section | Conversions |
 | Project page | [https://github.com/VoronDesign/Voron-Switchwire](https://github.com/VoronDesign/Voron-Switchwire) |
 | Author | Voron family |
-| About | Official CoreXZ bedslinger with a custom 3030/3060 frame and Prusa MK52 bed; builders can reuse Prusa parts or source a fresh build. Community versions by DaRk_dOg: Ender_SW rebuilds an Ender-3 Pro/V2 as a Switchwire, and Diversion MK_I is an enclosed Switchwire that reuses an Ender-3 bed and carriage (alpha). |
+| About | Official CoreXZ bedslinger with a custom 3030/3060 frame and Prusa MK52 bed. Builders can reuse Prusa parts or source a fresh build. Community versions by DaRk_dOg: Ender_SW rebuilds an Ender-3 Pro/V2 as a Switchwire, and Diversion MK_I is an enclosed Switchwire that reuses an Ender-3 bed and carriage (alpha). |
 | Build volume (X×Y×Z) | — |
 | Exterior (W×D×H) | — |
 | Latest version | V1.0<br>[2020-08](https://github.com/VoronDesign/Voron-Switchwire/releases/tag/V1.0) |

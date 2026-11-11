@@ -9,7 +9,7 @@
 | Section | CoreXY · Medium (181–299 mm representative X/Y size) |
 | Project page | [https://github.com/SnakeOilXY/SnakeOil-XY](https://github.com/SnakeOilXY/SnakeOil-XY) |
 | Author | SnakeOilXY |
-| About | Configurable CoreXY with standard, IDEX, and four-motor options; its latest documented release is Beta 3. |
+| About | Configurable CoreXY with standard, IDEX, and four-motor options. Its latest documented release is Beta 3. |
 | Build volume (X×Y×Z) | 180: 180×180×180<br>250: 250×240×230 |
 | Exterior (W×D×H) | 180: 400×390×520<br>250: 490×450×570 |
 | Latest version | Beta 3<br>[2023-01](https://github.com/SnakeOilXY/SnakeOil-XY#beta-3-release-2023-01-28) |

@@ -9,7 +9,7 @@
 | Section | Cartesian · Small (≤180 mm on both X/Y axes) |
 | Project page | [https://www.printables.com/model/1644597-rook-mk2](https://www.printables.com/model/1644597-rook-mk2) |
 | Author | Rolohaun / Rook family |
-| About | Fully printed frame; creator labels this a beta release. |
+| About | Fully printed frame. The creator labels this a beta release. |
 | Build volume (X×Y×Z) | 120×120×? |
 | Exterior (W×D×H) | — |
 | Latest version | MK2 beta<br>[2026-03](https://www.printables.com/model/1644597-rook-mk2) |

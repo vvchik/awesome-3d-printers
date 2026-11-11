@@ -9,7 +9,7 @@
 | Section | CoreXY · Small (≤180 mm representative X/Y size) |
 | Project page | [https://github.com/VzBoT3D/VzBoT-Vz150](https://github.com/VzBoT3D/VzBoT-Vz150) |
 | Author | VzBot family |
-| About | Miniature VzBot; its optional AWD setup is described as experimental. |
+| About | Miniature VzBot. The creator calls its optional AWD setup experimental. |
 | Build volume (X×Y×Z) | 150×150×125 |
 | Exterior (W×D×H) | — |
 | Latest version | V1.1<br>[2023-05](https://github.com/VzBoT3D/VzBoT-Vz150/commit/060e8cab89e4524243e828d4c5bea0fbefdd10b6) |

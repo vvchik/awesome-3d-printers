@@ -9,7 +9,7 @@
 | Section | Cartesian · Medium and large (>180 mm on either X/Y axis) |
 | Project page | [https://github.com/prusa3d/Original-Prusa-i3](https://github.com/prusa3d/Original-Prusa-i3) |
 | Author | Prusa family |
-| About | The most copied desktop layout, followed by many commercial clones. It started in 2012 as the RepRap [Prusa i3](https://reprap.org/wiki/Prusa_i3) and grew through MK2, MK3, MK3S+ and MK3.5 to the MK4 and MK4S with a new frame and Nextruder. The MK3.9 and MK3.9S upgrade an MK3S+ to MK4 parts. |
+| About | The most copied desktop layout, followed by many commercial clones. It started in 2012 as the RepRap [Prusa i3](https://reprap.org/wiki/Prusa_i3) and grew through MK2, MK3, MK3S+ and MK3.5. The MK4 and MK4S added a new frame and the Nextruder. The MK3.9 and MK3.9S upgrade an MK3S+ to MK4 parts. |
 | Build volume (X×Y×Z) | early: 200×200×200<br>MK3S+: 250×210×210<br>MK4S: 250×210×220 |
 | Exterior (W×D×H) | — |
 | Latest version | MK4S<br>[2026-08](https://www.printables.com/model/451500-mk4smk39s-printable-parts) |

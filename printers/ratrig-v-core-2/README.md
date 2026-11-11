@@ -9,7 +9,7 @@
 | Section | Historical designs |
 | Project page | [https://www.thingiverse.com/thing:2970162](https://www.thingiverse.com/thing:2970162) |
 | Author | Rat Rig family |
-| About | Early Rat Rig CoreXY kit, a plate-heavy cube of OpenBuilds 20-series V-slot with V-wheels instead of rails and a moving bed on two lead screws. It led to the V-Core Pro. |
+| About | Early Rat Rig CoreXY kit, a plate-heavy cube of OpenBuilds 20-series V-slot. It uses V-wheels instead of rails and a moving bed on two lead screws. It led to the V-Core Pro. |
 | Build volume (X×Y×Z) | 300×300×300 |
 | Exterior (W×D×H) | — |
 | Latest version | First release<br>[2018-06](https://www.thingiverse.com/thing:2970162) |

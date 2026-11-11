@@ -9,7 +9,7 @@
 | Section | Conversions |
 | Project page | [https://github.com/SnakeOilXY/ProosaXY](https://github.com/SnakeOilXY/ProosaXY) |
 | Author | SnakeOilXY |
-| About | Prusa MK3/S CoreXY conversion that reuses donor parts; requires irreversible drilling and cutting. |
+| About | Prusa MK3/S CoreXY conversion that reuses donor parts. It requires irreversible drilling and cutting. |
 | Build volume (X×Y×Z) | — |
 | Exterior (W×D×H) | — |
 | Latest version | CAD<br>[2026-07](https://github.com/SnakeOilXY/ProosaXY/commit/2044ed8e015997882eb6bf1c48cddba3956e670f) |

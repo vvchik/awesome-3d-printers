@@ -9,7 +9,7 @@
 | Section | Historical designs |
 | Project page | — |
 | Author | RepRap |
-| About | H-bot project from an earlier version of this list; its wiki page now redirects to CoreXY. The original project page and files are lost. If you know where they are, a short PR is welcome. |
+| About | H-bot project from an earlier version of this list. Its wiki page now redirects to CoreXY. The original project page and files are lost. If you know where they are, a short PR is welcome. |
 | Build volume (X×Y×Z) | — |
 | Exterior (W×D×H) | — |
 | Latest version | — |

@@ -9,7 +9,7 @@
 | Section | CoreXY · Small (≤180 mm representative X/Y size) |
 | Project page | [https://github.com/ThatGuyHes/CUBIRON](https://github.com/ThatGuyHes/CUBIRON) |
 | Author | RobertGcode |
-| About | Very small, documented CoreXY that runs on USB-C power; the current design has an unheated bed. |
+| About | Very small, documented CoreXY that runs on USB-C power. The current design has an unheated bed. |
 | Build volume (X×Y×Z) | 70×70×65 |
 | Exterior (W×D×H) | 144×145×148 |
 | Latest version | First release<br>[2025-09](https://github.com/ThatGuyHes/CUBIRON/blob/main/README.md#L9) |

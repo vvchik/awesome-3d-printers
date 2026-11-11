@@ -9,7 +9,7 @@
 | Section | Legacy designs |
 | Project page | [https://github.com/alexyu132/fusebox2](https://github.com/alexyu132/fusebox2) |
 | Author | Alex Yu |
-| About | Earlier compact CoreXY; the creator recommends the 2R rail-gantry variant for a fresh build. Replaced by the FuseBox3. |
+| About | Earlier compact CoreXY. For a fresh build, the creator recommends the 2R rail-gantry variant. Replaced by the FuseBox3. |
 | Build volume (X×Y×Z) | 2: 210×200×210<br>2R: 210×205×210 |
 | Exterior (W×D×H) | 390×340×412 |
 | Latest version | 2R CAD<br>[2019-12](https://github.com/alexyu132/fusebox2/commit/67b5c9bdce200988ecd771d23534e7a76fff9275) |

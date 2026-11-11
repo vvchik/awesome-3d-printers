@@ -9,7 +9,7 @@
 | Section | Legacy designs |
 | Project page | [https://github.com/Rat-Rig/V-core-3](https://github.com/Rat-Rig/V-core-3) |
 | Author | Rat Rig family |
-| About | Scalable CoreXY on a 3030 T-slot frame with MGN12 rails on all axes, stacked 9 mm belts, three Z lead screws under a kinematic bed, and the EVA 3 carriage. The row covers the 3.1 and the 3.2H upgrade kit (2025), which adds two Y motors for a hybrid gantry and needs the Enclosure 2.0. Replaced by the Rat Rig V-Core 4.1. |
+| About | Scalable CoreXY on a 3030 T-slot frame with MGN12 rails on all axes and stacked 9 mm belts. Three Z lead screws carry a kinematic bed, and the toolhead uses the EVA 3 carriage. The row covers the 3.1 and the 3.2H upgrade kit (2025), which adds two Y motors for a hybrid gantry and needs the Enclosure 2.0. Replaced by the Rat Rig V-Core 4.1. |
 | Build volume (X×Y×Z) | 300: 300×300×300<br>400: 400×400×400<br>500: 500×500×500 |
 | Exterior (W×D×H) | 300: 518×583×560<br>400: 618×683×660<br>500: 718×783×760 |
 | Latest version | 3.2H<br>[2025-07](https://github.com/Rat-Rig/RatRig-PrintedParts/commit/fb8e395696ec78e6ae29a135dae008f4754d30c4) |

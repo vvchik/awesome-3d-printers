@@ -9,7 +9,7 @@
 | Section | Concepts and prototypes |
 | Project page | [https://www.youtube.com/watch?v=JCcKdnAFfds](https://www.youtube.com/watch?v=JCcKdnAFfds) |
 | Author | RobertGcode |
-| About | Palm-sized Cartesian bedslinger and functional design exercise with a 24 mm print cube; no public build package was located. |
+| About | Palm-sized Cartesian bedslinger and functional design exercise with a 24 mm print cube. No public build package was found. |
 | Build type | Cartesian bedslinger |
 | Build volume (X×Y×Z) | 24×24×24 |
 | Exterior (W×D×H) | 100×100×100 |

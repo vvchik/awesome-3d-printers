@@ -9,7 +9,7 @@
 | Section | CoreXY · Large (≥300 × 300 mm) |
 | Project page | [https://k3d.tech/vostok/](https://k3d.tech/vostok/) |
 | Author | Dmitry Sorkin / K3D |
-| About | Large, open-design Markforged-derived XY/2 IDEX with dual printheads. Russian-language HTML documentation; use your browser’s page translation to read it in English. |
+| About | Large, open-design Markforged-derived XY/2 IDEX with dual printheads. The HTML documentation is in Russian. To read it in English, use the page translation in your browser. |
 | Build volume (X×Y×Z) | M: 400×250×250<br>L: 400×400×400<br>XL: 500×500×500 |
 | Exterior (W×D×H) | — |
 | Latest version | v9.5<br>[2026-09](https://github.com/dmitry-sorkin/k3d-site/commit/92c4b06ff91228bfd0dde3903ce569bfc12d6043) |

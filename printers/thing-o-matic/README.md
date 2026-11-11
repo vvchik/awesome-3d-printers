@@ -9,7 +9,7 @@
 | Section | Historical designs |
 | Project page | [https://www.thingiverse.com/thing:4973](https://www.thingiverse.com/thing:4973) |
 | Author | MakerBot |
-| About | CupCake successor with a new plywood body, 3/8-inch shafts, a stepper-driven cantilever Z stage, Gen4 electronics with USB and endstops, and the Automated Build Platform, a conveyor belt that clears each finished print. |
+| About | CupCake successor with a new plywood body, 3/8-inch shafts and a stepper-driven cantilever Z stage. It has Gen4 electronics with USB and endstops, and the Automated Build Platform, a conveyor belt that clears each finished print. |
 | Build volume (X×Y×Z) | ABP: 100×100×100<br>Acrylic platform: 110×110×120 |
 | Exterior (W×D×H) | 300×300×400 |
 | Latest version | Rev I<br>[2011-05](https://www.thingiverse.com/thing:4973/files) |

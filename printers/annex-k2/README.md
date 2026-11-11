@@ -9,7 +9,7 @@
 | Section | Legacy designs |
 | Project page | [https://github.com/Annex-Engineering/Chhogori-K2](https://github.com/Annex-Engineering/Chhogori-K2) |
 | Author | Annex Engineering |
-| About | Archived moving-bed, enclosed cross-gantry design; the final XY and Z files are labelled beta and alpha. Replaced by the Annex K3. |
+| About | Archived moving-bed, enclosed cross-gantry design. The final XY and Z files are labeled beta and alpha. Replaced by the Annex K3. |
 | Build volume (X×Y×Z) | 250×250×250 |
 | Exterior (W×D×H) | — |
 | Latest version | CAD<br>[2024-04](https://github.com/Annex-Engineering/Chhogori-K2/commit/9a151664698ac46f051df6135afb2e2e730ac703) |

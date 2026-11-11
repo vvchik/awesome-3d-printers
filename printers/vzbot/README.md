@@ -9,7 +9,7 @@
 | Section | CoreXY · Medium (181–299 mm representative X/Y size) |
 | Project page | [https://github.com/VzBoT3D/VzBoT-Vz330](https://github.com/VzBoT3D/VzBoT-Vz330) |
 | Author | VzBot family |
-| About | High-speed CoreXY on a 2020 frame with MGN12 rails on Y, MGN9 on X, and a 2WD or AWD belt drive; one Z motor turns two belt-synced lead screws. The row covers the Vz330 and the smaller [Vz235](https://github.com/VzBoT3D/VzBoT-Vz235), which drops the top hat and offers a four-motor AWD setup. |
+| About | High-speed CoreXY on a 2020 frame. It has MGN12 rails on Y, MGN9 on X, and a 2WD or AWD belt drive. One Z motor turns two belt-synced lead screws. The row covers the Vz330 and the smaller [Vz235](https://github.com/VzBoT3D/VzBoT-Vz235), which drops the top hat and offers a four-motor AWD setup. |
 | Build volume (X×Y×Z) | Vz330: 330×330×400<br>Vz235: 235×235×225 |
 | Exterior (W×D×H) | Vz330: 530×500×570<br>Vz235: — |
 | Latest version | Vz235 V2.4<br>[2023-09](https://github.com/VzBoT3D/VzBoT-Vz235/commit/064705fd7de60a7ddd4127b69d9f973fae7efe71) |

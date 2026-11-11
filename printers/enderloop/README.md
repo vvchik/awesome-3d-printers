@@ -9,7 +9,7 @@
 | Section | Belt |
 | Project page | [https://github.com/mcsgroi/EnderLoop](https://github.com/mcsgroi/EnderLoop) |
 | Author | mcsgroi |
-| About | Ender-3 conveyor conversion still marked work in progress; it has build instructions, printable models, firmware source, a DIY belt option, and stable release snapshots. Files use a noncommercial license. No update since 2021 and no active group. |
+| About | Ender-3 conveyor conversion, still marked work in progress. It has build instructions, printable models, firmware source, a DIY belt option, and stable release snapshots. Files use a noncommercial license. No update since 2021 and no active group. |
 | Build volume (X×Y×Z) | 110×200×∞ |
 | Exterior (W×D×H) | — |
 | Latest version | CAD<br>[2021-02](https://github.com/mcsgroi/EnderLoop/commit/3a32565ad173ba2ad83c9e6f58818ab53eeddd8f) |

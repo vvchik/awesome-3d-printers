@@ -9,7 +9,7 @@
 | Section | Legacy designs |
 | Project page | [https://github.com/Rat-Rig/V-Core-Pro-1.3](https://github.com/Rat-Rig/V-Core-Pro-1.3) |
 | Author | Rat Rig family |
-| About | Final V-Core Pro: a CoreXY on 2020 and 2040 V-slot with 3 mm aluminium plates, MGN15 rails on all axes, and a three-point kinematic bed on three Z motors with TR8x8 lead screws. It ships with the EVA 2 carriage and is also an upgrade kit for the Pro 1.1 and 1.2. Replaced by the Rat Rig V-Core 3. No update since 2021-03. |
+| About | Final V-Core Pro: a CoreXY on 2020 and 2040 V-slot with 3 mm aluminum plates and MGN15 rails on all axes. Its three-point kinematic bed rides on three Z motors with TR8x8 lead screws. It ships with the EVA 2 carriage and is also an upgrade kit for the Pro 1.1 and 1.2. Replaced by the Rat Rig V-Core 3. No update since 2021-03. |
 | Build volume (X×Y×Z) | 300: 300×300×300<br>400: 400×400×400<br>500: 500×500×500 |
 | Exterior (W×D×H) | — |
 | Latest version | Pro 1.3<br>[2021-03](https://github.com/Rat-Rig/V-Core-Pro-1.3/commit/9c0d56da3873094cb1c4e60dda2a2c02fb13f4dd) |

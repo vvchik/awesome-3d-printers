@@ -9,7 +9,7 @@
 | Section | Conversions |
 | Project page | [https://github.com/FrankenVoron/Tridex](https://github.com/FrankenVoron/Tridex) |
 | Author | FrankenVoron |
-| About | Advanced Trident-derived IDEX for dual-material printing; the creator says it may eventually become release-worthy, and documentation is still in progress. |
+| About | Advanced Trident-derived IDEX for dual-material printing. The creator does not call it release-ready yet, and the documentation is still in progress. |
 | Build volume (X×Y×Z) | single toolhead: 225×250×250<br>dual toolhead: 205×250×250 |
 | Exterior (W×D×H) | — |
 | Latest version | CAD<br>[2023-01](https://github.com/FrankenVoron/Tridex/commit/e81abf1519dcd1ead141bc3ad16c281365a4d6df) |

@@ -9,7 +9,7 @@
 | Section | Legacy designs |
 | Project page | [https://github.com/BCN3D/BCN3DSigma-Mechanics](https://github.com/BCN3D/BCN3DSigma-Mechanics) |
 | Author | BCN3D Technologies |
-| About | IDEX printer with two independent heads on one X beam and a welded aluminium unibody frame, released with SolidWorks CAD, drawings and BOMs. The row covers the Sigma, the Sigma R19 and the wide Sigmax. No update since 2019-10. |
+| About | IDEX printer with two independent heads on one X beam and a welded aluminum unibody frame. It was released with SolidWorks CAD, drawings and BOMs. The row covers the Sigma, the Sigma R19 and the wide Sigmax. No update since 2019-10. |
 | Build volume (X×Y×Z) | Sigma, R19: 210×297×210<br>Sigmax: 420×297×210 |
 | Exterior (W×D×H) | Sigma, R19: 465×440×?<br>Sigmax: 675×440×? |
 | Latest version | v0.1<br>[2019-10](https://github.com/BCN3D/BCN3DSigmaR19/releases/tag/v0.1) |

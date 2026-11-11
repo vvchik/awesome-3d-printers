@@ -9,7 +9,7 @@
 | Section | CoreXY · Large (≥300 × 300 mm) |
 | Project page | [https://github.com/RoyBerntsenDesign/Project-Valkyrie](https://github.com/RoyBerntsenDesign/Project-Valkyrie) |
 | Author | Roy Berntsen / PRO 3D |
-| About | High-temperature CoreXY with a 110 °C active chamber, a water-cooled hotend for up to 500 °C, a heated drybox and three belt-lift Z axes. V2 is a full redesign of V1, which ran from 2022 to 2024. |
+| About | High-temperature CoreXY with a 110 °C active chamber and a water-cooled hotend for up to 500 °C. It also has a heated drybox and three belt-lift Z axes. V2 is a full redesign of V1, which ran from 2022 to 2024. |
 | Build volume (X×Y×Z) | 330×300×280 |
 | Exterior (W×D×H) | — |
 | Latest version | V2.0.0-rc.1<br>[2026-10](https://github.com/RoyBerntsenDesign/Project-Valkyrie/releases/tag/V2.0.0-rc.1) |

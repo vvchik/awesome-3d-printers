@@ -9,7 +9,7 @@
 | Section | CoreXY · Medium (181–299 mm representative X/Y size) |
 | Project page | [https://www.youtube.com/playlist?list=PLRrkC8b4XLig8odCiBDuxA58ZgszBqeMb](https://www.youtube.com/playlist?list=PLRrkC8b4XLig8odCiBDuxA58ZgszBqeMb) |
 | Author | Техно Лаборатория |
-| About | "3D printer without a 3D printer": a Russian-language CoreXY tutorial series with an English audio track available; assembled from stock parts and metal blanks with simple tools, without preprinted parts. |
+| About | "3D printer without a 3D printer": a Russian-language CoreXY tutorial series with an English audio track. You build it from stock parts and metal blanks with simple tools, without preprinted parts. |
 | Build volume (X×Y×Z) | — |
 | Exterior (W×D×H) | — |
 | Latest version | Part 3.2<br>[2025-08](https://www.youtube.com/watch?v=yq7GaFnIq_o) |

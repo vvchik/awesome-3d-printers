@@ -9,7 +9,7 @@
 | Section | Legacy designs |
 | Project page | [https://www.thingiverse.com/thing:4487878](https://www.thingiverse.com/thing:4487878) |
 | Author | longlh / looong-made |
-| About | CoreXY with a 100 × 100 × 100 mm print volume, fixed bed, and belt-driven Z; an involved self-sourced build. No update since 2020 and no active group. |
+| About | CoreXY with a 100 × 100 × 100 mm print volume, fixed bed, and belt-driven Z. The build is involved, and you source all parts yourself. No update since 2020 and no active group. |
 | Build volume (X×Y×Z) | 100×100×100 |
 | Exterior (W×D×H) | — |
 | Latest version | First release<br>[2020-06](https://www.thingiverse.com/thing:4487878) |

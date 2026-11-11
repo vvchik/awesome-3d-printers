@@ -9,7 +9,7 @@
 | Section | Legacy designs |
 | Project page | [https://github.com/campy/UlticampyV3](https://github.com/campy/UlticampyV3) |
 | Author | Juan Campillos / 3DCampy |
-| About | Ultimaker-style cross-gantry printer in a closed box of CNC-cut panels, built from RepRap parts with a Bowden feed and bronze bushings. V1 has an MDF frame, V2 has black panels, and V3 adds SolidWorks sources and CAM files. No update since 2015-10. |
+| About | Ultimaker-style cross-gantry printer in a closed box of CNC-cut panels. It uses RepRap parts with a Bowden feed and bronze bushings. V1 has an MDF frame, V2 has black panels, and V3 adds SolidWorks sources and CAM files. No update since 2015-10. |
 | Build volume (X×Y×Z) | 225×235×200 |
 | Exterior (W×D×H) | — |
 | Latest version | CAD<br>[2015-10](https://github.com/campy/UlticampyV3/commit/ebac48152278c8273b3421cc69940f300ca900f8) |

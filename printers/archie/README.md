@@ -9,7 +9,7 @@
 | Section | Legacy designs |
 | Project page | [https://www.thingiverse.com/thing:4591379](https://www.thingiverse.com/thing:4591379) |
 | Author | Alex Korvin Workshop |
-| About | Rotary delta printer: three geared motors swing printed arms, and the frame is laminated chipboard. Versions: Mk3 (2019) with STEP files and Mk4 (2020) with STL files, both shown in a Russian build series, and a Mk5 build series started in 2025 without public files. No update since 2020-09. |
+| About | Rotary delta printer: three geared motors swing printed arms, and the frame is laminated chipboard. Versions: Mk3 (2019) with STEP files and Mk4 (2020) with STL files, both shown in a Russian build series. A Mk5 build series started in 2025, without public files. No update since 2020-09. |
 | Build volume (X×Y×Z) | — |
 | Exterior (W×D×H) | — |
 | Latest version | Mk4 Files<br>[2020-09](https://www.thingiverse.com/thing:4591379/files) |

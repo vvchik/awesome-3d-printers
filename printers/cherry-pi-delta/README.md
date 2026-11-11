@@ -8,8 +8,8 @@
 | --- | --- |
 | Section | Legacy designs |
 | Project page | [https://www.thingiverse.com/thing:543303](https://www.thingiverse.com/thing:543303) |
-| Author | AndyCart |
-| About | Fourth version of the delta, after the [Cherry Pi](https://www.thingiverse.com/thing:210028) (2013), the [Cherry Pi II](https://www.thingiverse.com/thing:298168) (2014) and the [Cherry Pi III](https://www.thingiverse.com/thing:344408) (2014). It joins the effector with Spectra line and springs. No update since 2014-11. |
+| Author | Andy Carter |
+| About | Fourth version of the delta. It follows the [Cherry Pi](https://www.thingiverse.com/thing:210028) (2013), the [Cherry Pi II](https://www.thingiverse.com/thing:298168) (2014) and the [Cherry Pi III](https://www.thingiverse.com/thing:344408) (2014). It joins the effector with Spectra line and springs. No update since 2014-11. |
 | Build volume (X×Y×Z) | — |
 | Exterior (W×D×H) | — |
 | Latest version | IIIS<br>[2014-11](https://www.thingiverse.com/thing:543303) |

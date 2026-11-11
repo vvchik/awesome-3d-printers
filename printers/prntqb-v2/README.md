@@ -8,7 +8,7 @@
 | --- | --- |
 | Section | Legacy designs |
 | Project page | [https://www.thingiverse.com/thing:368902](https://www.thingiverse.com/thing:368902) |
-| Author | AndyCart |
+| Author | Andy Carter |
 | About | Low-cost CoreXY on a 2020 frame, with a target cost under £100. Spectra fishing line replaces the belts. Igus plastic bushings run on cheap steel tube instead of ground rods. It follows the belted [Core XY PrntQB](https://www.thingiverse.com/thing:313048) (V1). The later V3 and V4 exist only in videos, without files. No update since 2014-07. |
 | Build volume (X×Y×Z) | — |
 | Exterior (W×D×H) | — |

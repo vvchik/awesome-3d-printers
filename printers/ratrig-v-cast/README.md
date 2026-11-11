@@ -9,7 +9,7 @@
 | Section | Legacy designs |
 | Project page | [https://lab.ratrig.com/vcast_1_5/](https://lab.ratrig.com/vcast_1_5/) |
 | Author | Rat Rig family |
-| About | Cartesian bed slinger on 3030 extrusion with single or IDEX toolheads and an optional wider "Wide Boy" frame for full IDEX travel. Versions: 1.0 sold as a kit from 2020 to 2022, and 1.5 is an unsold prototype update with a reworked X drive and dual Y motors. No update since 2022-10. |
+| About | Cartesian bed slinger on 3030 extrusion with single or IDEX toolheads. An optional wider "Wide Boy" frame gives full IDEX travel. Versions: 1.0 sold as a kit from 2020 to 2022, and 1.5 is an unsold prototype update with a reworked X drive and dual Y motors. No update since 2022-10. |
 | Build volume (X×Y×Z) | 300×300×? |
 | Exterior (W×D×H) | — |
 | Latest version | 1.5<br>[2022-10](https://lab.ratrig.com/vcast_1_5/) |

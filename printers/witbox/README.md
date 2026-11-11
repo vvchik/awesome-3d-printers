@@ -9,7 +9,7 @@
 | Section | Legacy designs |
 | Project page | [https://github.com/bq/witbox-2](https://github.com/bq/witbox-2) |
 | Author | bq |
-| About | Enclosed Spanish desktop printer with a moving XY head and a Z bed, sold fully assembled and released with CC BY-SA sources. Versions: the first Witbox with Inventor, STEP, and FreeCAD files, and the 2015 Witbox 2 with a STEP model and electronics sources. No update since 2016-04. |
+| About | Enclosed Spanish desktop printer with a moving XY head and a Z bed. It was sold fully assembled, with CC BY-SA sources. Versions: the first Witbox with Inventor, STEP, and FreeCAD files, and the 2015 Witbox 2 with a STEP model and electronics sources. No update since 2016-04. |
 | Build volume (X×Y×Z) | 2: 297×210×200 |
 | Exterior (W×D×H) | — |
 | Latest version | 2 STEP<br>[2015-11](https://github.com/bq/witbox-2/commit/f4445575270c3df5d6a8b3285e9c9b3b22cb3ff1) |

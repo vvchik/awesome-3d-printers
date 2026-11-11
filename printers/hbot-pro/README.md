@@ -9,7 +9,7 @@
 | Section | Legacy designs |
 | Project page | [https://github.com/campy/Hbot](https://github.com/campy/Hbot) |
 | Author | 3DCampy / 3DEspana |
-| About | Single-belt H-bot from a former Spanish vendor, with SolidWorks CAD, DXF panels, and Duet firmware; documents are in Spanish. No update since 2022. |
+| About | Single-belt H-bot from a former Spanish vendor, with SolidWorks CAD, DXF panels, and Duet firmware. The documents are in Spanish. No update since 2022. |
 | Build volume (X×Y×Z) | 325×325×400 |
 | Exterior (W×D×H) | 550×630×630 |
 | Latest version | CAD<br>[2022-03](https://github.com/campy/Hbot/commit/8f550f7288705a9960774d909cd47a718f97e8a6) |

@@ -9,7 +9,7 @@
 | Section | Conversions |
 | Project page | [https://www.printables.com/model/922401-ender-3-ng-v12-corexy-conversion](https://www.printables.com/model/922401-ender-3-ng-v12-corexy-conversion) |
 | Author | RH3D |
-| About | Ender-3 CoreXY conversion with a dedicated guide; the listed volume is from a creator beta build. Versions are the 2023 beta and v1.2. |
+| About | Ender-3 CoreXY conversion with a dedicated guide. The listed volume is from a creator beta build. Versions are the 2023 beta and v1.2. |
 | Build volume (X×Y×Z) | 235×235×245 |
 | Exterior (W×D×H) | — |
 | Latest version | Log<br>[2025-06](https://www.printables.com/model/922401-ender-3-ng-v12-corexy-conversion) |
