@@ -35,6 +35,7 @@
 ## Mods and variants
 
 - [DoomCube](https://github.com/FrankenVoron/DoomCube-2) by FrankenVoron: swaps the Voron 2.4 verticals for 4040 extrusions to leave room for insulation. It moves the Z drives and low-voltage electronics to the top and the mains parts to the bottom. Work in progress. GPL-3.0.
+- [GrandeStealthChanger](https://github.com/BlackShadeOSS/Voron2.4-GrandeStealthChanger) by BlackShade: upsizes the Voron 2.4r2 to a 4040 frame with a resized Monolith gantry, so StealthChanger tools keep the full 350×350 bed. STEP and Fusion files only, no BOM or build guide. CC BY-SA (Thingiverse).
 - [CrookedCrow](https://github.com/RobMink/CrookedCrow) by Rob Mink: uses the four Z motors to tilt the gantry for angled, belt-style printing, with a Klipper module that sets the angle. MIT.
 - [the moron](https://github.com/Annex-Engineering/the_moron) by Annex Engineering: a Portal-themed Voron 2.2 300 build, shared as one zipped CAD model with no instructions. ANNEX Engineering EULA (non-commercial).
 
