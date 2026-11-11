@@ -21,7 +21,7 @@
 ## Pictures (3)
 
 <table>
-<tr><td align="center" width="33%"><a href="0-cherry-pi-delta.jpg"><img src="0-cherry-pi-delta.jpg" width="260" alt="Cherry Pi IIIS picture 0"></a><br><sub>Photo: <a href="https://www.thingiverse.com/AndyCart">AndyCart</a></sub></td><td align="center" width="33%"><a href="1-cherry-pi-delta.jpg"><img src="1-cherry-pi-delta.jpg" width="260" alt="Cherry Pi IIIS picture 1"></a><br><sub>Photo: pugzor</sub></td><td align="center" width="33%"><a href="2-cherry-pi-delta.jpg"><img src="2-cherry-pi-delta.jpg" width="260" alt="Cherry Pi IIIS picture 2"></a><br><sub>Photo: <a href="https://www.youtube.com/@andycart99">Andy Carter</a></sub></td></tr>
+<tr><td align="center" width="33%"><a href="0-cherry-pi-delta.jpg"><img src="0-cherry-pi-delta.jpg" width="260" alt="Cherry Pi IIIS picture 0"></a><br><sub>Photo: <a href="https://www.thingiverse.com/AndyCart">Andy Carter</a></sub></td><td align="center" width="33%"><a href="1-cherry-pi-delta.jpg"><img src="1-cherry-pi-delta.jpg" width="260" alt="Cherry Pi IIIS picture 1"></a><br><sub>Photo: pugzor</sub></td><td align="center" width="33%"><a href="2-cherry-pi-delta.jpg"><img src="2-cherry-pi-delta.jpg" width="260" alt="Cherry Pi IIIS picture 2"></a><br><sub>Photo: <a href="https://www.youtube.com/@andycart99">Andy Carter</a></sub></td></tr>
 </table>
 
 ## Other homes of the files
